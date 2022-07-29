@@ -1,6 +1,17 @@
-H1 Moja droga do IT 
+# Moja droga do IT 
+---
+Cześć! 
+Mam na imię Kamil, jestem magistrem historii i mam 28 (wkrótce 29) lat. Doświadczyłem w swoim życiu sporo: kiepska praca fizyczna, bez rozwojowe korpo, bezrobocie czy żenująca walka o posadę z najniższą krajową płacą. Kiedy dowiedziałem się, że na ostatnią posadę, na którą składałem CV rywalizować musiałem z około 80 innymi osobami (pracę mógłby wykonywać kompletnie każdy, ale do walki o posadę w szranki stanęło kilkunastu magistrów) podjąłem decyzję o przebranżowieniu. 
 
-H2 Testy mermaid 
+Studia historyczne, hobby i humanistyczne pasje nie kojarzą się za mocno z programowaniem, jednak uważam, że takie holistyczne przygotowanie dają mi mocny fundament pod nowe życiowe okoliczności. 
+
+W tym repozytorium będę dokumentował całą moją drogę do stania się programistą. Uczę się od innych, jednak w nadmiarze informacji łatwo się zgubić, stąd być może moje rozważania i wykarzczowana przeze mnie droga pomoże w przyszłości komuś innemu. Czas pokaże.
+
+Per Aspera Ad Astra.
+
+---
+
+## Testy mermaid 
 
 Flowchart
 
