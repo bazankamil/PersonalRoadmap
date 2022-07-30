@@ -1,6 +1,14 @@
 # Moja droga do IT 
 ---
-Cześć! 
+
+## **Spis Treści**
+
+WIP
+
+---
+## Wstęp
+
+Cześć! <p>
 Mam na imię Kamil, jestem magistrem historii i mam 28 (wkrótce 29) lat. Doświadczyłem w swoim życiu sporo: kiepska praca fizyczna, bez rozwojowe korpo, bezrobocie czy żenująca walka o posadę z najniższą krajową płacą. Kiedy dowiedziałem się, że na ostatnią posadę, na którą składałem CV rywalizować musiałem z około 80 innymi osobami (pracę mógłby wykonywać kompletnie każdy, ale do walki o posadę w szranki stanęło kilkunastu magistrów) podjąłem decyzję o przebranżowieniu. 
 
 Studia historyczne, hobby i humanistyczne pasje nie kojarzą się za mocno z programowaniem, jednak uważam, że takie holistyczne przygotowanie dają mi mocny fundament pod nowe życiowe okoliczności. 
@@ -11,11 +19,17 @@ Per Aspera Ad Astra.
 
 ---
 
-## Testy mermaid 
+### Początki
+14.07 - 17.07
 
-Flowchart
+Flowchart - początki
 
 ```mermaid
 flowchart
   A--->B
 ```
+---
+### Pierwszy tydzień
+18.07 - 24.07
+
+Flowchart- pierwszy tydzień nauki
