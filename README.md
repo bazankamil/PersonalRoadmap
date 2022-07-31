@@ -22,11 +22,15 @@ Per Aspera Ad Astra.
 ### Początki
 14.07 - 17.07
 
-Flowchart - początki
+Opis. Książka 20% Kurs cały, webinary średnie, Github konto i szperanie, Markdown, cheatshet
 
 ```mermaid
 flowchart
-  A--->B
+  A([Al Sweigart 'Automatyzacja Nudnych zadań z Pythonem'])-->B([Webinar])
+  A-->C{CS50T}
+  A-->D([Webinar])
+  C-->E([GitHub])
+  C-->F([Markdown])
 ```
 ---
 ### Pierwszy tydzień
