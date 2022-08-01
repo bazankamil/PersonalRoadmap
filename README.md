@@ -21,8 +21,9 @@ Per Aspera Ad Astra.
 
 ### Początki
 14.07 - 17.07
-
-Opis. Książka 20% Kurs cały, webinary średnie, Github konto i szperanie, Markdown, cheatshet
+Na początku było sporo filmików na YT dlaczego warto zacząć. Po podjęciu decyzji sięgnąlem po książkę Al Sweigarta "Automatyzacja nudnych zadań z Pythonem" ale po około 20% porzuciłem ją- inne rzeczy o wiele bardziej mnie podjarały, ale jeszcze do niej wrócę. 
+Później były 2 webinary "jak wejść do IT" i o początkach w .NET. Raczej średnie, ponieważ oba skończyły się próbą sprzedaży bardzo drogich kursów i/lub Codecampów. 
+Założyłem też konto na Githubie i stworzyłem własny cheatsheet "Markdown". Spodobało mi się pisanie dokumentacji, więc własna ściąga się przyda.
 
 ```mermaid
 flowchart
