@@ -38,3 +38,14 @@ flowchart
 18.07 - 24.07
 
 Flowchart- pierwszy tydzień nauki
+
+```mermaid
+flowchart
+A([Sololearn Python])-->B{CS50S}
+B-->D([Research Frontend])
+A-->C{Git + Github}
+C-->E([Mermaid])
+```
+
+### Drugi tydzień
+25.07 - 31.07
