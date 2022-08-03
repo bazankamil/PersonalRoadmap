@@ -36,8 +36,11 @@ flowchart
 ---
 ### Pierwszy tydzień
 18.07 - 24.07
-
-Flowchart- pierwszy tydzień nauki
+Nowy tydzień zaczęty od konta i aplikacji "Sololearn". Bardzo fajny dodatek- autobus, kolejka u lekarza, brak dostępu do komputera= mała 2min lekcja w apce. Nie jest idealnie, ale wypełnia świetną nisze, czyli "martwe chwile" w których nie masz dostępu do spokojnej nauki w domu przy PC.
+Git
+Research Frontend
+CS50S
+Mermaid
 
 ```mermaid
 flowchart
