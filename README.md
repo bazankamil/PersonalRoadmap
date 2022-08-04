@@ -1,11 +1,9 @@
 # Moja droga do IT 
----
 
 ## **Spis Treści**
 
 WIP
 
----
 ## Wstęp
 
 Cześć! <p>
@@ -21,8 +19,8 @@ Per Aspera Ad Astra.
 
 ### Początki
 14.07 - 17.07
-Na początku było sporo filmików na YT dlaczego warto zacząć. Po podjęciu decyzji sięgnąlem po książkę Al Sweigarta "Automatyzacja nudnych zadań z Pythonem" ale po około 20% porzuciłem ją- inne rzeczy o wiele bardziej mnie podjarały, ale jeszcze do niej wrócę. 
-Później były 2 webinary "jak wejść do IT" i o początkach w .NET. Raczej średnie, ponieważ oba skończyły się próbą sprzedaży bardzo drogich kursów i/lub Codecampów. 
+Na początku było sporo filmików na YT dlaczego warto zacząć. Po podjęciu decyzji sięgnąlem po książkę Al Sweigarta "Automatyzacja nudnych zadań z Pythonem" ale po około 20% porzuciłem ją- inne rzeczy o wiele bardziej mnie podjarały, ale jeszcze do niej wrócę.\
+Później były 2 webinary "jak wejść do IT" i o początkach w .NET. Raczej średnie, ponieważ oba skończyły się próbą sprzedaży bardzo drogich kursów i/lub Codecampów.\
 Założyłem też konto na Githubie i stworzyłem własny cheatsheet "Markdown". Spodobało mi się pisanie dokumentacji, więc własna ściąga się przyda.
 
 ```mermaid
@@ -36,11 +34,10 @@ flowchart
 ---
 ### Pierwszy tydzień
 18.07 - 24.07
-Nowy tydzień zaczęty od konta i aplikacji "Sololearn". Bardzo fajny dodatek- autobus, kolejka u lekarza, brak dostępu do komputera= mała 2min lekcja w apce. Nie jest idealnie, ale wypełnia świetną nisze, czyli "martwe chwile" w których nie masz dostępu do spokojnej nauki w domu przy PC.
-Git
-Research Frontend
-CS50S
-Mermaid
+Nowy tydzień zaczęty od konta i aplikacji "Sololearn". Bardzo fajny dodatek- autobus, kolejka u lekarza, brak dostępu do komputera= mała 2min lekcja w apce. Nie jest idealnie, ale wypełnia świetną nisze, czyli "martwe chwile" w których nie masz dostępu do spokojnej nauki w domu przy PC.\
+Kolejny wpadł kurs Youtube na obsługę Gita (git add, git commit, git push etc.)\
+Ogarnąłem też cały kurs Harvardzki CS50S (Programowanie w Scratch) świetna sprawa na wprowadzenie do programowania.\
+Na końcu wpadł mały kursik w Mermaid czyli niejako "dodatku" do Markdown, ktory pozwala tworzyć takie właśnie drzewka jak w tym dokumencie. 
 
 ```mermaid
 flowchart
@@ -50,5 +47,9 @@ A-->C{Git + Github}
 C-->E([Mermaid])
 ```
 
+---
 ### Drugi tydzień
 25.07 - 31.07
+
+### Trzeci tydzień
+01.08 - 07.08
