@@ -54,4 +54,13 @@ C-->E([Mermaid])
 Tydzień zdominowany przez freeCodeCamp. Wielu poleca za solidne Curriculum i techniczne podejście do sprawy.\
 FreeCodeCamp zaczyna się od bloku "(New) Responsive Web Design" który uczy technologii HTML i CSS. Moim zdaniem świetne podejście twórców: najpierw uczą podając w zasadzie pełne rozwiązanie, za drugim razem dają wskazówkę, a za kolejnymi podają polecenie, a uczący już sam musi dojść do rozwiązania. 
 Webinary- wpadły kolejne trzy na żywo i od polskich twórców. Niestety realnie przydatnych informacji już nie uświadczyłem. Każdy zachwalał akurat tę technologię, w której miał do sprzedania kurs, do tego za każdym razem używany był wątpliwy moralnie sposób sprzedaży: kurs warty 20tyś, obniżam wam do 6tyś a dodatkowo przez kolejne 45minut sprzedam wam go za 3tyś. Nie lubię takiego marketingu. Ogólnie były to ostatnie webinary: razem od początku nauki zaliczyłem ich pięć, czasowo około 1,5h na każdy, więc 7,5h spędzone na webinarach. Jedyny plus, że w trakcie webinarów posprzątałem sobie pokój i uporządkowałem inne sprawy, czy warto? Zdecydowanie nie.\
-Do dodania: ilość nauki na dzień, pogoda, praktyka, Mermaid
+Ciągle mam zagwozdkę odnośnie ilości nauki na dzień. Na tą chwilę uczę się dziennie po 3-4h, 6 dni w tygodniu co daje średnio 20h tygodniowo. Sądzę że jest to na granicy wytrzymałości, gdybym dodał te kilka godzin tygodniowo pewnie ryzykuję wypaleniem. Zostanę więc przy tym.\
+Ach jeszcze jedna sprawa: uczenie się w blokach. Lepiej jest mieć 2 bloki po 2h, lub 3 bloki (2h, 1h, 1h) niż w kawałku, i zdrowsze i informacje lepiej wchodzą. 
+
+```mermaid
+flowchart
+A{freeCodeCamp}-->B([Webinar])
+A-->C([Webinar])
+```
+
+### Czwarty tydzień
