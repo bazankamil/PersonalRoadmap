@@ -18,9 +18,10 @@ Per Aspera Ad Astra.
 ---
 
 ### Początki plus pierwszy tydzień
-14.07 - 24.07
+14.07 - 24.07 <p>
 Na początku było sporo filmików na YT dlaczego warto zacząć. Po podjęciu decyzji sięgnąlem po książkę Al Sweigarta "Automatyzacja nudnych zadań z Pythonem" ale po około 20% porzuciłem ją- inne rzeczy o wiele bardziej mnie podjarały, ale jeszcze do niej wrócę.\
 Później były 2 webinary "jak wejść do IT" i o początkach w .NET. Raczej średnie, ponieważ oba skończyły się próbą sprzedaży bardzo drogich kursów i/lub Bootcampów.\
+Tydzień zdominowany głównie przez kurs CS50T- wprowadzenie do IT.
 Założyłem też konto na Githubie i stworzyłem własny cheatsheet "Markdown". Spodobało mi się pisanie dokumentacji, więc własna ściąga się przyda.
 
 ```mermaid
@@ -33,11 +34,12 @@ flowchart
 ```
 ---
 ### Drugi tydzień
-24.07 - 31.07
+24.07 - 31.07 <p>
 Nowy tydzień zaczęty od konta i aplikacji "Sololearn". Bardzo fajny dodatek- autobus, kolejka u lekarza, brak dostępu do komputera= mała 2min lekcja w apce. Nie jest idealnie, ale wypełnia świetną nisze, czyli "martwe chwile" w których nie masz dostępu do spokojnej nauki w domu przy PC.\
 Kolejny wpadł kurs Youtube na obsługę Gita (git add, git commit, git push etc.)\
 Ogarnąłem też cały kurs Harvardzki CS50S (Programowanie w Scratch) świetna sprawa na wprowadzenie do programowania.\
-Na końcu wpadł mały kursik w Mermaid czyli niejako "dodatku" do Markdown, ktory pozwala tworzyć takie właśnie drzewka jak w tym dokumencie.
+Na końcu wpadł mały kursik w Mermaid czyli niejako "dodatku" do Markdown, ktory pozwala tworzyć takie właśnie drzewka jak w tym dokumencie.\
+W ciągu tygodnia ciągle czytałem o technologiach i powtarzającą się radą ciągle było, by zacząć od Frontendu (HTML, CSS, JS) więc na tym będę się skupiał. 
 
 ```mermaid
 flowchart
@@ -49,7 +51,7 @@ C-->E([Mermaid])
 ---
 
 ### Trzeci tydzień
-01.08 - 07.08
+01.08 - 07.08 <p>
 
 Tydzień zdominowany przez freeCodeCamp. Wielu poleca za solidne Curriculum i techniczne podejście do sprawy.\
 FreeCodeCamp zaczyna się od bloku "(New) Responsive Web Design" który uczy technologii HTML i CSS. Moim zdaniem świetne podejście twórców: najpierw uczą podając w zasadzie pełne rozwiązanie, za drugim razem dają wskazówkę, a za kolejnymi podają polecenie, a uczący już sam musi dojść do rozwiązania. 
@@ -61,6 +63,13 @@ Ach jeszcze jedna sprawa: uczenie się w blokach. Lepiej jest mieć 2 bloki po 2
 flowchart
 A{freeCodeCamp}-->B([Webinar])
 A-->C([Webinar])
+A-->D([Webinar])
 ```
 
 ### Czwarty tydzień
+
+8.08 - 14.08
+
+CS50x
+flex po polsku i żabki
+wprowadzenie do Odina
