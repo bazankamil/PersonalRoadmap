@@ -70,6 +70,8 @@ A-->D([Webinar])
 
 8.08 - 14.08
 
+W tym tygodniu głównie skupiam się na kursie CS50x. Pierwsze lekcje kładą duży nacisk na myślenie programistyczne (problem-solving, pseudocode etc.) Poza teorią z praktyki implementowany jest w pierwszym tygodniu Scratch (aplikacja do nauki programowania wydana przez MiT) a od drugiego tygodnia "C" Trochę archaiczny język, ale syntax nie odbiega za bardzo od np. Pythona. 
+WIP
 CS50x
 flex po polsku i żabki
 wprowadzenie do Odina
