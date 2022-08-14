@@ -65,6 +65,7 @@ A{freeCodeCamp}-->B([Webinar])
 A-->C([Webinar])
 A-->D([Webinar])
 ```
+---
 
 ### Czwarty tydzień
 
@@ -73,10 +74,14 @@ A-->D([Webinar])
 W tym tygodniu głównie skupiam się na kursie CS50x. Pierwsze lekcje kładą duży nacisk na myślenie programistyczne (problem-solving, pseudocode etc.) Poza teorią z praktyki implementowany jest w pierwszym tygodniu Scratch (aplikacja do nauki programowania wydana przez MiT) a od drugiego tygodnia "C" Trochę archaiczny język, ale syntax nie odbiega za bardzo od np. Pythona. Zadania domowe nie są łatwe, ale terminal wyrzuca błędy wraz z podpowiedzią, gdzie błąd się znajduje- jest więc dobrze. Na spokojnie z notatkami ogarnąłem tydzień 0 i tydzień 1 cały wraz z zadaniami. Z 2 tygodnia zostały mi jedynie zadania do zrobienia.\
 Dla urozmaicenia potrenowałem też flexbox z CSS, rozwiązałem wszystkie zadania w "flexbox froggy" i bawiłem się DevToolsem na różnych stronach, nie mogę powiedzieć, że wszystko rozumiem, ale czuję się z tym coraz swobodniej.\
 Ogarnąłem jeszcze jeden mały tutorial podstaw HTML i CSS- 95% było mi znane i zrozumiałe, więc jeszcze kilka małych projektów i będe czuł się z tym swobodnie.\
-Odin research
+W tym tygodniu wpadłem także na "The Odin Project" i oglądając ichniejsze "Curriculum" bardzo dobra wydaje się pierwsza część całego projektu, czyli "Foundations" nie chce się za bardzo rozdrabniać, jednak wygląda bardzo kusząco, czas pokaże, czy dołączę i to do materiałów mojej nauki.  
 
 ```mermaid
 flowchart
 A{CS50x}-->B([flexbox])
 A-->C([Powtórka HTML + CSS])
 ```
+
+### Piąty tydzień
+
+15.08 - 21.08
