@@ -85,3 +85,5 @@ A-->C([Powtórka HTML + CSS])
 ### Piąty tydzień
 
 15.08 - 21.08
+
+Ten tydzień zaczynam od powtórzenia materiału- głównie kod HTML, który nie sprawia mi już wielu kłopotów, jednak podczas zadań na freeCodeCamp czasami miałem pewne problemy. Do tego drobnostki, typu "dobór kolorów" do CSS i responsywność na różnych urządzeniach. Ten tydzień będzie składał się głównie z freeCodeCamp, będę dążył do ukończenia pierwszego kursu "Responsive web design" 
