@@ -89,6 +89,13 @@ A-->C([Powtórka HTML + CSS])
 Ten tydzień zaczynam od powtórzenia materiału- głównie kod HTML, który nie sprawia mi już wielu kłopotów, jednak podczas zadań na freeCodeCamp czasami miałem pewne problemy. Do tego drobnostki, typu "dobór kolorów" do CSS i responsywność na różnych urządzeniach. Ten tydzień będzie składał się głównie z freeCodeCamp, będę dążył do ukończenia pierwszego kursu "Responsive web design" 
 Ważna sprawa: nie da się uczyć nowych rzeczy bez końca, ale praktykować można całymi godzinami. To tak jakby uczyć się nowego języka. Nauczenie się 3 tysięcy słów w jeden dzień mija się z celem, ale ćwiczyć rozmówki w obcym języku można cały dzień. Kiedy ilość nowych informacji jest przytłaczająca- trenuj. Wejdź na jakąś stronę w internecie i spróbuj ją odtworzyć w HTML i CSS. Wejdź w "dev-tools" i szperaj, podglądaj, ucz się dobrych praktyk.
 Dopracowuje flexboxa, pracuje nad position:absolute. 
+Dobra porada: kiedy uczysz się HTML czy CSS i wchodzi jakieś nowe zagadanienie (flexbox, grid, selektory, position, variable etc.) wtedy poszukaj dodatkowego małego tutoriala na ten temat na YT (taki około 20min) i doucz się tej jednej konkretnej rzeczy. Mi pomaga! 
+
+```mermaid
+flowchart
+A-->B
+
+```
 
 freecodecamp 
 tutorial position absolute
