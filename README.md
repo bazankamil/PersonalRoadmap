@@ -81,6 +81,7 @@ flowchart
 A{CS50x}-->B([flexbox])
 A-->C([Powtórka HTML + CSS])
 ```
+---
 
 ### Piąty tydzień
 
@@ -99,10 +100,10 @@ A{freeCodeCamp}-->B([HTML])
 A-->C([CSS])
 
 ```
+---
+### Szósty tydzień
 
-
-freecodecamp 
-tutorial position absolute
-tutorial CSS
-trenowanie CSS
-mermaid
+freeCodeCamp
+cs50 zakończyć 3 tydzień
+project odin
+usystematyzować naukę
