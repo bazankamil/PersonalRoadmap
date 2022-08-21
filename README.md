@@ -103,6 +103,8 @@ A-->C([CSS])
 ---
 ### Szósty tydzień
 
+Tydzień porządkowania nauki. Po miesiącu nauki widzę już jaśniej co warto, a czego nie warto się uczyć. Od teraz więcej praktyki, mniej teorii, celem jest także zamiana wielu godzin niby-nauki, na mniej godzin, ale za to "głębokiej pracy".
+
 freeCodeCamp
 cs50 zakończyć 3 tydzień
 project odin
