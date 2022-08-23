@@ -105,6 +105,14 @@ A-->C([CSS])
 
 Tydzień porządkowania nauki. Po miesiącu nauki widzę już jaśniej co warto, a czego nie warto się uczyć. Od teraz więcej praktyki, mniej teorii, celem jest także zamiana wielu godzin niby-nauki, na mniej godzin, ale za to "głębokiej pracy".
 Kolejne powtórki HTML i CSS (flexbox, grid, position, variable, pseudoklasy, selektory)
+Celem jest uczyć się każdego dnia po 4h. Nie miałem od początku żadnych wytycznych, więc uczyłem się pomiędzy 2 a 6 godzin dziennie (kilka razy 0) Myślę, że to unormuje moją naukę. 
+
+```mermaid
+flowchart
+A-->B
+A-->C
+```
+
 
 freeCodeCamp
 cs50 zakończyć 3 tydzień
