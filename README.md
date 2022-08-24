@@ -109,8 +109,12 @@ Celem jest uczyć się każdego dnia po 4h. Nie miałem od początku żadnych wy
 
 ```mermaid
 flowchart
-A-->B
-A-->C
+A{freeCodeCamp}-->B([flexbox])
+A-->C([Grid])
+A-->D([Positions])
+A-->E([Variables])
+A-->F([Pseudo classes])
+A-->G([Selectors])
 ```
 
 
