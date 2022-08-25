@@ -90,7 +90,7 @@ A-->C([Powtórka HTML + CSS])
 Ten tydzień zaczynam od powtórzenia materiału- głównie kod HTML, który nie sprawia mi już wielu kłopotów, jednak podczas zadań na freeCodeCamp czasami miałem pewne problemy. Do tego drobnostki, typu "dobór kolorów" do CSS i responsywność na różnych urządzeniach. Ten tydzień będzie składał się głównie z freeCodeCamp, będę dążył do ukończenia pierwszego kursu "Responsive web design" 
 Ważna sprawa: nie da się uczyć nowych rzeczy bez końca, ale praktykować można całymi godzinami. To tak jakby uczyć się nowego języka. Nauczenie się 3 tysięcy słów w jeden dzień mija się z celem, ale ćwiczyć rozmówki w obcym języku można cały dzień. Kiedy ilość nowych informacji jest przytłaczająca- trenuj. Wejdź na jakąś stronę w internecie i spróbuj ją odtworzyć w HTML i CSS. Wejdź w "dev-tools" i szperaj, podglądaj, ucz się dobrych praktyk.
 Dopracowuje flexboxa, pracuje nad position:absolute. 
-Dobra porada: kiedy uczysz się HTML czy CSS i wchodzi jakieś nowe zagadanienie (flexbox, grid, selektory, position, variable etc.) wtedy poszukaj dodatkowego małego tutoriala na ten temat na YT (taki około 20min) i doucz się tej jednej konkretnej rzeczy. Mi pomaga! 
+Dobra porada: kiedy uczysz się HTML czy CSS i wchodzi jakieś nowe zagadnienie (flexbox, grid, selektory, position, variable etc.) wtedy poszukaj dodatkowego małego tutoriala na ten temat na YT (taki około 20min) i doucz się tej jednej konkretnej rzeczy. Mi pomaga! 
 Tydzień kończę mając za sobą 75% kursu "(New) Responsive Web Design" Zostało mi dopracowanie kilku koncepcji i praktyka. W kolejnym tygodniu skupię się na uporządkowaniu materiałów i odsianiu plew od ziarna.
 Trochę też zwolniłem tempo nauki nowych koncepcji na rzecz większej ilości powtórek. Nauka przy 38 stopniach bez klimatyzacji nie jest łatwa. 
 
@@ -106,6 +106,7 @@ A-->C([CSS])
 Tydzień porządkowania nauki. Po miesiącu nauki widzę już jaśniej co warto, a czego nie warto się uczyć. Od teraz więcej praktyki, mniej teorii, celem jest także zamiana wielu godzin niby-nauki, na mniej godzin, ale za to "głębokiej pracy".
 Kolejne powtórki HTML i CSS (flexbox, grid, position, variable, pseudoklasy, selektory)
 Celem jest uczyć się każdego dnia po 4h. Nie miałem od początku żadnych wytycznych, więc uczyłem się pomiędzy 2 a 6 godzin dziennie (kilka razy 0) Myślę, że to unormuje moją naukę. 
+Jak widać na wykresie głównie skupiam się na freeCodeCamp i na powtórkach poszczególnych działów HTML i CSS. Od następnego tygodnia chcę zacząć Javascript, więc robię mocne podsumowanie. 
 
 ```mermaid
 flowchart
