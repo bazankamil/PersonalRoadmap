@@ -108,7 +108,8 @@ Kolejne powtórki HTML i CSS (flexbox, grid, position, variable, pseudoklasy, se
 Celem jest uczyć się każdego dnia po 4h. Nie miałem od początku żadnych wytycznych, więc uczyłem się pomiędzy 2 a 6 godzin dziennie (kilka razy 0) Myślę, że to unormuje moją naukę. 
 Jak widać na wykresie głównie skupiam się na freeCodeCamp i na powtórkach poszczególnych działów HTML i CSS. Od następnego tygodnia chcę zacząć Javascript, więc robię mocne podsumowanie. 
 Ostatni projekt freeCodeCampu z części o HTML i CSS to zrobienie własnego Portfolio. Nie jestem w 100% zadowolony, ale jest to świetna baza, do której mam zamiar wracać, szlifować, dopracowywać. Tam w przyszłości będą moje projekty, więc każdemu polecam zapisanie kodu w VSC i dopieszczenie go, ile się tylko da. Sam tak będe robił. 
-Skończona fCC jeden projekt do portfolio HTML i CSS powtórki, wykłady i od poniedziałku JS
+Następny tydzień: JavaScript! 
+
 
 ```mermaid
 flowchart
@@ -120,4 +121,9 @@ A-->F([Pseudo classes])
 A-->G([Selectors])
 ```
 
+<img src="1 Responsive Web Design 27 Sierpien 2022.png" alt="fCC1" width=""/>
+
+---
+
+### 7
 project odin
