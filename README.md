@@ -94,6 +94,8 @@ Dobra porada: kiedy uczysz się HTML czy CSS i wchodzi jakieś nowe zagadnienie 
 Tydzień kończę mając za sobą 75% kursu "(New) Responsive Web Design" Zostało mi dopracowanie kilku koncepcji i praktyka. W kolejnym tygodniu skupię się na uporządkowaniu materiałów i odsianiu plew od ziarna.
 Trochę też zwolniłem tempo nauki nowych koncepcji na rzecz większej ilości powtórek. Nauka przy 38 stopniach bez klimatyzacji nie jest łatwa. 
 
+<img src="Sololearn HTML 15 sierpien 2022.jpg" alt="SL1" width=""/>
+
 ```mermaid
 flowchart
 A{freeCodeCamp}-->B([HTML])
@@ -126,4 +128,4 @@ A-->G([Selectors])
 ---
 
 ### 7
-project odin
+Javascript
