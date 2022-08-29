@@ -41,6 +41,8 @@ Ogarnąłem też cały kurs Harvardzki CS50S (Programowanie w Scratch) świetna 
 Na końcu wpadł mały kursik w Mermaid czyli niejako "dodatku" do Markdown, ktory pozwala tworzyć takie właśnie drzewka jak w tym dokumencie.\
 W ciągu tygodnia ciągle czytałem o technologiach i powtarzającą się radą ciągle było, by zacząć od Frontendu (HTML, CSS, JS) więc na tym będę się skupiał. 
 
+<img src="CS50S.png" alt="CS50S" width=""/>
+
 ```mermaid
 flowchart
 A([Sololearn Python])-->B{CS50S}
@@ -127,5 +129,6 @@ A-->G([Selectors])
 
 ---
 
-### 7
-Javascript
+### Siódmy tydzień
+
+Javascript kurs wprowadzający, dokumentacja dla podstaw i freecodecamp
