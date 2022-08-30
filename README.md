@@ -61,6 +61,8 @@ Webinary- wpadły kolejne trzy na żywo i od polskich twórców. Niestety realni
 Ciągle mam zagwozdkę odnośnie ilości nauki na dzień. Na tą chwilę uczę się dziennie po 3-4h, 6 dni w tygodniu co daje średnio 20h tygodniowo. Sądzę że jest to na granicy wytrzymałości, gdybym dodał te kilka godzin tygodniowo pewnie ryzykuję wypaleniem. Zostanę więc przy tym.\
 Ach jeszcze jedna sprawa: uczenie się w blokach. Lepiej jest mieć 2 bloki po 2h, lub 3 bloki (2h, 1h, 1h) niż w kawałku, i zdrowsze i informacje lepiej wchodzą. 
 
+<img src="CS50T.png" alt="CS50T" width=""/>
+
 ```mermaid
 flowchart
 A{freeCodeCamp}-->B([Webinar])
@@ -131,4 +133,4 @@ A-->G([Selectors])
 
 ### Siódmy tydzień
 
-Javascript kurs wprowadzający, dokumentacja dla podstaw i freecodecamp
+Javascript kurs wprowadzający, dokumentacja dla podstaw i freecodecamp dodatkowo podstawy JS 2-3h kursów na YT i sololearn kurs CSS
