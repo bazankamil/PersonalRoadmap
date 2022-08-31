@@ -133,4 +133,7 @@ A-->G([Selectors])
 
 ### Siódmy tydzień
 
-Javascript kurs wprowadzający, dokumentacja dla podstaw i freecodecamp dodatkowo podstawy JS 2-3h kursów na YT i sololearn kurs CSS
+Javascript kurs wprowadzający z freeCodeCamp. Jako, że całą naukę zaczynałem od Pythona, podstawy tutaj są niemal identyczne, różni się jedynie syntax. Variable, functions, arrays, Booleans, if statements (dopisać co będzie dalej)
+W wolnym czasie sololearn
+Dokumentacja
+dokumentacja dla podstaw i freecodecamp dodatkowo podstawy JS 2-3h kursów na YT i sololearn kurs CSS
