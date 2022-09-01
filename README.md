@@ -41,7 +41,7 @@ Ogarnąłem też cały kurs Harvardzki CS50S (Programowanie w Scratch) świetna 
 Na końcu wpadł mały kursik w Mermaid czyli niejako "dodatku" do Markdown, ktory pozwala tworzyć takie właśnie drzewka jak w tym dokumencie.\
 W ciągu tygodnia ciągle czytałem o technologiach i powtarzającą się radą ciągle było, by zacząć od Frontendu (HTML, CSS, JS) więc na tym będę się skupiał. 
 
-<img src="CS50S.png" alt="CS50S" width=""/>
+<img src="./images/CS50S.png" alt="CS50S" width=""/>
 
 ```mermaid
 flowchart
@@ -61,7 +61,7 @@ Webinary- wpadły kolejne trzy na żywo i od polskich twórców. Niestety realni
 Ciągle mam zagwozdkę odnośnie ilości nauki na dzień. Na tą chwilę uczę się dziennie po 3-4h, 6 dni w tygodniu co daje średnio 20h tygodniowo. Sądzę że jest to na granicy wytrzymałości, gdybym dodał te kilka godzin tygodniowo pewnie ryzykuję wypaleniem. Zostanę więc przy tym.\
 Ach jeszcze jedna sprawa: uczenie się w blokach. Lepiej jest mieć 2 bloki po 2h, lub 3 bloki (2h, 1h, 1h) niż w kawałku, i zdrowsze i informacje lepiej wchodzą. 
 
-<img src="CS50T.png" alt="CS50T" width=""/>
+<img src="./images/CS50T.png" alt="CS50T" width=""/>
 
 ```mermaid
 flowchart
@@ -98,7 +98,7 @@ Dobra porada: kiedy uczysz się HTML czy CSS i wchodzi jakieś nowe zagadnienie 
 Tydzień kończę mając za sobą 75% kursu "(New) Responsive Web Design" Zostało mi dopracowanie kilku koncepcji i praktyka. W kolejnym tygodniu skupię się na uporządkowaniu materiałów i odsianiu plew od ziarna.
 Trochę też zwolniłem tempo nauki nowych koncepcji na rzecz większej ilości powtórek. Nauka przy 38 stopniach bez klimatyzacji nie jest łatwa. 
 
-<img src="Sololearn HTML 15 sierpien 2022.jpg" alt="SL1" width=""/>
+<img src="./images/Sololearn HTML 15 sierpien 2022.jpg" alt="SL1" width=""/>
 
 ```mermaid
 flowchart
@@ -127,13 +127,13 @@ A-->F([Pseudo classes])
 A-->G([Selectors])
 ```
 
-<img src="1 Responsive Web Design 27 Sierpien 2022.png" alt="fCC1" width=""/>
+<img src="./images/1 Responsive Web Design 27 Sierpien 2022.png" alt="fCC1" width=""/>
 
 ---
 
 ### Siódmy tydzień
 
-Javascript kurs wprowadzający z freeCodeCamp. Jako, że całą naukę zaczynałem od Pythona, podstawy tutaj są niemal identyczne, różni się jedynie syntax. Variable, functions, arrays, Booleans, if statements (dopisać co będzie dalej)
+Javascript kurs wprowadzający z freeCodeCamp. Jako, że całą naukę zaczynałem od Pythona, podstawy tutaj są niemal identyczne, różni się jedynie syntax. Variable, functions, arrays, Booleans, if statements, switch statements,  (dopisać co będzie dalej)
 W wolnym czasie sololearn
 Dokumentacja
 dokumentacja dla podstaw i freecodecamp dodatkowo podstawy JS 2-3h kursów na YT i sololearn kurs CSS
