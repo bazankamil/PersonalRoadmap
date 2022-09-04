@@ -133,16 +133,18 @@ A-->G([Selectors])
 
 ### Siódmy tydzień
 
-Javascript kurs wprowadzający z freeCodeCamp. Jako, że całą naukę zaczynałem od Pythona, podstawy tutaj są niemal identyczne, różni się jedynie syntax. Variable, functions, arrays, Booleans, if statements, switch statements,  (dopisać co będzie dalej)
-W wolnym czasie na telefonie czy też dla "relaksu" powtarzam sobie na sololearn to co już znam z freeCodeCamp. Niby podstawy, ale sporo dodatkowych informacji można tam znaleźć, więc bardzo polecam. 
+Javascript kurs wprowadzający z freeCodeCamp. Jako, że całą naukę zaczynałem od Pythona, podstawy tutaj są niemal identyczne, różni się jedynie syntax. Variable, functions, arrays, Booleans, if statements, switch statements. Chcę porządnie zrozumieć podstawy, więc sporo powtórzeń i ćwiczeń w VSC. 
+W wolnym czasie na telefonie czy też dla "relaksu" powtarzam sobie na sololearn to co już znam z freeCodeCamp. Niby podstawy, ale sporo dodatkowych informacji można tam znaleźć, więc bardzo polecam. W tym tygodniu udało mi się ukończyć drugi kurs Sololearn, tym razem z CSS. Zacząłem kolejny-JavaScript
+
+<img src="./images/Sololearn CSS 4 wrzesien 2022.jpg" alt="SL1" width=""/>
 
 ```mermaid
 flowchart
-A-->B
+A{freeCodeCamp}-->B([Sololearn CSS])
 ```
+---
 
 (In progress)
 Dokumentacja HTML, CSS, JS 
-dokumentacja dla podstaw i freecodecamp dodatkowo podstawy JS 2-3h kursów na YT i sololearn kurs CSS
-mermaid
+8 tydz. FCC, CS50 odświeżyć i skończyć 3 tyg. sololearn ogarnąć kolejność
 (In progress)
