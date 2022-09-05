@@ -144,7 +144,13 @@ A{freeCodeCamp}-->B([Sololearn CSS])
 ```
 ---
 
+### Ósmy tydzień
+
+Javascript. Na freeCodeCamp oraz równolegle na Sololearn (kiedy nie mogę być przy komputerze- idealne połączenie) 
+
+
 (In progress)
 Dokumentacja HTML, CSS, JS 
 8 tydz. FCC, CS50 odświeżyć i skończyć 3 tyg. sololearn ogarnąć kolejność
+dla urozmaicenia webdesign- czcionki, kolory, rozmiary, responsywność
 (In progress)
