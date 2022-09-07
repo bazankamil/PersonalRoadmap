@@ -147,7 +147,9 @@ A{freeCodeCamp}-->B([Sololearn CSS])
 ### Ósmy tydzień
 
 Javascript. Na freeCodeCamp oraz równolegle na Sololearn (kiedy nie mogę być przy komputerze- idealne połączenie). Każdą funkcję wielokrotnie rozkładam na części pierwsze, powtarzam syntax, żeby "weszło w krew". \
-Założyłem też konto na StackOverflow (przez Githuba) i w wolnych chwilach przeglądam z czym ludzie mają największe problemy, czytam więc na co zwracać uwagę. 
+Założyłem też konto na StackOverflow (przez Githuba) i w wolnych chwilach przeglądam z czym ludzie mają największe problemy, czytam więc na co zwracać uwagę.
+Trzeci raz przechodzę przez pętle (for i while) pierwszy raz w Pythonie, drugi w C (pierwszy tydzień na CS50x) a teraz w Javascript. I nadal miewam problemy. Dużo przykładać się muszę do syntaxu- nawiasy, przecinki, średniki, kropki- z logiką jest całkiem nieźle, ale czasem przez brak średnika tracę sporo czasu.
+
 
 
 (In progress)
