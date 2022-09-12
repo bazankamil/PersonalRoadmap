@@ -158,6 +158,11 @@ A{freeCodeCamp JS}-->B([Sololearn JS])
 A-->C([Webdesign])
 ```
 
+---
+
+### Dziewiąty tydzień
+
+Javascript. Weszły trudniejsze zagadnienia: recursion wraz z  praktycznym użyciem; trochę głębiej w Data Structures wchodzę, sporo kombinowania.
 
 
 (In progress)
