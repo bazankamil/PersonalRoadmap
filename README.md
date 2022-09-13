@@ -150,7 +150,7 @@ Javascript. Na freeCodeCamp oraz równolegle na Sololearn (kiedy nie mogę być 
 Założyłem też konto na StackOverflow (przez Githuba) i w wolnych chwilach przeglądam z czym ludzie mają największe problemy, czytam więc na co zwracać uwagę.
 Trzeci raz przechodzę przez pętle (for i while) pierwszy raz w Pythonie, drugi w C (pierwszy tydzień na CS50x) a teraz w Javascript. I nadal miewam problemy. Dużo przykładać się muszę do syntaxu- nawiasy, przecinki, średniki, kropki- z logiką jest całkiem nieźle, ale czasem przez brak średnika tracę sporo czasu.
 W tym tygodniu poświęciłem też troszkę czasu na wprowadzenie do webdesign- czcionki, kolory, rozmiary i responsywność. Jeszcze muszę pogrzebać w temacie, ale niby proste koncepty a jeszcze wiele zostało do nauki. 
-Skończyłem "Basic JavaScript" na freeCodeCamp. Dla uporządkowania w kolejnym tygodniu zobaczę kilka kursów na YT, żeby usystematyzować wiedzę. Na wykończeniu jest też kurs z podstaw Javascript na Sololearn. Tydzień ten był trudny, sporo nowych koncepcji, troszkę ciężkich chwil i momentów, w kórych czułem, że "utknąłem" Ale nie spodziewałem się niczego innego, więc mentalnie jest dobrze. Kolejny tydzień powtórki, systematyzowanie i coraz głębiej w Javascript!
+Skończyłem "Basic JavaScript" na freeCodeCamp. Dla uporządkowania w kolejnym tygodniu zobaczę kilka kursów na YT, żeby usystematyzować wiedzę. Na wykończeniu jest też kurs z podstaw Javascript na Sololearn. Tydzień ten był trudny, sporo nowych koncepcji, troszkę ciężkich chwil i momentów, w których czułem, że "utknąłem" Ale nie spodziewałem się niczego innego, więc mentalnie jest dobrze. Kolejny tydzień powtórki, systematyzowanie i coraz głębiej w Javascript!
 
 ```mermaid
 flowchart
@@ -162,7 +162,7 @@ A-->C([Webdesign])
 
 ### Dziewiąty tydzień
 
-Javascript. Weszły trudniejsze zagadnienia: recursion wraz z  praktycznym użyciem; trochę głębiej w Data Structures wchodzę, sporo kombinowania.
+Javascript. Weszły trudniejsze zagadnienia: recursion wraz z  praktycznym użyciem; trochę głębiej w Data Structures wchodzę, sporo kombinowania. Jeden dzień nauki zszedł mi prawie w całości na porządkowanie notatek, źródeł, ebooków i wszystkich treści z których miałem zamiar się uczyć. Wyrzuciłem wiele "fluffu". 
 
 
 (In progress)
