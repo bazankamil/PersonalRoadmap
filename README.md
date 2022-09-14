@@ -163,8 +163,10 @@ A-->C([Webdesign])
 ### Dziewiąty tydzień
 
 Javascript. Weszły trudniejsze zagadnienia: recursion wraz z  praktycznym użyciem; trochę głębiej w Data Structures wchodzę, sporo kombinowania. Jeden dzień nauki zszedł mi prawie w całości na porządkowanie notatek, źródeł, ebooków i wszystkich treści z których miałem zamiar się uczyć. Wyrzuciłem wiele "fluffu". 
+Twitter ludzi z branży to bardzo ciekawe źródło informacji. Mnóstwo "cheatsheetów" źródeł nauki, porad co do szukania pracy, czy linków do dobrych repozytoriów. Warto założyć konto i od czasu do czasu podejrzeć innych developerów. 
 
 
 (In progress)
+choroba
 9 tydzien linkedin, porządki, ebooki, dokumentacja, CS50, sololearn
 (In progress)
