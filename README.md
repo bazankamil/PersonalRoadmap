@@ -164,9 +164,10 @@ A-->C([Webdesign])
 
 Javascript. Weszły trudniejsze zagadnienia: recursion wraz z  praktycznym użyciem; trochę głębiej w Data Structures wchodzę, sporo kombinowania. Jeden dzień nauki zszedł mi prawie w całości na porządkowanie notatek, źródeł, ebooków i wszystkich treści z których miałem zamiar się uczyć. Wyrzuciłem wiele "fluffu". 
 Twitter ludzi z branży to bardzo ciekawe źródło informacji. Mnóstwo "cheatsheetów" źródeł nauki, porad co do szukania pracy, czy linków do dobrych repozytoriów. Warto założyć konto i od czasu do czasu podejrzeć innych developerów. 
+Dla powtórzenia przeglądam dokumentacje na MDn Web Docs- czyli oficjalną dokumentację HTML, CSS i JS, co jest trudniejsze od fCC czy kursów, ale fakt, że coraz więcej rozumiem dodaje motywacji. 
 
 
 (In progress)
-choroba
+recursion, arrow function, High order array methods, notatki
 9 tydzien linkedin, porządki, ebooki, dokumentacja, CS50, sololearn
 (In progress)
