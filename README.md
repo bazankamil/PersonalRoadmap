@@ -166,6 +166,12 @@ Javascript. Weszły trudniejsze zagadnienia: recursion wraz z  praktycznym użyc
 Twitter ludzi z branży to bardzo ciekawe źródło informacji. Mnóstwo "cheatsheetów" źródeł nauki, porad co do szukania pracy, czy linków do dobrych repozytoriów. Warto założyć konto i od czasu do czasu podejrzeć innych developerów. 
 Dla powtórzenia przeglądam dokumentacje na MDn Web Docs- czyli oficjalną dokumentację HTML, CSS i JS, co jest trudniejsze od fCC czy kursów, ale fakt, że coraz więcej rozumiem dodaje motywacji. Wszedł też na rozluźnienie kurs od Traversy Media- "JavaScript Crash Course For Beginners" około 80% było dla mnie zrozumiałe, więc jeszcze trochę i będę na solidnym początkującym poziomie Javascript. 
 
+```mermaid
+flowchart
+A{freeCodeCamp JS}-->B([Sololearn JS])
+A-->C
+```
+
 
 (In progress)
 recursion, arrow function, High order array methods, notatki, kurs traversy do mermeid
