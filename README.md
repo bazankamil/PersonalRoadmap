@@ -164,18 +164,20 @@ A-->C([Webdesign])
 
 Javascript. Weszły trudniejsze zagadnienia: recursion wraz z  praktycznym użyciem; trochę głębiej w Data Structures wchodzę, arrow function, "high order array methods" sporo kombinowania. Jeden dzień nauki zszedł mi prawie w całości na porządkowanie notatek, źródeł, ebooków i wszystkich treści z których miałem zamiar się uczyć. Wyrzuciłem wiele "fluffu". 
 Twitter ludzi z branży to bardzo ciekawe źródło informacji. Mnóstwo "cheatsheetów" źródeł nauki, porad co do szukania pracy, czy linków do dobrych repozytoriów. Warto założyć konto i od czasu do czasu podejrzeć innych developerów. 
-Dla powtórzenia przeglądam dokumentacje na MDn Web Docs- czyli oficjalną dokumentację HTML, CSS i JS, co jest trudniejsze od fCC czy kursów, ale fakt, że coraz więcej rozumiem dodaje motywacji. Wszedł też na rozluźnienie kurs od Traversy Media- "JavaScript Crash Course For Beginners" około 80% było dla mnie zrozumiałe, więc jeszcze trochę i będę na solidnym początkującym poziomie Javascript. 
+Dla powtórzenia przeglądam dokumentacje na MDn Web Docs- czyli oficjalną dokumentację HTML, CSS i JS, co jest trudniejsze od fCC czy kursów, ale fakt, że coraz więcej rozumiem dodaje motywacji. Wszedł też na rozluźnienie kurs od Traversy Media- "JavaScript Crash Course For Beginners" około 80% już znałem, a reszta nie była taka straszna, więc jeszcze trochę i będę na solidnym początkującym poziomie Javascript. 
 
 ```mermaid
 flowchart
 A{freeCodeCamp JS}-->B([Sololearn JS])
-A-->C
+A-->C([Traversy Media JavaScript Crash Course])
 ```
+
+---
+
 
 
 (In progress)
-recursion, arrow function, High order array methods, notatki, kurs traversy do mermeid
-9 tydzien linkedin, porządki, ebooki, dokumentacja, CS50, sololearn
-mermeid- jcc, traversy, 
-10 tydz roadmapa 
+10 tydzien notatki, porządki, ebooki, dokumentacja, CS50, sololearn, kursy
+mermeid- fCC sololearn
+11 linkedin roadmapa
 (In progress)
