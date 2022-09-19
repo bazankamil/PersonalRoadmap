@@ -174,9 +174,13 @@ A-->C([Traversy Media JavaScript Crash Course])
 
 ---
 
+### Dziesiąty tydzień
+
+Coraz głębiej w Javascript. W tym tygodniu skupiam się na ES6, dużo uproszczeń syntaxu i nowych możliwości.
 
 
 (In progress)
+template literal, arrow function, destructing, pomises, modules
 10 tydzien notatki, porządki, ebooki, dokumentacja, CS50, sololearn, kursy
 mermeid- fCC sololearn
 11 linkedin roadmapa
