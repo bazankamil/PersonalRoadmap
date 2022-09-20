@@ -176,7 +176,7 @@ A-->C([Traversy Media JavaScript Crash Course])
 
 ### Dziesiąty tydzień
 
-Coraz głębiej w Javascript. W tym tygodniu skupiam się na ES6, dużo uproszczeń syntaxu i nowych możliwości.
+Coraz głębiej w Javascript. W tym tygodniu skupiam się na ES6, głównie nadal bazuję na freeCodeCamp, ale jeśli jakieś zagadnienie jest bardziej skomplikowane, szukam artykułów, czytam dokumentację i oglądam kursy na YT. Do tej pory jedynie "Recursion" sprawiła mi większy problem, ale powoli wszystko układa się w mojej głowie. 
 
 
 (In progress)
