@@ -177,12 +177,12 @@ A-->C([Traversy Media JavaScript Crash Course])
 ### Dziesiąty tydzień
 
 Coraz głębiej w Javascript. W tym tygodniu skupiam się na ES6, głównie nadal bazuję na freeCodeCamp, ale jeśli jakieś zagadnienie jest bardziej skomplikowane, szukam artykułów, czytam dokumentację i oglądam kursy na YT. Do tej pory jedynie "Recursion" sprawiła mi większy problem, ale powoli wszystko układa się w mojej głowie. 
-Choroba, Covid, przerwa. 
+W tym tygodniu takźe 3 dni niezaplanowanej przerwy. Grypa lub inna choroba dała się mocno we znaki, nie byłem w stanie uczyć się, czy praktykować. Obejrzałem kilka lekkich filmików o programowaniu, czasem tak też bywa. 
 
 
 (In progress)
 template literal, arrow function, destructing, pomises, modules
 10 tydzien notatki, porządki, ebooki, dokumentacja, CS50, sololearn, kursy
-mermeid- fCC sololearn
+mermeid- fCC sololearn, powtórki
 11 linkedin roadmapa
 (In progress)
