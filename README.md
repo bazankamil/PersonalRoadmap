@@ -180,6 +180,12 @@ Coraz głębiej w Javascript. W tym tygodniu skupiam się na ES6, głównie nada
 W tym tygodniu takźe 3 dni niezaplanowanej przerwy. Grypa lub inna choroba dała się mocno we znaki, nie byłem w stanie uczyć się, czy praktykować. Obejrzałem kilka lekkich filmików o programowaniu, czasem tak też bywa. W ostatni z tych trzech dni starczyło sił jedynie na przeczytanie własnych notatek, i trochę powtórek. 
 Poczytałem dokumentację na przerobione już tematy, o funkcjach, metodach, "math.functions", "template literal" etc. Po kursach i fCC większość była znajoma. 
 
+```mermaid
+flowchart
+A{freeCodeCamp JS}-->B([Kursy YT])
+A-->C([Powtórki])
+```
+
 
 (In progress)
 template literal, arrow function, destructing, pomises, modules
