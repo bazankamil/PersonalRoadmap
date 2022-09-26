@@ -186,6 +186,11 @@ A{freeCodeCamp JS}-->B([Kursy YT])
 A-->C([Powtórki])
 ```
 
+---
+
+### Jedenasty tydzień
+
+Ostatnie kilka dni przez chorobę nie potrafiłem się uczyć. Tydzień więc zaczynam od powtórek. Kurs od podstaw Javascript utwierdził mnie, że nauka idzie dobrze. Dwa dni powtórek, żeby wrócić do siodła i ruszamy z nowym materiałem. 
 
 (In progress)
 template literal, arrow function, destructing, pomises, modules
