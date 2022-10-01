@@ -109,6 +109,8 @@ A-->C([CSS])
 ---
 ### Szósty tydzień
 
+22.08 - 28.08
+
 Tydzień porządkowania nauki. Po miesiącu nauki widzę już jaśniej co warto, a czego nie warto się uczyć. Od teraz więcej praktyki, mniej teorii, celem jest także zamiana wielu godzin niby-nauki, na mniej godzin, ale za to "głębokiej pracy".
 Kolejne powtórki HTML i CSS (flexbox, grid, position, variable, pseudoklasy, selektory)
 Celem jest uczyć się każdego dnia po 4h. Nie miałem od początku żadnych wytycznych, więc uczyłem się pomiędzy 2 a 6 godzin dziennie (kilka razy 0) Myślę, że to unormuje moją naukę. 
@@ -132,6 +134,8 @@ A-->G([Selectors])
 ---
 
 ### Siódmy tydzień
+
+29.08 - 04.09
 
 Javascript kurs wprowadzający z freeCodeCamp. Jako, że całą naukę zaczynałem od Pythona, podstawy tutaj są niemal identyczne, różni się jedynie syntax. Variable, functions, arrays, Booleans, if statements, switch statements. Chcę porządnie zrozumieć podstawy, więc sporo powtórzeń i ćwiczeń w VSC. 
 W wolnym czasie na telefonie czy też dla "relaksu" powtarzam sobie na sololearn to co już znam z freeCodeCamp. Niby podstawy, ale sporo dodatkowych informacji można tam znaleźć, więc bardzo polecam. W tym tygodniu udało mi się ukończyć drugi kurs Sololearn, tym razem z CSS. Zacząłem kolejny-JavaScript
@@ -191,7 +195,7 @@ A-->C([Powtórki])
 ### Jedenasty tydzień
 
 Ostatnie kilka dni przez chorobę nie potrafiłem się uczyć. Tydzień więc zaczynam od powtórek. Kurs od podstaw Javascript utwierdził mnie, że nauka idzie dobrze. Dwa dni powtórek, żeby wrócić do siodła i ruszamy z nowym materiałem. Kursy, artykuły i fCC nadal przodują, jednak coraz więcej uczę się z dokumentacji, ponoć jest to dobra praktyka, stąd cieszy mnie taki obrót spraw. Nadal zagłębiam ES6, (rest parameters, spread operator, shallow/deep copy etc.) Podomykam jeszcze kilka wątków i będzie czas na jakiś większy projekt.
-Kolejne zagadnienia: destructuring, classy, getters, setters etc. 
+Kolejne zagadnienia: destructuring, classy, getters, setters etc. Nadal problemy sprawia mi recursion, napisałem już kilka prostych funkcji z wykorzystaniem tej metody, muszę nad tym popracować. 
 
 ```mermaid
 flowchart
