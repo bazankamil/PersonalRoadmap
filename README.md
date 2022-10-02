@@ -150,6 +150,8 @@ A{freeCodeCamp JS}-->B([Sololearn CSS])
 
 ### Ósmy tydzień
 
+05.09 - 11.09
+
 Javascript. Na freeCodeCamp oraz równolegle na Sololearn (kiedy nie mogę być przy komputerze- idealne połączenie). Każdą funkcję wielokrotnie rozkładam na części pierwsze, powtarzam syntax, żeby "weszło w krew". \
 Założyłem też konto na StackOverflow (przez Githuba) i w wolnych chwilach przeglądam z czym ludzie mają największe problemy, czytam więc na co zwracać uwagę.
 Trzeci raz przechodzę przez pętle (for i while) pierwszy raz w Pythonie, drugi w C (pierwszy tydzień na CS50x) a teraz w Javascript. I nadal miewam problemy. Dużo przykładać się muszę do syntaxu- nawiasy, przecinki, średniki, kropki- z logiką jest całkiem nieźle, ale czasem przez brak średnika tracę sporo czasu.
@@ -165,6 +167,8 @@ A-->C([Webdesign])
 ---
 
 ### Dziewiąty tydzień
+
+12.09 - 18.09
 
 Javascript. Weszły trudniejsze zagadnienia: recursion wraz z  praktycznym użyciem; trochę głębiej w Data Structures wchodzę, arrow function, "high order array methods" sporo kombinowania. Jeden dzień nauki zszedł mi prawie w całości na porządkowanie notatek, źródeł, ebooków i wszystkich treści z których miałem zamiar się uczyć. Wyrzuciłem wiele "fluffu". 
 Twitter ludzi z branży to bardzo ciekawe źródło informacji. Mnóstwo "cheatsheetów" źródeł nauki, porad co do szukania pracy, czy linków do dobrych repozytoriów. Warto założyć konto i od czasu do czasu podejrzeć innych developerów. 
@@ -199,7 +203,7 @@ Kolejne zagadnienia: destructuring, classy, getters, setters etc. Nadal problemy
 
 ```mermaid
 flowchart
-A{Full Course for Beginners from fCC} --> B
+A{Full Course for Beginners from fCC} --> B([freeCodeCamp JS])
 ```
 
 (In progress)
