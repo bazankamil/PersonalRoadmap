@@ -184,6 +184,8 @@ A-->C([Traversy Media JavaScript Crash Course])
 
 ### Dziesiąty tydzień
 
+19.09 - 25.09
+
 Coraz głębiej w Javascript. W tym tygodniu skupiam się na ES6, głównie nadal bazuję na freeCodeCamp, ale jeśli jakieś zagadnienie jest bardziej skomplikowane, szukam artykułów, czytam dokumentację i oglądam kursy na YT. Do tej pory jedynie "Recursion" sprawiła mi większy problem, ale powoli wszystko układa się w mojej głowie. 
 W tym tygodniu takźe 3 dni niezaplanowanej przerwy. Grypa lub inna choroba dała się mocno we znaki, nie byłem w stanie uczyć się, czy praktykować. Obejrzałem kilka lekkich filmików o programowaniu, czasem tak też bywa. W ostatni z tych trzech dni starczyło sił jedynie na przeczytanie własnych notatek, i trochę powtórek. 
 Poczytałem dokumentację na przerobione już tematy, o funkcjach, metodach, "math.functions", "template literal" etc. Po kursach i fCC większość była znajoma. 
@@ -198,6 +200,8 @@ A-->C([Powtórki])
 
 ### Jedenasty tydzień
 
+26.09 - 02.10
+
 Ostatnie kilka dni przez chorobę nie potrafiłem się uczyć. Tydzień więc zaczynam od powtórek. Kurs od podstaw Javascript utwierdził mnie, że nauka idzie dobrze. Dwa dni powtórek, żeby wrócić do siodła i ruszamy z nowym materiałem. Kursy, artykuły i fCC nadal przodują, jednak coraz więcej uczę się z dokumentacji, ponoć jest to dobra praktyka, stąd cieszy mnie taki obrót spraw. Nadal zagłębiam ES6, (rest parameters, spread operator, shallow/deep copy etc.) Podomykam jeszcze kilka wątków i będzie czas na jakiś większy projekt.
 Kolejne zagadnienia: destructuring, classy, getters, setters etc. Nadal problemy sprawia mi recursion, napisałem już kilka prostych funkcji z wykorzystaniem tej metody, muszę nad tym popracować. 
 
@@ -205,6 +209,10 @@ Kolejne zagadnienia: destructuring, classy, getters, setters etc. Nadal problemy
 flowchart
 A{Full Course for Beginners from fCC} --> B([freeCodeCamp JS])
 ```
+
+---
+
+
 
 (In progress)
 template literal, arrow function, destructing, pomises, modules
