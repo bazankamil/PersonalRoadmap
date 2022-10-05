@@ -212,11 +212,16 @@ A{Full Course for Beginners from fCC} --> B([freeCodeCamp JS])
 
 ---
 
+### Dwunasty tydzień 
+
+03.10 - 09.10
+
+W tym tygodniu dużo czytania. Kilka ebooków przeczytałem, troszkę ciekawych informacji wpadło. Najlepszy ebook po angielsku- [dokończyć] 
 
 
 (In progress)
-template literal, arrow function, destructing, pomises, modules
-10 tydzien notatki, porządki, ebooki, dokumentacja, CS50, sololearn, kursy
+
+12 tydzien notatki, porządki, ebooki, dokumentacja, CS50, sololearn, kursy
 mermeid- fCC sololearn, powtórki
-11 linkedin roadmapa
+13 linkedin roadmapa
 (In progress)
