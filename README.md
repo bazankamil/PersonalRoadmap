@@ -216,7 +216,7 @@ A{Full Course for Beginners from fCC} --> B([freeCodeCamp JS])
 
 03.10 - 09.10
 
-W tym tygodniu dużo czytania. Kilka ebooków przeczytałem, troszkę ciekawych informacji wpadło. Najlepszy ebook po angielsku "ArjanCodes „Software Design Guide” daje dużo dobrych porad co do planowania projektów- więc muszę więcej zagłębić się w temat "Software Design" bo to na prawdę ciekawa i wydaje się ważna sprawa. 
+W tym tygodniu dużo czytania. Kilka ebooków przeczytałem, troszkę ciekawych informacji wpadło. Najlepszy ebook po angielsku "ArjanCodes „Software Design Guide” daje dużo dobrych porad co do planowania projektów- więc muszę więcej zagłębić się w temat "Software Design" bo to na prawdę ciekawa i wydaje się ważna sprawa. Do tego nadal kolejne funkcje Javascript, głównie te wprowadzone przez ES6. Wróciłem też do CS50. 
 
 (In progress)
 
