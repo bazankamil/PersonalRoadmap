@@ -218,9 +218,20 @@ A{Full Course for Beginners from fCC} --> B([freeCodeCamp JS])
 
 W tym tygodniu dużo czytania. Kilka ebooków przeczytałem, troszkę ciekawych informacji wpadło. Najlepszy ebook po angielsku "ArjanCodes „Software Design Guide” daje dużo dobrych porad co do planowania projektów- więc muszę więcej zagłębić się w temat "Software Design" bo to na prawdę ciekawa i wydaje się ważna sprawa. Do tego nadal kolejne funkcje Javascript, głównie te wprowadzone przez ES6. Wróciłem też do CS50. Wpadły też dwa dni gospodarcze, więc musiałem odpuścić trochę naukę, posłuchałem jedynie lekkich wykładów- pogadanek o programowaniu, byle w ciągu dnia choć przez chwilę "pobyć" w świecie programowania.
 
-(In progress)
+```mermaid
+flowchart
+A{freeCodeCamp}-->B([Sololearn])
+A-->H([Ebooki])
+H-->C([Ebook])
+H-->D([Ebook])
+H-->E([Ebook])
+H-->F([Ebook])
+H-->G([Ebook])
+```
 
+(In progress)
+Wypełnić ebooki
 12 tydzien notatki, porządki, ebooki, dokumentacja, CS50, sololearn, kursy
-mermeid- fCC sololearn, powtórki ES6, sololearn i week 2 CS50
+mermeid- fCC sololearn, powtórki ES6, sololearn i week 2 CS50 certyfikat
 13 linkedin roadmapa
 (In progress)
