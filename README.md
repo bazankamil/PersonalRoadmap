@@ -229,9 +229,19 @@ H-->F([Ebook])
 H-->G([Ebook])
 ```
 
+---
+
+### Trzynasty tydzień
+
+10.10 - 16.10
+
+JS, Sololearn, teoria i podstawy pod projekt. 
+
 (In progress)
 Wypełnić ebooki
 12 tydzien notatki, porządki, ebooki, dokumentacja, CS50, sololearn, kursy
 mermeid- fCC sololearn, powtórki ES6, sololearn i week 2 CS50 certyfikat
-13 linkedin roadmapa
+X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje
+X tydzień- spory projekt: portfolio HTML, CSS, JS
+X tydzień linkedin, CV, GitHub
 (In progress)
