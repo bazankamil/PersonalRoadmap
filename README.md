@@ -216,17 +216,17 @@ A{Full Course for Beginners from fCC} --> B([freeCodeCamp JS])
 
 03.10 - 09.10
 
-W tym tygodniu dużo czytania. Kilka ebooków przeczytałem, troszkę ciekawych informacji wpadło. Najlepszy ebook po angielsku "ArjanCodes „Software Design Guide” daje dużo dobrych porad co do planowania projektów- więc muszę więcej zagłębić się w temat "Software Design" bo to na prawdę ciekawa i wydaje się ważna sprawa. Do tego nadal kolejne funkcje Javascript, głównie te wprowadzone przez ES6. Wróciłem też do CS50. Wpadły też dwa dni gospodarcze, więc musiałem odpuścić trochę naukę, posłuchałem jedynie lekkich wykładów- pogadanek o programowaniu, byle w ciągu dnia choć przez chwilę "pobyć" w świecie programowania.
+W tym tygodniu dużo czytania. Kilka ebooków przeczytałem, troszkę ciekawych informacji wpadło. Najlepszy ebook po angielsku "ArjanCodes „Software Design Guide” daje dużo dobrych porad co do planowania projektów- więc muszę więcej zagłębić się w temat "Software Design" bo to na prawdę ciekawa i wydaje się ważna sprawa. Do tego nadal kolejne funkcje Javascript, głównie te wprowadzone przez ES6. Wróciłem też do CS50. Wpadły też dwa dni gospodarcze, więc musiałem odpuścić trochę naukę, posłuchałem jedynie lekkich wykładów- pogadanek o programowaniu, byle w ciągu dnia choć przez chwilę "pobyć" w świecie programowania. Z wymienionych ebooków polecam jedynie "ArjanCodes „Software Design Guide” oraz ebook Kamila Brzezińskiego „Jak zostać programistą” reszta "meh". 
 
 ```mermaid
 flowchart
 A{freeCodeCamp}-->B([Sololearn])
 A-->H([Ebooki])
-H-->C([Ebook])
-H-->D([Ebook])
-H-->E([Ebook])
-H-->F([Ebook])
-H-->G([Ebook])
+H-->C([Ebook \nCzego warto uczyć się w 2022 roku])
+H-->D([Ebook \nJak zostać programistą])
+H-->E([Ebook \nZbiór pytań sprawdzających twoje \numiejętności miękkie na\n rozmowie kwalifikacyjnej])
+H-->F([Ebook \nSoftware Design Guide])
+H-->G([Ebook \n9 rzeczy, które pomogą ci\n zarabiać więcej jako programista])
 ```
 
 ---
@@ -235,7 +235,7 @@ H-->G([Ebook])
 
 10.10 - 16.10
 
-JS, Sololearn, teoria i podstawy pod projekt. 
+JS, Sololearn, teoria i podstawy pod projekt. [Uporządkowanie notatek pod wraz z spisem treści]
 
 (In progress)
 Wypełnić ebooki
@@ -244,4 +244,5 @@ mermeid- fCC sololearn, powtórki ES6, sololearn i week 2 CS50 certyfikat
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje
 X tydzień- spory projekt: portfolio HTML, CSS, JS
 X tydzień linkedin, CV, GitHub
+X tydzień CS50 week 2 plus week 3
 (In progress)
