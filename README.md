@@ -235,7 +235,7 @@ H-->G([Ebook \n9 rzeczy, które pomogą ci\n zarabiać więcej jako programista]
 
 10.10 - 16.10
 
-JS, Sololearn, teoria i podstawy pod projekt. [Uporządkowanie notatek pod wraz z spisem treści]
+JS, Sololearn. W tym tygodniu ćwiczyłem "JavaScript Higher Order Functions & Arrays" czyli .map, .sort. some. every. reduce. .filter etc. Pozostały czas spędziłem na planowaniu i projektowaniu jakiegoś większego projektu. Kolejny tydzień spędzę na powtórkach, ponieważ będę miał mniej czasu. 15 tydzień to będzie tydzień nowego projektu.
 
 (In progress)
 Wypełnić ebooki
