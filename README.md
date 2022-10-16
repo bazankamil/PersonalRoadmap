@@ -238,9 +238,13 @@ H-->G([Ebook \n9 rzeczy, które pomogą ci\n zarabiać więcej jako programista]
 JS, Sololearn. W tym tygodniu ćwiczyłem "JavaScript Higher Order Functions & Arrays" czyli .map, .sort. some. every. reduce. .filter etc. Pozostały czas spędziłem na planowaniu i projektowaniu jakiegoś większego projektu. Kolejny tydzień spędzę na powtórkach, ponieważ będę miał mniej czasu. 15 tydzień to będzie tydzień nowego projektu. 
 Coraz lepiej idzie mi w manipulowaniu wartościami, coś co miesiąc temu było "czarną magią" teraz rozumiem "instynktownie" Jeszcze dużo jest do nauki, i coraz więcej pochylam się nad samym wykombinowaniem co i jak ma działać (jak powinno być zaprojektowane) i widzę, że samo pisanie kodu, czyli wdrażanie tego projektu jest na drugim miejscu. Zobaczymy, czy mam racje, kiedy będę budował własne projekty. 
 
+```mermaid
+flowchart
+A{JavaScript Higher Order Functions & Arrays}-->B([Software Design])
+```
+
 (In progress)
-sololern certyfikat i wrócić do fCC, porządki w pliku i CS50
-X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje
+X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn
 X tydzień- spory projekt: portfolio HTML, CSS, JS
 X tydzień linkedin, CV, GitHub
 X tydzień CS50 week 2 plus week 3
