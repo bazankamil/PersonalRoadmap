@@ -243,6 +243,11 @@ flowchart
 A{JavaScript Higher Order Functions & Arrays}-->B([Software Design])
 ```
 
+---
+
+### Czternasty tydzień
+
+17.10 - 23.10
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn
 X tydzień- spory projekt: portfolio HTML, CSS, JS
