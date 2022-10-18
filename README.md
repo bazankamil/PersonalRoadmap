@@ -248,6 +248,9 @@ A{JavaScript Higher Order Functions & Arrays}-->B([Software Design])
 ### Czternasty tydzień
 
 17.10 - 23.10
+
+Skupiam się w tym tygodniu na designie- jak planować projekty, jak je rozpisywać na mniejsze zadania etc. W tym tygodniu też sporo innej pracy, więc uczyć będę się mniej- może i przyda mi się trochę odpoczynku.
+
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn
 X tydzień- spory projekt: portfolio HTML, CSS, JS
