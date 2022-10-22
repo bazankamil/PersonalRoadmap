@@ -250,7 +250,7 @@ A{JavaScript Higher Order Functions & Arrays}-->B([Software Design])
 17.10 - 23.10
 
 Skupiam się w tym tygodniu na designie- jak planować projekty, jak je rozpisywać na mniejsze zadania etc. W tym tygodniu też sporo innej pracy, więc uczyć będę się mniej- może i przyda mi się trochę odpoczynku.
-Z teorii doszło Set i Map wraz z metodami i nauka kiedy się przydają. Wieczorami jedynie słuchałem podcastów o programowaniu, bo nie miałem sił na naukę. Planowałem jedynie kolejne kroki w nauce i rozpisywałem sobie projekty do zrobienia. Zawsze coś. 
+Z teorii doszło Set i Map wraz z metodami i nauka kiedy się przydają. Wieczorami jedynie słuchałem podcastów o programowaniu, bo nie miałem sił na naukę. Planowałem jedynie kolejne kroki w nauce i rozpisywałem sobie projekty do zrobienia. Zawsze coś. Ogólnie tydzień w programowaniu bierny- za to narąbałem drewna na opał i zrzuciłem do piwnicy 3 tony węgla :) 
 
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn
