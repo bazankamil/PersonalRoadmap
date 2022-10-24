@@ -257,6 +257,12 @@ flowchart
 A{Software design}->([Podcasty programistyczne])
 ```
 
+### Piętnasty tydzień
+
+24.10 - 30.10
+
+Mimo jesiennej chandry nowy tydzień rozpoczynam z świeżą głową. Wkułem sobie do głowy to, co o sukcesie powiedział pewien YouTuber: "Sukces zawdzięczam brutalnej systematyczności" niech więc taka będzie moja nauka. 
+
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn
 X tydzień- spory projekt: portfolio HTML, CSS, JS
