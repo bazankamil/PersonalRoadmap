@@ -261,7 +261,8 @@ A{Software design}->([Podcasty programistyczne])
 
 24.10 - 30.10
 
-Mimo jesiennej chandry nowy tydzień rozpoczynam z świeżą głową. Wkułem sobie do głowy to, co o sukcesie powiedział pewien YouTuber: "Sukces zawdzięczam brutalnej systematyczności" niech więc taka będzie moja nauka. Sporo teorii pochłaniam, ale chcę poznać działanie każdego etapu programowania, w taki sposób łatwiej mi się zabrać za pracę. Dodatkowo po setkach godzin wykładów, kursów i olbrzymiej ilości przeczytanych tekstów pierwszy raz ktoś polecił, żeby... czytać kod innych ludzi i zastanawiać się co on robi- wydaje się tak oczywiste! 
+Mimo jesiennej chandry nowy tydzień rozpoczynam z świeżą głową. Wkułem sobie do głowy to, co o sukcesie powiedział pewien YouTuber: "Sukces zawdzięczam brutalnej systematyczności" niech więc taka będzie moja nauka. Sporo teorii pochłaniam, ale chcę poznać działanie każdego etapu programowania, w taki sposób łatwiej mi się zabrać za pracę. Dodatkowo po setkach godzin wykładów, kursów i olbrzymiej ilości przeczytanych tekstów pierwszy raz ktoś polecił, żeby... czytać kod innych ludzi i zastanawiać się co on robi- wydaje się tak oczywiste! /n
+Uczyłem się też obsługi terminalu (Git Bash) ponoć podstawy zawsze się przydają. 
 
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
