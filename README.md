@@ -254,8 +254,10 @@ Z teorii doszło Set i Map wraz z metodami i nauka kiedy się przydają. Wieczor
 
 ```mermaid
 flowchart
-A{Software design}->([Podcasty programistyczne])
+A{Software design}-->B([Podcasty programistyczne])
 ```
+
+---
 
 ### Piętnasty tydzień
 
@@ -264,6 +266,9 @@ A{Software design}->([Podcasty programistyczne])
 Mimo jesiennej chandry nowy tydzień rozpoczynam z świeżą głową. Wkułem sobie do głowy to, co o sukcesie powiedział pewien YouTuber: "Sukces zawdzięczam brutalnej systematyczności" niech więc taka będzie moja nauka. Sporo teorii pochłaniam, ale chcę poznać działanie każdego etapu programowania, w taki sposób łatwiej mi się zabrać za pracę. Dodatkowo po setkach godzin wykładów, kursów i olbrzymiej ilości przeczytanych tekstów pierwszy raz ktoś polecił, żeby... czytać kod innych ludzi i zastanawiać się co on robi- wydaje się tak oczywiste! /n
 Uczyłem się też obsługi terminalu (Git Bash) ponoć podstawy zawsze się przydają. /n
 Końcówkę tygodnia spędzam na przypominaniu sobie HTML i CSS- mam zamiar robić o wiele więcej projektów stron, i stopniowo dodawać do nich coraz to więcej dodatkowych funkcji. 
+Dokończyłem także kurs Sololearn z Javascript- podstawy już ogarniam dość dobrze, teraz muszę ćwiczyć implementację do projektów. 
+
+<img src="./images/Sololearn JS 27 pazdziernik 2022.png" alt="SL1" width=""/>
 
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
