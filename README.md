@@ -270,6 +270,11 @@ Dokończyłem także kurs Sololearn z Javascript- podstawy już ogarniam dość 
 
 <img src="./images/Sololearn JS 27 pazdziernik 2022.png" alt="SL1" width=""/>
 
+```mermaid
+flowchart
+A{Sololearn JS}-->B([Powtórki HTML + CSS])
+```
+
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
 X tydzień- spory projekt: portfolio HTML, CSS, JS
