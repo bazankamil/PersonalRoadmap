@@ -275,6 +275,14 @@ flowchart
 A{Sololearn JS}-->B([Powtórki HTML + CSS])
 ```
 
+---
+
+### Szesnasty tydzień
+
+31.10 - 06.11
+
+Powtórki HTML i CSS. Kiedy sobie wszystko odświeżę przejdę do robienia projektów.
+
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
 X tydzień- spory projekt: portfolio HTML, CSS, JS
