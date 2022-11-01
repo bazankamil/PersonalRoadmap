@@ -281,7 +281,7 @@ A{Sololearn JS}-->B([Powtórki HTML + CSS])
 
 31.10 - 06.11
 
-Powtórki HTML i CSS. Kiedy sobie wszystko odświeżę przejdę do robienia projektów.
+Powtórki HTML i CSS. Kiedy sobie wszystko odświeżę przejdę do robienia projektów. Zaangażowałem się też w grupę programistów, planujemy jakieś wspólne projekty- zobaczymy, czy słomiany zapał, czy coś jednak z tego wyjdzie. 
 
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
