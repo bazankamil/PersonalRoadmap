@@ -281,7 +281,7 @@ A{Sololearn JS}-->B([Powtórki HTML + CSS])
 
 31.10 - 06.11
 
-Powtórki HTML i CSS. Kiedy sobie wszystko odświeżę przejdę do robienia projektów. Zaangażowałem się też w grupę programistów, planujemy jakieś wspólne projekty- zobaczymy, czy słomiany zapał, czy coś jednak z tego wyjdzie. W środę zakończyłem powtórkę HTML, od czwartku wchodzi CSS. Powtórkę HTML miałem w formie 4h kursu YT- porobiłem trochę prostych stronek, poczytałem o semantycznym HTML, przypomniałem sobie co i jak. 
+Powtórki HTML i CSS. Kiedy sobie wszystko odświeżę przejdę do robienia projektów. Zaangażowałem się też w grupę programistów, planujemy jakieś wspólne projekty- zobaczymy, czy słomiany zapał, czy coś jednak z tego wyjdzie. W środę zakończyłem powtórkę HTML, od czwartku wchodzi CSS. Powtórkę HTML miałem w formie 4h kursu YT- porobiłem trochę prostych stronek, poczytałem o semantycznym HTML, przypomniałem sobie co i jak. Przy CSS przypominanie idzie szybko, ale już widzę, że trzeba będzie dużo praktyki. Własne projekty- to chyba najlepszy sposób nauki na tym etapie. 
 
 Dave Gray kurs HTML- 4h
 
