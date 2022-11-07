@@ -288,6 +288,13 @@ flowchart
 A{Dave Gray kurs HTML}-->B([Dave Gray kurs CSS])
 ```
 
+---
+
+### Siedemnasty tydzień
+
+07.11 - 13.11
+
+
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
 X tydzień- spory projekt: portfolio HTML, CSS, JS
