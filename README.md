@@ -294,6 +294,8 @@ A{Dave Gray kurs HTML}-->B([Dave Gray kurs CSS])
 
 07.11 - 13.11
 
+Dalszy ciąg powtórek, tym razem kurs CSS. Ułożyłem przy okazji swój dzień, więc mam na programowanie więcej czasu, wpadło kilka pomniejszych projektów i planuje już pierwsze własne od podstaw. (BEM, semantyczność)
+
 
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
