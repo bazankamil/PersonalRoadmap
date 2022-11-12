@@ -296,6 +296,12 @@ A{Dave Gray kurs HTML}-->B([Dave Gray kurs CSS])
 
 Dalszy ciąg powtórek, tym razem kurs CSS. Ułożyłem przy okazji swój dzień, więc mam na programowanie więcej czasu, wpadło kilka pomniejszych projektów i planuje już pierwsze własne od podstaw. Dogłębniej zanurzyłem się w BEM i chcę lepszego zrozumienia CSS. Uczę sie też w jakiej kolejności modyfikować kod i dużo oglądam jak inni kodują, żeby podpatrzeć proces. Raz jeszcze przypomniałem sobie flexbox i grid, a podczas nauki więcej używam "Emmet" którego uczę się z dokumentacji. 
 
+```mermaid
+flowchart
+A{}-->B([])
+```
+
+
 
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
