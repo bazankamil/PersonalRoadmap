@@ -301,6 +301,13 @@ flowchart
 A{}-->B([])
 ```
 
+---
+
+### Osiemnasty tydzień
+
+14.11 - 20.11
+
+
 
 
 (In progress)
