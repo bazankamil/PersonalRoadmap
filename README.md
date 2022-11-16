@@ -307,7 +307,7 @@ A{}-->B([])
 
 14.11 - 20.11
 
-W tym tygodniu skupiam się na designie. Kolory i kontrast, rozmieszczenie na stronie, skala, typografia etc. 
+W tym tygodniu skupiam się na designie. Kolory i kontrast, rozmieszczenie na stronie, skala, typografia etc. Do tego zająłem się dogłębnym planowaniem projektu i samego procesu projektowania- w tym wypadku strony.
 
 
 (In progress)
