@@ -307,7 +307,7 @@ A{}-->B([])
 
 14.11 - 20.11
 
-W tym tygodniu skupiam się na designie. Kolory i kontrast, rozmieszczenie na stronie, skala, typografia etc. Do tego zająłem się dogłębnym planowaniem projektu i samego procesu projektowania- w tym wypadku strony. Sporo szkicowania na kartkach, rozmieszczania elementów itd. Niby mógłbym w tym miejscu nauczyć się już np. Figmy, jednak chcę dogłębnie poznać wpierw Vanilla CSS. 
+W tym tygodniu skupiam się na designie. Kolory i kontrast, rozmieszczenie na stronie, skala, typografia etc. Do tego zająłem się dogłębnym planowaniem projektu i samego procesu projektowania- w tym wypadku strony. Sporo szkicowania na kartkach, rozmieszczania elementów itd. Niby mógłbym w tym miejscu nauczyć się już np. Figmy, jednak chcę dogłębnie poznać wpierw Vanilla CSS. W końcu zacząłem budowę pierwszej strony- rozrysowana na kartce, implementowana w HTML z naciskiem na semantyczny HTML z użyciem Variables, BEM i Flexboxa. 
 
 
 (In progress)
