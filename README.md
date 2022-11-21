@@ -19,7 +19,7 @@ Per Aspera Ad Astra.
 
 ### Początki plus pierwszy tydzień
 14.07 - 24.07 <p>
-Na początku było sporo filmików na YT dlaczego warto zacząć. Po podjęciu decyzji sięgnąlem po książkę Al Sweigarta "Automatyzacja nudnych zadań z Pythonem" ale po około 20% porzuciłem ją- inne rzeczy o wiele bardziej mnie podjarały, ale jeszcze do niej wrócę.\
+Na początku było sporo filmików na YT dlaczego warto zacząć. Po podjęciu decyzji sięgnąłem po książkę Al Sweigarta "Automatyzacja nudnych zadań z Pythonem" ale po około 20% porzuciłem ją- inne rzeczy o wiele bardziej mnie podjarały, ale jeszcze do niej wrócę.\
 Później były 2 webinary "jak wejść do IT" i o początkach w .NET. Raczej średnie, ponieważ oba skończyły się próbą sprzedaży bardzo drogich kursów i/lub Bootcampów.\
 Tydzień zdominowany głównie przez kurs CS50T- wprowadzenie do IT.
 Założyłem też konto na Githubie i stworzyłem własny cheatsheet "Markdown". Spodobało mi się pisanie dokumentacji, więc własna ściąga się przyda.
@@ -38,7 +38,7 @@ flowchart
 Nowy tydzień zaczęty od konta i aplikacji "Sololearn". Bardzo fajny dodatek- autobus, kolejka u lekarza, brak dostępu do komputera= mała 2min lekcja w apce. Nie jest idealnie, ale wypełnia świetną nisze, czyli "martwe chwile" w których nie masz dostępu do spokojnej nauki w domu przy PC.\
 Kolejny wpadł kurs Youtube na obsługę Gita (git add, git commit, git push etc.)\
 Ogarnąłem też cały kurs Harvardzki CS50S (Programowanie w Scratch) świetna sprawa na wprowadzenie do programowania.\
-Na końcu wpadł mały kursik w Mermaid czyli niejako "dodatku" do Markdown, ktory pozwala tworzyć takie właśnie drzewka jak w tym dokumencie.\
+Na końcu wpadł mały kursik w Mermaid czyli niejako "dodatku" do Markdown, który pozwala tworzyć takie właśnie drzewka jak w tym dokumencie.\
 W ciągu tygodnia ciągle czytałem o technologiach i powtarzającą się radą ciągle było, by zacząć od Frontendu (HTML, CSS, JS) więc na tym będę się skupiał. 
 
 <img src="./images/CS50S.png" alt="CS50S" width=""/>
@@ -77,7 +77,7 @@ A-->D([Webinar])
 
 W tym tygodniu głównie skupiam się na kursie CS50x. Pierwsze lekcje kładą duży nacisk na myślenie programistyczne (problem-solving, pseudocode etc.) Poza teorią z praktyki implementowany jest w pierwszym tygodniu Scratch (aplikacja do nauki programowania wydana przez MiT) a od drugiego tygodnia "C" Trochę archaiczny język, ale syntax nie odbiega za bardzo od np. Pythona. Zadania domowe nie są łatwe, ale terminal wyrzuca błędy wraz z podpowiedzią, gdzie błąd się znajduje- jest więc dobrze. Na spokojnie z notatkami ogarnąłem tydzień 0 i tydzień 1 cały wraz z zadaniami. Z 2 tygodnia zostały mi jedynie zadania do zrobienia.\
 Dla urozmaicenia potrenowałem też flexbox z CSS, rozwiązałem wszystkie zadania w "flexbox froggy" i bawiłem się DevToolsem na różnych stronach, nie mogę powiedzieć, że wszystko rozumiem, ale czuję się z tym coraz swobodniej.\
-Ogarnąłem jeszcze jeden mały tutorial podstaw HTML i CSS- 95% było mi znane i zrozumiałe, więc jeszcze kilka małych projektów i będe czuł się z tym swobodnie.\
+Ogarnąłem jeszcze jeden mały tutorial podstaw HTML i CSS- 95% było mi znane i zrozumiałe, więc jeszcze kilka małych projektów i będę czuł się z tym swobodnie.\
 W tym tygodniu wpadłem także na "The Odin Project" i oglądając ichniejsze "Curriculum" bardzo dobra wydaje się pierwsza część całego projektu, czyli "Foundations" nie chce się za bardzo rozdrabniać, jednak wygląda bardzo kusząco, czas pokaże, czy dołączę i to do materiałów mojej nauki.  
 
 ```mermaid
@@ -115,7 +115,7 @@ Tydzień porządkowania nauki. Po miesiącu nauki widzę już jaśniej co warto,
 Kolejne powtórki HTML i CSS (flexbox, grid, position, variable, pseudoklasy, selektory)
 Celem jest uczyć się każdego dnia po 4h. Nie miałem od początku żadnych wytycznych, więc uczyłem się pomiędzy 2 a 6 godzin dziennie (kilka razy 0) Myślę, że to unormuje moją naukę. 
 Jak widać na wykresie głównie skupiam się na freeCodeCamp i na powtórkach poszczególnych działów HTML i CSS. Od następnego tygodnia chcę zacząć Javascript, więc robię mocne podsumowanie. 
-Ostatni projekt freeCodeCampu z części o HTML i CSS to zrobienie własnego Portfolio. Nie jestem w 100% zadowolony, ale jest to świetna baza, do której mam zamiar wracać, szlifować, dopracowywać. Tam w przyszłości będą moje projekty, więc każdemu polecam zapisanie kodu w VSC i dopieszczenie go, ile się tylko da. Sam tak będe robił. 
+Ostatni projekt freeCodeCampu z części o HTML i CSS to zrobienie własnego Portfolio. Nie jestem w 100% zadowolony, ale jest to świetna baza, do której mam zamiar wracać, szlifować, dopracowywać. Tam w przyszłości będą moje projekty, więc każdemu polecam zapisanie kodu w VSC i dopieszczenie go, ile się tylko da. Sam tak będę robił. 
 Następny tydzień: JavaScript! 
 
 
@@ -187,7 +187,7 @@ A-->C([Traversy Media JavaScript Crash Course])
 19.09 - 25.09
 
 Coraz głębiej w Javascript. W tym tygodniu skupiam się na ES6, głównie nadal bazuję na freeCodeCamp, ale jeśli jakieś zagadnienie jest bardziej skomplikowane, szukam artykułów, czytam dokumentację i oglądam kursy na YT. Do tej pory jedynie "Recursion" sprawiła mi większy problem, ale powoli wszystko układa się w mojej głowie. 
-W tym tygodniu takźe 3 dni niezaplanowanej przerwy. Grypa lub inna choroba dała się mocno we znaki, nie byłem w stanie uczyć się, czy praktykować. Obejrzałem kilka lekkich filmików o programowaniu, czasem tak też bywa. W ostatni z tych trzech dni starczyło sił jedynie na przeczytanie własnych notatek, i trochę powtórek. 
+W tym tygodniu także 3 dni niezaplanowanej przerwy. Grypa lub inna choroba dała się mocno we znaki, nie byłem w stanie uczyć się, czy praktykować. Obejrzałem kilka lekkich filmików o programowaniu, czasem tak też bywa. W ostatni z tych trzech dni starczyło sił jedynie na przeczytanie własnych notatek, i trochę powtórek. 
 Poczytałem dokumentację na przerobione już tematy, o funkcjach, metodach, "math.functions", "template literal" etc. Po kursach i fCC większość była znajoma. 
 
 ```mermaid
@@ -294,11 +294,11 @@ A{Dave Gray kurs HTML}-->B([Dave Gray kurs CSS])
 
 07.11 - 13.11
 
-Dalszy ciąg powtórek, tym razem kurs CSS. Ułożyłem przy okazji swój dzień, więc mam na programowanie więcej czasu, wpadło kilka pomniejszych projektów i planuje już pierwsze własne od podstaw. Dogłębniej zanurzyłem się w BEM i chcę lepszego zrozumienia CSS. Uczę sie też w jakiej kolejności modyfikować kod i dużo oglądam jak inni kodują, żeby podpatrzeć proces. Raz jeszcze przypomniałem sobie flexbox i grid, a podczas nauki więcej używam "Emmet" którego uczę się z dokumentacji. 
+Dalszy ciąg powtórek, tym razem kurs CSS. Ułożyłem przy okazji swój dzień, więc mam na programowanie więcej czasu, wpadło kilka pomniejszych projektów i planuje już pierwsze własne od podstaw. Dogłębniej zanurzyłem się w BEM i chcę lepszego zrozumienia CSS. Uczę się też w jakiej kolejności modyfikować kod i dużo oglądam jak inni kodują, żeby podpatrzeć proces. Raz jeszcze przypomniałem sobie flexbox i grid, a podczas nauki więcej używam "Emmet" którego uczę się z dokumentacji. 
 
 ```mermaid
 flowchart
-A{}-->B([])
+A{Dave Gray kurs CSS}-->B([BEM, CSS, GRID])
 ```
 
 ---
@@ -314,6 +314,11 @@ flowchart
 A{}-->B([])
 ```
 
+---
+
+### Dziewiętnasty tydzień
+
+21.11 - 27.11
 
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
