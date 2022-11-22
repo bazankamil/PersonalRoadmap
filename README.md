@@ -320,6 +320,8 @@ A{}-->B([])
 
 21.11 - 27.11
 
+Pierwszy projekt zrobiony, mocno kulawy, do poprawy wiele rzeczy, ale jest. Już wiem, że to nie bułka z masłem, a ciężka praca i trzeba się dobrze nakombinować, ale teraz już mam cel, żeby kolejny projekt był lepszy. 
+
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
 X tydzień- spory projekt: portfolio HTML, CSS, JS
