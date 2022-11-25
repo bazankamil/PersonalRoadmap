@@ -320,7 +320,7 @@ A{}-->B([])
 
 21.11 - 27.11
 
-Pierwszy projekt zrobiony, mocno kulawy, do poprawy wiele rzeczy, ale jest. Już wiem, że to nie bułka z masłem, a ciężka praca i trzeba się dobrze nakombinować, ale teraz już mam cel, żeby kolejny projekt był lepszy. 
+Pierwszy projekt zrobiony, mocno kulawy, do poprawy wiele rzeczy, ale jest. Już wiem, że to nie bułka z masłem, a ciężka praca i trzeba się dobrze nakombinować, ale teraz już mam cel, żeby kolejny projekt był lepszy. Wewnątrz grupy z którą uczę się programować wyrasta pomysł robienia makiet stron i wspólnego ich oceniania, co ma potencjał na rozrościęcie się do skali wspólnych projektów. Sam powtarzam sobie CSS GRID, liznąłem także SASS i nauczyłem się korzystania z Emmeta. 
 
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
