@@ -309,9 +309,9 @@ A{Dave Gray kurs CSS}-->B([BEM, CSS, GRID])
 
 W tym tygodniu skupiam się na designie. Kolory i kontrast, rozmieszczenie na stronie, skala, typografia etc. Do tego zająłem się dogłębnym planowaniem projektu i samego procesu projektowania- w tym wypadku strony. Sporo szkicowania na kartkach, rozmieszczania elementów itd. Niby mógłbym w tym miejscu nauczyć się już np. Figmy, jednak chcę dogłębnie poznać wpierw Vanilla CSS. W końcu zacząłem budowę pierwszej strony- rozrysowana na kartce, implementowana w HTML z naciskiem na semantyczny HTML z użyciem Variables, BEM i Flexboxa. Masa powtórek, ale powoli się wszystko układa, muszę więcej pokazywać kod do oceny, zauważyłem, że jeśli ktoś ma zobaczyć mój kod, automatycznie staram się lepiej go pisać.
 
-```mermeid
+```mermaid
 flowchart
-A{}-->B([])
+A{Powtórka CSS}-->B([BEM, Flexbox, Variables, semantyczny HTML])
 ```
 
 ---
@@ -321,6 +321,13 @@ A{}-->B([])
 21.11 - 27.11
 
 Pierwszy projekt zrobiony, mocno kulawy, do poprawy wiele rzeczy, ale jest. Już wiem, że to nie bułka z masłem, a ciężka praca i trzeba się dobrze nakombinować, ale teraz już mam cel, żeby kolejny projekt był lepszy. Wewnątrz grupy z którą uczę się programować wyrasta pomysł robienia makiet stron i wspólnego ich oceniania, co ma potencjał na rozrościęcie się do skali wspólnych projektów. Sam powtarzam sobie CSS GRID, liznąłem także SASS i nauczyłem się korzystania z Emmeta. 
+
+```mermaid
+flowchart
+A{Pierwszy projekt HTML + CSS}-->B([SASS])
+A-->C([CSS GRID])
+A-->D([VSC Emmet])
+```
 
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
