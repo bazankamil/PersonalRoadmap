@@ -329,6 +329,13 @@ A-->C([CSS GRID])
 A-->D([VSC Emmet])
 ```
 
+---
+
+### Dwudziesty tydzień
+
+28.11 - 04.12
+
+
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
 X tydzień- spory projekt: portfolio HTML, CSS, JS
