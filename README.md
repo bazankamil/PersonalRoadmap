@@ -337,6 +337,11 @@ A-->D([VSC Emmet])
 
 Większość czasu na naukę spędziłem na grupowym projekcie- myślę, że statyczną stronę jestem w stanie odwzorować w 90%, reszta to już detale (projekt był na mniejszą rozdzielczość, ikony nie miały funkcjonalności etc.) W kolejnym tygodniu będę szlifował projekt, oraz zajmę się responsywnością. Projekt wygląda piękne... statycznie, jednak każde zmniejszenie okienka zamienia piękną księżniczkę w szkaradną ropuchę- czas przypomnieć sobie i poduczyć się responsywności. Na tym też kończę tydzień- media query i responsywność. 
 
+```mermaid
+flowchart
+A{}-->B([])
+```
+
 
 
 (In progress)
