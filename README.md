@@ -358,7 +358,7 @@ A{}-->B([])
 
 05.12 - 11.12
 
-SASS a właściwie SCSS- uczę się podstaw, w kolejnym projekcie chcę wytestować SASS wraz z GRIDem, który w tym tygodniu sobie będę przypominał.
+SASS a właściwie SCSS- uczę się podstaw, w kolejnym projekcie chcę wytestować SASS wraz z GRIDem, który w tym tygodniu sobie będę przypominał. Kończę też grupowy projekt z discorda, nie wszystko wyszło idealnie, ale wiele się nauczyłem.
 
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
