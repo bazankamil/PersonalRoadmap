@@ -358,7 +358,7 @@ A{Grupowy projekt}-->B([Powtórki CSS/HTML])
 
 05.12 - 11.12
 
-SASS a właściwie SCSS- uczę się podstaw, w kolejnym projekcie chcę wytestować SASS wraz z GRIDem, który w tym tygodniu sobie będę przypominał. Kończę też grupowy projekt z discorda, nie wszystko wyszło idealnie, ale wiele się nauczyłem.
+SASS a właściwie SCSS- uczę się podstaw, w kolejnym projekcie chcę wytestować SASS wraz z GRIDem, który w tym tygodniu sobie będę przypominał. Kończę też grupowy projekt z discorda, nie wszystko wyszło idealnie, ale wiele się nauczyłem. Tydzień kończę nauką dobrej organizacji plików w projekcie.
 
 ```mermaid
 flowchart
