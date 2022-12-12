@@ -362,8 +362,10 @@ SASS a właściwie SCSS- uczę się podstaw, w kolejnym projekcie chcę wytestow
 
 ```mermaid
 flowchart
-A{}-->B([])
+A{Grupowy projekt}-->B([Organizacja danych])
 ```
+
+---
 
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
