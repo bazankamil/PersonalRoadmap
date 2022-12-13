@@ -367,6 +367,12 @@ A{Grupowy projekt}-->B([Organizacja danych])
 
 ---
 
+### Dwudziesty drugi tydzień
+
+12.12 - 18.12
+
+Powtórka własnych notatek, następnie SCSS.
+
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
 X tydzień- spory projekt: portfolio HTML, CSS, JS
