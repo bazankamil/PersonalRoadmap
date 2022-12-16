@@ -371,7 +371,7 @@ A{Grupowy projekt}-->B([Organizacja danych])
 
 12.12 - 18.12
 
-Powtórka własnych notatek, następnie SCSS. Dogłębnie powtarzam sobie responsywność oraz związany z nią kod (clamp, calc, ustawianie font-size na 62,5% i używanie remów etc.) Myślę także nad kolejnym projektem, który sprawdzi całą tą wiedzę w praktyce.
+Powtórka własnych notatek, następnie SCSS. Dogłębnie powtarzam sobie responsywność oraz związany z nią kod (clamp, calc, ustawianie font-size na 62,5% i używanie remów etc.) Myślę także nad kolejnym projektem, który sprawdzi całą tą wiedzę w praktyce. Wrócił też GRID, wpadają małe tutoriale oraz dokumentacja BEMa.
 
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
