@@ -373,6 +373,11 @@ A{Grupowy projekt}-->B([Organizacja danych])
 
 Powtórka własnych notatek, następnie SCSS. Dogłębnie powtarzam sobie responsywność oraz związany z nią kod (clamp, calc, ustawianie font-size na 62,5% i używanie remów etc.) Myślę także nad kolejnym projektem, który sprawdzi całą tą wiedzę w praktyce. Wrócił też GRID, wpadają małe tutoriale oraz dokumentacja BEMa.
 
+```mermaid
+flowchart
+A{}-->B([])
+```
+
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
 X tydzień- spory projekt: portfolio HTML, CSS, JS
