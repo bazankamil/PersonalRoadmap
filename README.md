@@ -375,8 +375,10 @@ Powtórka własnych notatek, następnie SCSS. Dogłębnie powtarzam sobie respon
 
 ```mermaid
 flowchart
-A{}-->B([])
+A{SASS}-->B([Responsive Design])
 ```
+
+---
 
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
