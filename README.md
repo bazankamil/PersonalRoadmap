@@ -380,6 +380,12 @@ A{SASS}-->B([Responsive Design])
 
 ---
 
+### Dwudziesty trzeci tydzień
+
+19.12 - 25.12
+
+Powtórka responsywności.
+
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
 X tydzień- spory projekt: portfolio HTML, CSS, JS
