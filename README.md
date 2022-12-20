@@ -384,7 +384,7 @@ A{SASS}-->B([Responsive Design])
 
 19.12 - 25.12
 
-Powtórka responsywności.
+Powtórka responsywności. Tydzień przed świętami jest więc bardzo ciężko z czasem, wybieram więc mniej zajmujące źródła nauki. Wpadły 4 ebooki, dwa na takim poziomie, że szkoda wspominać, jednak dwa pozostałe dość dobre. Pierwszy:
 
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
