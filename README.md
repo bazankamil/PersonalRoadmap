@@ -384,7 +384,8 @@ A{SASS}-->B([Responsive Design])
 
 19.12 - 25.12
 
-Powtórka responsywności. Tydzień przed świętami jest więc bardzo ciężko z czasem, wybieram więc mniej zajmujące źródła nauki. Wpadły 4 ebooki, dwa na takim poziomie, że szkoda wspominać, jednak dwa pozostałe dość dobre. Pierwszy:
+Powtórka responsywności. Tydzień przed świętami jest więc bardzo ciężko z czasem, wybieram więc mniej zajmujące źródła nauki. Wpadły 4 ebooki, dwa na takim poziomie, że szkoda wspominać, jednak dwa pozostałe dość dobre.
+Pierwszy: Andy Sterkowitz „Self-Taught programmer study manual” : dobry krótki poradnik o organizacji czasu, potrzebie ciągłego redefiniowania swoich celów oraz skupiania się na projektach oraz odzewie od innych. Czyli samemu pisać dużo kodu i pokazywać go na prawo i lewo, tak, by zebrać jak najwięcej opinii.
 
 (In progress)
 X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
