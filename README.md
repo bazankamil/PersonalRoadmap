@@ -388,9 +388,12 @@ Powtórka responsywności. Tydzień przed świętami jest więc bardzo ciężko 
 Pierwszy: Andy Sterkowitz „Self-Taught programmer study manual” : dobry krótki poradnik o organizacji czasu, potrzebie ciągłego redefiniowania swoich celów oraz skupiania się na projektach oraz odzewie od innych. Czyli samemu pisać dużo kodu i pokazywać go na prawo i lewo, tak, by zebrać jak najwięcej opinii.
 Drugi: Mateusz Kupilas "Junior Developer" : O dziwo bardzo dobra książka. Do przeczytania w 2-3h, opisuje w bardzo dobry sposób roces nauki, czy organizację pracy. Bardzo polecam, to nie była strata czasu!
 
+```mermaid
+flowchart
+A{Ebooki}-->B([Ebook:Junior Developer])
+A{Ebooki}-->C([Ebook:Self-Taught programmer study manual])
+```
+
 (In progress)
-X tydzień- tydzień powtórek: HTML, CSS, responsywność, inspiracje, sololearn, przeczytać własne notatki
-X tydzień- spory projekt: portfolio HTML, CSS, JS
-X tydzień linkedin, CV, GitHub
-X tydzień CS50 week 2 plus week 3
+Święta i SASS
 (In progress)
