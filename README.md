@@ -394,6 +394,13 @@ A{Ebooki}-->B([Ebook:Junior Developer])
 A{Ebooki}-->C([Ebook:Self-Taught programmer study manual])
 ```
 
+---
+
+### Dwudziesty czwarty tydzień
+
+26.12 - 01.01
+
+Święta i odwiedziny rodziny, przez co wpadła najdłuższa od początku nauki przerwa: 5 dni! Powrót był dziwny, ale teraz jestem pewien, że lepiej by było gdybym każdego dnia poświęcił chociaż 15min na jakiś mały artykuł. 5 dni robi różnicę, ale już wracam w siodło: na pierwszy tydzień stycznia planuje projekt z Gridem, flexboxem, SASSem i BEMem.
 (In progress)
 Święta i SASS
 (In progress)
