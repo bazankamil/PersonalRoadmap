@@ -402,6 +402,11 @@ A{Ebooki}-->C([Ebook:Self-Taught programmer study manual])
 
 Święta i odwiedziny rodziny, przez co wpadła najdłuższa od początku nauki przerwa: 5 dni! Powrót był dziwny, ale teraz jestem pewien, że lepiej by było gdybym każdego dnia poświęcił chociaż 15min na jakiś mały artykuł. 5 dni robi różnicę, ale już wracam w siodło: na pierwszy tydzień stycznia planuje projekt z Gridem, flexboxem, SASSem i BEMem. Znalazłem też dobrą stronę "Frontend Mentor" gdzie są konkretne projekty do zrobienia- od stycznia w ramach nauki będę je robił. GRID powtórzony, można zrelaksować się na sylwestra i od nowego roku ruszyć z nową motywacją.
 
+```mermaid
+flowchart
+A{GRID}-->B([Frontend Mentor])
+```
+
 (In progress)
-Święta i SASS
+Frontend Mentor, książka, fCC, Sololearn,
 (In progress)
