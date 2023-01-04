@@ -413,7 +413,7 @@ A{GRID}-->B([Frontend Mentor])
 
 02.01 - 08.01
 
-W tym tygodniu projektowo powtarzam podstawy, chcę zakończyć kilka mini-projektów zanim przejdę do powtórki JS.
+W tym tygodniu projektowo powtarzam podstawy, chcę zakończyć kilka mini-projektów zanim przejdę do powtórki JS. Zrobiłem 2 podstawowe projekty z Frontend Mentora, szkoda, że wcześniej nie wiedziałem o istnieniu tej strony.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn,
