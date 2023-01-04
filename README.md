@@ -407,6 +407,14 @@ flowchart
 A{GRID}-->B([Frontend Mentor])
 ```
 
+---
+
+### Dwudziesty piąty tydzień
+
+02.01 - 08.01
+
+W tym tygodniu projektowo powtarzam podstawy, chcę zakończyć kilka mini-projektów zanim przejdę do powtórki JS.
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn,
 (In progress)
