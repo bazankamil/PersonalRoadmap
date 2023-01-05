@@ -413,7 +413,7 @@ A{GRID}-->B([Frontend Mentor])
 
 02.01 - 08.01
 
-W tym tygodniu projektowo powtarzam podstawy, chcę zakończyć kilka mini-projektów zanim przejdę do powtórki JS. Zrobiłem 2 podstawowe projekty z Frontend Mentora, szkoda, że wcześniej nie wiedziałem o istnieniu tej strony.
+W tym tygodniu projektowo powtarzam podstawy, chcę zakończyć kilka mini-projektów zanim przejdę do powtórki JS. Zrobiłem 2 podstawowe projekty z Frontend Mentora, szkoda, że wcześniej nie wiedziałem o istnieniu tej strony. Zaplanowany mam remont, więc może wpaść niespodziewana przerwa, postaram się codziennie przynajmniej chwilę przysiąść przed kodem. Dziś powtarzałem JS, zagłębiam się we własne notatki, oraz tutorial na YT, jeśli szybko powtórzę materiał zrobię 2 projekty z JS i według ludzi z discorda dobrze już zacząć Typescripta i Reacta na tym etapie- zobaczę jak wyjdzie w praktyce.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn,
