@@ -420,6 +420,12 @@ flowchart
 A{Javascript}-->B([CS50x])
 ```
 
+---
+
+### Dwudziesty szósty tydzień
+
+09.01 - 15.01
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn,
 (In progress)
