@@ -426,6 +426,8 @@ A{Javascript}-->B([CS50x])
 
 09.01 - 15.01
 
+Dalej JS. Mam zamiar przerobić cały materiał od początku, podstawowe koncepcje, a nawet zaawansowane sposoby manipulacji danymi są przeze mnie bardzo dobrze zrozumiałe. W wolnej chwili wpadają "shorty" z CS50x, które są powtórką teoretycznych zagadnień programowania.
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn,
 (In progress)
