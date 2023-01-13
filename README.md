@@ -426,7 +426,7 @@ A{Javascript}-->B([CS50x])
 
 09.01 - 15.01
 
-Dalej JS. Mam zamiar przerobić cały materiał od początku, podstawowe koncepcje, a nawet zaawansowane sposoby manipulacji danymi są przeze mnie bardzo dobrze zrozumiałe. W wolnej chwili wpadają "shorty" z CS50x, które są powtórką teoretycznych zagadnień programowania. Powtórka wchodzi gładko, czytam dużo dokumentacji, dopinam małe zaległości. Na tapecie mam jeszcze mały projekcik z GRIDa, potem 2-3 projekty w JS i podpowiadają mi ludzie z grupy, żeby po tym przejść na TS + React, myślę, że pod koniec stycznia już mógłbym.
+Dalej JS. Mam zamiar przerobić cały materiał od początku, podstawowe koncepcje, a nawet zaawansowane sposoby manipulacji danymi są przeze mnie bardzo dobrze zrozumiałe. W wolnej chwili wpadają "shorty" z CS50x, które są powtórką teoretycznych zagadnień programowania. Powtórka wchodzi gładko, czytam dużo dokumentacji, dopinam małe zaległości. Na tapecie mam jeszcze mały projekcik z GRIDa, potem 2-3 projekty w JS i podpowiadają mi ludzie z grupy, żeby po tym przejść na TS + React, myślę, że pod koniec stycznia już mógłbym. Kolejny dzień JS to manipulacja DOM. Wpadł też wykład Harvardzki z CS50x, algorytmy, sortowanie i szukanie danych.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn,
