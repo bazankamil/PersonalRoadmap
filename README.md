@@ -439,7 +439,7 @@ A{Javascript}-->B([CS50x])
 
 16.01 - 22.01
 
-Jeszcze dwa tygodnie JS.
+Jeszcze dwa tygodnie daje sobie na powtórkę JS. W międzyczasie oglądam wykłady z Harvardu i czytam dokumentacje.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn,
