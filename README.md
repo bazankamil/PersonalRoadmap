@@ -439,7 +439,7 @@ A{Javascript}-->B([CS50x])
 
 16.01 - 22.01
 
-Jeszcze dwa tygodnie daje sobie na powtórkę JS. W międzyczasie oglądam wykłady z Harvardu i czytam dokumentacje.
+Jeszcze dwa tygodnie daje sobie na powtórkę JS. W międzyczasie oglądam wykłady z Harvardu i czytam dokumentacje. Zacząłem także ostatni (jak narazie) projekcik z web-devu (HTML, CSS) na grupę z którą uczę się programować- zabierze mi nieco czasu, ale takiej czystej praktyki nigdy nie za wiele.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn,
