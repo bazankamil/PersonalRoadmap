@@ -449,6 +449,12 @@ Jeszcze dwa tygodnie daje sobie na powtórkę JS. W międzyczasie oglądam wykł
 
 Powtórka już ostatnich aspektów JS: RegEx, async/awaits, callback itd. Do tego jeszcze grupowy projekt czeka- mam nauczkę, żeby nie zostawiać na ostatni moment, bo czasu coraz mniej, a jeszcze sporo do zrobienia. Kolejny dzień spędzony na asynchroniczności, koncepcja jest zrozumiała, ale jeszcze muszę poćwiczyć.
 
+---
+
+### Dzudziesty dziewiąty tydzień
+
+30.01 - 05.02
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn,
 (In progress)
