@@ -455,6 +455,8 @@ Powtórka już ostatnich aspektów JS: RegEx, async/awaits, callback itd. Do teg
 
 30.01 - 05.02
 
+Do końca tygodnia robię projekt grupowy, bo nie wyrobiłem się do ostatniego stycznia, stąd teraz trzeba nadrabiać, żeby do 5 lutego zdążyć. Poza tym układam ciągle informacje i wiedzę z JS. Asynchroniczność nie jest taka łatwa, wielu podaje ją za ważną technikę stąd dłużej muszę przy niej posiedzieć.
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn,
 (In progress)
