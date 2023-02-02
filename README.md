@@ -455,7 +455,7 @@ Powtórka już ostatnich aspektów JS: RegEx, async/awaits, callback itd. Do teg
 
 30.01 - 05.02
 
-Do końca tygodnia robię projekt grupowy, bo nie wyrobiłem się do ostatniego stycznia, stąd teraz trzeba nadrabiać, żeby do 5 lutego zdążyć. Poza tym układam ciągle informacje i wiedzę z JS. Asynchroniczność nie jest taka łatwa, wielu podaje ją za ważną technikę stąd dłużej muszę przy niej posiedzieć.
+Do końca tygodnia robię projekt grupowy, bo nie wyrobiłem się do ostatniego stycznia, stąd teraz trzeba nadrabiać, żeby do 5 lutego zdążyć. Poza tym układam ciągle informacje i wiedzę z JS. Asynchroniczność nie jest taka łatwa, wielu podaje ją za ważną technikę stąd dłużej muszę przy niej posiedzieć. Kolejny dzień prawie w całości spędzony na grupowym projekcie, deadline zmieniliśmy na 12 lutego, więc mam więcej czasu, ale chcę mieć czas na doszlifowanie projektu.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn,
