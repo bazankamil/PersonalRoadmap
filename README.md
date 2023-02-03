@@ -449,13 +449,19 @@ Jeszcze dwa tygodnie daje sobie na powtórkę JS. W międzyczasie oglądam wykł
 
 Powtórka już ostatnich aspektów JS: RegEx, async/awaits, callback itd. Do tego jeszcze grupowy projekt czeka- mam nauczkę, żeby nie zostawiać na ostatni moment, bo czasu coraz mniej, a jeszcze sporo do zrobienia. Kolejny dzień spędzony na asynchroniczności, koncepcja jest zrozumiała, ale jeszcze muszę poćwiczyć.
 
+```mermaid
+flowchart
+A{async/awaits, callback}-->B([RegEx])
+A-->C([Grupowy Projekt])
+```
+
 ---
 
-### Dzudziesty dziewiąty tydzień
+### Dwudziesty dziewiąty tydzień
 
 30.01 - 05.02
 
-Do końca tygodnia robię projekt grupowy, bo nie wyrobiłem się do ostatniego stycznia, stąd teraz trzeba nadrabiać, żeby do 5 lutego zdążyć. Poza tym układam ciągle informacje i wiedzę z JS. Asynchroniczność nie jest taka łatwa, wielu podaje ją za ważną technikę stąd dłużej muszę przy niej posiedzieć. Kolejny dzień prawie w całości spędzony na grupowym projekcie, deadline zmieniliśmy na 12 lutego, więc mam więcej czasu, ale chcę mieć czas na doszlifowanie projektu.
+Do końca tygodnia robię projekt grupowy, bo nie wyrobiłem się do ostatniego stycznia, stąd teraz trzeba nadrabiać, żeby do 5 lutego zdążyć. Poza tym układam ciągle informacje i wiedzę z JS. Asynchroniczność nie jest taka łatwa, wielu podaje ją za ważną technikę stąd dłużej muszę przy niej posiedzieć. Kolejny dzień prawie w całości spędzony na grupowym projekcie, deadline zmieniliśmy na 12 lutego, więc mam więcej czasu, ale chcę mieć czas na doszlifowanie projektu. Obejrzałem też dobry wykład o "JS Event Loop" o "setTimeout" i "requestAnimationFrame" ciekawe sprawy.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn,
