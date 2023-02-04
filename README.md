@@ -461,7 +461,7 @@ A-->C([Grupowy Projekt])
 
 30.01 - 05.02
 
-Do końca tygodnia robię projekt grupowy, bo nie wyrobiłem się do ostatniego stycznia, stąd teraz trzeba nadrabiać, żeby do 5 lutego zdążyć. Poza tym układam ciągle informacje i wiedzę z JS. Asynchroniczność nie jest taka łatwa, wielu podaje ją za ważną technikę stąd dłużej muszę przy niej posiedzieć. Kolejny dzień prawie w całości spędzony na grupowym projekcie, deadline zmieniliśmy na 12 lutego, więc mam więcej czasu, ale chcę mieć czas na doszlifowanie projektu. Obejrzałem też dobry wykład o "JS Event Loop" o "setTimeout" i "requestAnimationFrame" ciekawe sprawy.
+Do końca tygodnia robię projekt grupowy, bo nie wyrobiłem się do ostatniego stycznia, stąd teraz trzeba nadrabiać, żeby do 5 lutego zdążyć. Poza tym układam ciągle informacje i wiedzę z JS. Asynchroniczność nie jest taka łatwa, wielu podaje ją za ważną technikę stąd dłużej muszę przy niej posiedzieć. Kolejny dzień prawie w całości spędzony na grupowym projekcie, deadline zmieniliśmy na 12 lutego, więc mam więcej czasu, ale chcę mieć czas na doszlifowanie projektu. Obejrzałem też dobry wykład o "JS Event Loop" o "setTimeout" i "requestAnimationFrame" ciekawe sprawy. Pod koniec tygodnia wysłuchałem kilku konferencji i wystąpień na temat teorii programowania- tematy ogólne oraz konkretnie wokół JS.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn,
