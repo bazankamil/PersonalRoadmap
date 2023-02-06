@@ -469,6 +469,12 @@ A{JS}-->B(["Workflow" i "Learnflow"])
 A-->C([Grupowy Projekt])
 ```
 
+---
+
+### Trzydziesty tydzień
+
+06.02 - 12.02
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn,
 (In progress)
