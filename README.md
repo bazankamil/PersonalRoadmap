@@ -483,7 +483,7 @@ Dokończyłem projekt- okazał się nie taki mały (500 linijek CSS) ale jestem 
 
 13.02 - 19.02
 
-Planuje mały projekt w JS, skończyłem tetrisa z tutoriala, ale jeszcze chciałbym go rozbudować i dołożyć coś od siebie. Wróciłem także do fCC, więc cały tydzień będe siedział w Javascript. W fCC przerobiłem kolejny rozdział- tym razem Regex- powtórka, ale tym razem w pełni w parktyce.
+Planuje mały projekt w JS, skończyłem tetrisa z tutoriala, ale jeszcze chciałbym go rozbudować i dołożyć coś od siebie. Wróciłem także do fCC, więc cały tydzień będe siedział w Javascript. W fCC przerobiłem kolejny rozdział- tym razem Regex- powtórka, ale tym razem w pełni w parktyce, kolejny rodział to Debugging.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, Code Rewiev projektu, tetris, fCC CS50
