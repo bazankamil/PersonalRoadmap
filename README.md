@@ -465,7 +465,7 @@ Do końca tygodnia robię projekt grupowy, bo nie wyrobiłem się do ostatniego 
 
 ```mermaid
 flowchart
-A{JS}-->B(["Workflow" i "Learnflow"])
+A{JS}-->B([Workflow i Learnflow])
 A-->C([Grupowy Projekt])
 ```
 
@@ -476,6 +476,12 @@ A-->C([Grupowy Projekt])
 06.02 - 12.02
 
 Dokończyłem projekt- okazał się nie taki mały (500 linijek CSS) ale jestem zadowolony- nie muszę już długo się zastanawiać jak modyfikować strony, po prostu zaczynam klepać kod i manipuluje poszczególnymi częściami. W kodzie też implementowałem super-podstawowy JS, spodobało mi się więc muszę więcej projektów z JS robić. Powróciłem do freeCodeCamp i jadę dalej z materiałem z JS i zacząłem projekt JS- podstawowy tetris z tutoriala. Przez kolejny tydzień, albo dwa postanowiłem uczyć się czysto-projektowo, po tetrisie wpadnie pewnie jakiś kalkulator i coś jeszcze, czas pokaże co.
+
+```mermaid
+flowchart
+A{Grupowy Projekt}-->B([Tutorial tetris w JS])
+A-->C([fCC])
+```
 
 ---
 
