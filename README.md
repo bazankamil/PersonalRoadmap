@@ -492,6 +492,12 @@ A-->C([fCC])
 Planuje mały projekt w JS, skończyłem tetrisa z tutoriala, ale jeszcze chciałbym go rozbudować i dołożyć coś od siebie. Wróciłem także do fCC, więc cały tydzień będe siedział w Javascript. W fCC przerobiłem kolejny rozdział- tym razem Regex- powtórka, ale tym razem w pełni w parktyce, kolejny rodział to Debugging.
 fCC kilka kolejnych rodziałów skończone: ES6, Debugging, Regular Expressions, Basic Data Structures. W wolnych chwilach planuje własny projekt, tylko jeszcze nie wiem, czy wcześniej poznać TS i React, czy projekt robić na czystym JS. Kolejne tygodnie przyniosą odpowiedź.
 
+---
+
+### Trzydziesty drugi tydzień
+
+20.02 - 26.02
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, Code Rewiev projektu, tetris, fCC CS50
 (In progress)
