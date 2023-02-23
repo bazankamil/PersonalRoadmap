@@ -498,7 +498,7 @@ fCC kilka kolejnych rodziałów skończone: ES6, Debugging, Regular Expressions,
 
 20.02 - 26.02
 
-fCC i dalej jadę z JS. Moduł "Basic Algorithm Scripting" jest genialny- każde kolejne zadanie jest bardziej skomplikowane i coraz mocniej trzeba modyfikować dane. Codziennie robię kilka zadań i dają mi one mnóstwo satysfakcji, przy wykonywaniu pozwalam sobie jedynie na korzystanie z dokumentacji MDN.
+fCC i dalej jadę z JS. Moduł "Basic Algorithm Scripting" jest genialny- każde kolejne zadanie jest bardziej skomplikowane i coraz mocniej trzeba modyfikować dane. Codziennie robię kilka zadań i dają mi one mnóstwo satysfakcji, przy wykonywaniu pozwalam sobie jedynie na korzystanie z dokumentacji MDN. W międzyczasie czytam też dokumentacje Typescript i React, narazie czysto teoretycznie, ale myślę, że gdzieś w marcu będę już coś implementował.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, Code Rewiev projektu, tetris, fCC CS50
