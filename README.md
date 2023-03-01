@@ -504,7 +504,7 @@ fCC i dalej jadę z JS. Moduł "Basic Algorithm Scripting" jest genialny- każde
 
 ### Trzydziesty trzeci tydzień
 
-cs50, fCC, TS, React
+cs50 -week 6 Python, fCC- kolejny moduł, TS- dokumentacja, React
 
 27.02 - 05.03
 
