@@ -504,7 +504,7 @@ fCC i dalej jadę z JS. Moduł "Basic Algorithm Scripting" jest genialny- każde
 
 ### Trzydziesty trzeci tydzień
 
-cs50 -week 6 Python, fCC- kolejny moduł, TS- dokumentacja, React
+Początek tygodnia to zakończenie 6 tygodnia w CS50x. Lekcja co prawda oparta na Pythonie, ale w wykładzie świetnie opisana filozofia OOB (Object Oriented Programming). Kolejne dni to kolejne moduły na fCC oraz czytanie dokumentacji TS.
 
 27.02 - 05.03
 
