@@ -504,11 +504,17 @@ fCC i dalej jadę z JS. Moduł "Basic Algorithm Scripting" jest genialny- każde
 
 ### Trzydziesty trzeci tydzień
 
+27.02 - 05.03
+
 Początek tygodnia to zakończenie 6 zajęć w CS50x. Lekcja co prawda oparta na Pythonie, ale w wykładzie świetnie opisana filozofia OOB (Object Oriented Programming). Kolejne dni to kolejne moduły na fCC oraz czytanie dokumentacji TS. Ćwiczenia w JS nadal dają satysfakcję z ich wykonywania.
 
 ---
 
-27.02 - 05.03
+### Trzydziesty czwarty tydzień
+
+06.03 - 12.03
+
+Tydzień Typescripta. Czytam dokumentację, robię notatki i oglądam tutorial o posługiwaniu się TS. Nie wygląda to najgorzej.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, Code Rewiev projektu, tetris, fCC CS50
