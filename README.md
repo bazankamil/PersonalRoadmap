@@ -514,7 +514,7 @@ Początek tygodnia to zakończenie 6 zajęć w CS50x. Lekcja co prawda oparta na
 
 06.03 - 12.03
 
-Tydzień Typescripta. Czytam dokumentację, robię notatki i oglądam tutorial o posługiwaniu się TS. Nie wygląda to najgorzej.
+Tydzień Typescripta. Czytam dokumentację, robię notatki i oglądam tutorial o posługiwaniu się TS. Nie wygląda to najgorzej. Całą teorię Typescripta przerobiłem, mam jeszcze kilka problemów z "generics", "instance of" czy klasami, ale te konkrety przerobię raz jeszcze, kiedy będę budował jakiś praktyczny projekt. Traversymedia(wip)
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, Code Rewiev projektu, tetris, fCC CS50
