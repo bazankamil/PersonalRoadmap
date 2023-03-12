@@ -514,7 +514,7 @@ Początek tygodnia to zakończenie 6 zajęć w CS50x. Lekcja co prawda oparta na
 
 06.03 - 12.03
 
-Tydzień Typescripta. Czytam dokumentację, robię notatki i oglądam tutorial o posługiwaniu się TS. Nie wygląda to najgorzej. Całą teorię Typescripta przerobiłem, mam jeszcze kilka problemów z "generics", "instance of" czy klasami, ale te konkrety przerobię raz jeszcze, kiedy będę budował jakiś praktyczny projekt. Obejrzałem też coroczne podsumowanie technologiczne od "Traversymedia" "Web Development In 2023 - A Practical Guide" i myślę, że jestem na dobrej drodze. Ilość nauki w tym tygodniu nie była idealna, ale nie było aż tak źle.
+Tydzień Typescripta. Czytam dokumentację, robię notatki i oglądam tutorial o posługiwaniu się TS. Nie wygląda to najgorzej. Całą teorię Typescripta przerobiłem, mam jeszcze kilka problemów z "generics", "instance of" czy klasami, ale te konkrety przerobię raz jeszcze, kiedy będę budował jakiś praktyczny projekt. Obejrzałem też coroczne podsumowanie technologiczne od "Traversymedia" "Web Development In 2023 - A Practical Guide" i myślę, że jestem na dobrej drodze. Ilość nauki w tym tygodniu nie była idealna, ale nie było aż tak źle. Kolejny tydzień ciągnę zaawansowanego JS, przerobię kolejny wykład na CS50x i być może zrobię wielką powtórkę.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, Code Rewiev projektu, tetris, fCC CS50
