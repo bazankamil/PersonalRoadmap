@@ -522,6 +522,8 @@ Tydzień Typescripta. Czytam dokumentację, robię notatki i oglądam tutorial o
 
 13.03 - 19.03
 
+Zaawansowane algorytmy JS (moduł na fCC) oraz zacząłem kolejny kurs TS, chcę go dobrze zrozumieć nim wejdę w Reacta. Myślę że ostatni tydzień marca już będzie tygodniem Reacta.
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, Code Rewiev projektu, tetris, fCC CS50
 (In progress)
