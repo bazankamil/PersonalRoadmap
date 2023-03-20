@@ -524,6 +524,12 @@ Tydzień Typescripta. Czytam dokumentację, robię notatki i oglądam tutorial o
 
 Zaawansowane algorytmy JS (moduł na fCC) oraz zacząłem kolejny kurs TS, chcę go dobrze zrozumieć nim wejdę w Reacta. Myślę że ostatni tydzień marca już będzie tygodniem Reacta. Cały tydzień na Typescript spędziłem (plus kilka zadań z JS) Teoretycznie rozumiem o co w nim chodzi, praktycznie będę ćwiczył przy implementacji reacta. Ostatni dzień tygodnia- układałem plany, o programowaniu jedynie luźno- od poniedziałku nadal TS i powtórka- później projektowo.
 
+---
+
+### Trzydziesty szósty tydzień
+
+20.03 - 26.03
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, Code Rewiev projektu, tetris, fCC CS50
 (In progress)
