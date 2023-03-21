@@ -530,6 +530,8 @@ Zaawansowane algorytmy JS (moduł na fCC) oraz zacząłem kolejny kurs TS, chcę
 
 20.03 - 26.03
 
+Wpadłem odrobinę w tutorial-hell. Uporządkowałem jednak teorię z TS i po powtórzeniu wiadomości przechodzę na projekty- zacznę od podstaw i będę zwiększał poziom trudności.
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, Code Rewiev projektu, tetris, fCC CS50
 (In progress)
