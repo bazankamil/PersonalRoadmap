@@ -532,6 +532,12 @@ Zaawansowane algorytmy JS (moduł na fCC) oraz zacząłem kolejny kurs TS, chcę
 
 Wpadłem odrobinę w tutorial-hell. Uporządkowałem jednak teorię z TS i po powtórzeniu wiadomości przechodzę na projekty- zacznę od podstaw i będę zwiększał poziom trudności. Kolejne dni robię drugą od rozpoczęcia nauki powtórkę całości materiału, powoli i spokojnie układam to co już wiem. Zacząłem też kolejny projekt z FrontendMentora- powtarzam sobie podstawy SASS plus HTML- kolejny projekt już mam nadzieje będzie przy użyciu komponentów Reacta. W weekend ładowałem baterię- od poniedziałku powtórka, projekty i przygotowania do reacta.
 
+---
+
+### Trzydziesty siódmy tydzień
+
+27.03 - 02.04
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, Code Rewiev projektu, tetris, fCC CS50
 (In progress)
