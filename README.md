@@ -538,6 +538,8 @@ Wpadłem odrobinę w tutorial-hell. Uporządkowałem jednak teorię z TS i po po
 
 27.03 - 02.04
 
+Dalsza powtórka, powtarzam cały materiał od początku nauki, do tego wypełniam luki i zgłębiam dodatkowe technologie i zagadnienia (Git + GitHub, SCRUM, Agile, Jira)
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, Code Rewiev projektu, tetris, fCC CS50
 (In progress)
