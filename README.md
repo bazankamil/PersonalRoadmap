@@ -540,6 +540,10 @@ Wpadłem odrobinę w tutorial-hell. Uporządkowałem jednak teorię z TS i po po
 
 Dalsza powtórka, powtarzam cały materiał od początku nauki, do tego wypełniam luki i zgłębiam dodatkowe technologie i zagadnienia (Git + GitHub, SCRUM, Agile, Jira) 37 tydzień okazał się kryzysowym: przygotowania do świąt, sprzedaż ogródka działkowego i całe z nim zamieszanie. Cały tydzień to jedynie 7h lekkiej nauki. Kolejny tydzień będzie lepszy!
 
+---
+
+### Trzydziesty ósmy tydzień
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, Code Rewiev projektu, tetris, fCC CS50
 (In progress)
