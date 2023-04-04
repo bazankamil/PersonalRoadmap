@@ -544,6 +544,10 @@ Dalsza powtórka, powtarzam cały materiał od początku nauki, do tego wypełni
 
 ### Trzydziesty ósmy tydzień
 
+03.04 - 09.04
+
+Tydzień zacząłem od małego projektu z frontend mentor. Ćwiczę dobre praktyki i wyszukiwanie błędów. Dodatkowo powtarzam podstawowy materiał.
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, Code Rewiev projektu, tetris, fCC CS50
 (In progress)
