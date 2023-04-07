@@ -546,7 +546,7 @@ Dalsza powtórka, powtarzam cały materiał od początku nauki, do tego wypełni
 
 03.04 - 09.04
 
-Tydzień zacząłem od małego projektu z frontend mentor. Ćwiczę dobre praktyki i wyszukiwanie błędów. Dodatkowo powtarzam podstawowy materiał. Skończyłem mały projekt grupowy (HTML CSS-SASS) biorę się za kolejny- prosty kalkulator napiwków w JS- tym razem bez jakiegokolwiek tutoriala: kartka, długopis, dokumentacja i wyszukiwarka.
+Tydzień zacząłem od małego projektu z frontend mentor. Ćwiczę dobre praktyki i wyszukiwanie błędów. Dodatkowo powtarzam podstawowy materiał. Skończyłem mały projekt grupowy (HTML CSS-SASS) biorę się za kolejny- prosty kalkulator napiwków w JS- tym razem bez jakiegokolwiek tutoriala: kartka, długopis, dokumentacja i wyszukiwarka. W międzyczasie optymalizuje VSC, czytam blogi o "snippets" czy rozszerzeniach optymalizujących pracę w VSC (quokka.js czy polacode)
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, Code Rewiev projektu, tetris, fCC CS50
