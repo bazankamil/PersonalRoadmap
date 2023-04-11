@@ -548,6 +548,12 @@ Dalsza powtórka, powtarzam cały materiał od początku nauki, do tego wypełni
 
 Tydzień zacząłem od małego projektu z frontend mentor. Ćwiczę dobre praktyki i wyszukiwanie błędów. Dodatkowo powtarzam podstawowy materiał. Skończyłem mały projekt grupowy (HTML CSS-SASS) biorę się za kolejny- prosty kalkulator napiwków w JS- tym razem bez jakiegokolwiek tutoriala: kartka, długopis, dokumentacja i wyszukiwarka. W międzyczasie optymalizuje VSC, czytam blogi o "snippets" czy rozszerzeniach optymalizujących pracę w VSC (quokka.js czy polacode) Tydzień kończy się świętami Wielkanocnymi- więc weekend trochę luźniejszy z nauką.
 
+---
+
+### Trzydziesty dziewiąty tydzień
+
+10.04 - 16.04
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, Code Rewiev projektu, fCC CS50
 (In progress)
