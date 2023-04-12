@@ -554,6 +554,8 @@ Tydzień zacząłem od małego projektu z frontend mentor. Ćwiczę dobre prakty
 
 10.04 - 16.04
 
+Projekt JS: Kalkulator napiwków, tym razem bez tutoriali, jedynie dokumentacja i wyszukiwanie w internecie tego co akurat jest mi potrzebne. Work-flow jest całkiem inny niż przy samej nauce teorii czy oglądaniu tutoriali, bardziej wymagające, ale bardziej mi się podoba- projekty to jednak najlepsze rozwiązanie.
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, Code Rewiev projektu, fCC CS50
 (In progress)
