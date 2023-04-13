@@ -554,7 +554,7 @@ Tydzień zacząłem od małego projektu z frontend mentor. Ćwiczę dobre prakty
 
 10.04 - 16.04
 
-Projekt JS: Kalkulator napiwków, tym razem bez tutoriali, jedynie dokumentacja i wyszukiwanie w internecie tego co akurat jest mi potrzebne. Work-flow jest całkiem inny niż przy samej nauce teorii czy oglądaniu tutoriali, bardziej wymagające, ale bardziej mi się podoba- projekty to jednak najlepsze rozwiązanie.
+Projekt JS: Kalkulator napiwków, tym razem bez tutoriali, jedynie dokumentacja i wyszukiwanie w internecie tego co akurat jest mi potrzebne. Work-flow jest całkiem inny niż przy samej nauce teorii czy oglądaniu tutoriali, bardziej wymagające, ale bardziej mi się podoba- projekty to jednak najlepsze rozwiązanie. Dyscyplina i rygor w miejsce motywacji. Od początku tygodnia codziennie wstaje przed świtem, żeby 2h się uczyć, robię 30min przerwę na kawę i rozciąganie i wracam na kolejne 2h nauki- po 4 dniu takiego tempa zrobiłem więcej niż przez poprzednie 2 tygodnie. Dyscyplina, rygor i nauka na projektach- to najlepszy sposób na efektywną naukę.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, Code Rewiev projektu, fCC CS50
