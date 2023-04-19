@@ -562,6 +562,8 @@ Projekt JS: Kalkulator napiwków, tym razem bez tutoriali, jedynie dokumentacja 
 
 17.04 - 23.04
 
+Dokończyłem projekt z podstawą JS- kilka rozwiązań jest naciąganych, kilka do poprawki, ale jest "good enough" wiele się nauczyłem, projekt skopał mi tyłek, w pełni skupiam się od tego (czterdziestego już) tygodnia na budowaniu projektów.
+
 (In progress)
-Frontend Mentor, książka, fCC, Sololearn, Code Rewiev projektu, fCC CS50
+Frontend Mentor, książka, fCC, Sololearn, fCC CS50
 (In progress)
