@@ -564,6 +564,12 @@ Projekt JS: Kalkulator napiwków, tym razem bez tutoriali, jedynie dokumentacja 
 
 Dokończyłem projekt z podstawą JS- kilka rozwiązań jest naciąganych, kilka do poprawki, ale jest "good enough" wiele się nauczyłem, projekt skopał mi tyłek, w pełni skupiam się od tego (czterdziestego już) tygodnia na budowaniu projektów. Wrzuciłem w końcu rozwiązania na stronę Frontend Mentor - 5 projekcików zrobionych, już dwa kolejne namierzone. Weekend luźniejszy- kończę teorię z CS50x, a od poniedziałku nowy projekt z Frontend Mentor.
 
+---
+
+### Czterdziesty pierwszy tydzień
+
+24.04 - 30.04
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid
 (In progress)
