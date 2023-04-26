@@ -570,7 +570,7 @@ Dokończyłem projekt z podstawą JS- kilka rozwiązań jest naciąganych, kilka
 
 24.04 - 30.04
 
-Początek tygodnia trochę wolniejszy- kończę wykład z CS50x- week 8 "HTML, CSS, JavaScript" sporo dość przydatnej teorii o programowaniu. Chwila w teorii i wracam do projektu z Frontend Mentor.
+Początek tygodnia trochę wolniejszy- kończę wykład z CS50x- week 8 "HTML, CSS, JavaScript" sporo dość przydatnej teorii o programowaniu. Chwila w teorii i wracam do projektu z Frontend Mentor. Projekt skończony- choć kod jest bardzo podstawowy, pisanie drobnego, ale działającego programu daje bardzo dużą satysfakcję, 6 projekt leci na GitHuba, a ja myślę nad kolejnym.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka
