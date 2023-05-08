@@ -580,6 +580,12 @@ Początek tygodnia trochę wolniejszy- kończę wykład z CS50x- week 8 "HTML, C
 
 Pierwsze trzy dni utrudnione przez majówkę i spotkania rodzinne, ale wcześniejsza pobudka załatwiła sprawę. Rozpocząłem 7 projekt na Frontend Mentor i w 2h od zera zrobiłem całość HTML i CSS - kolejny dzień będzie pod znakiem JS. JS podstawowy idzie dobrze, kolejnego dnia będę musiał poćwiczyć z obiektami "Date" żeby dobrze nimi w projekcie operować. Kolejny dzień to praca nad projektem- selectors i eventListeners opanowałem, ale rozplanowanie całej logiki trochę mi jeszcze zajmie. Ciągle siedzę nad logiką projektu, nie ma lekko, przy okazji poczytałem o fundamentach Agile, Scrum i Kanban- warto by było wprowadzić do nauki jakiś system. Postanowiłem kolejny miesiąc spędzić w JS- mniej będę się rozpraszał i rozdrabniał, muszę porządnie pojąć fundamenty.
 
+---
+
+### Czterdziesty trzeci tydzień
+
+08.05 - 14.05
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
 (In progress)
