@@ -586,7 +586,7 @@ Pierwsze trzy dni utrudnione przez majówkę i spotkania rodzinne, ale wcześnie
 
 08.05 - 14.05
 
-Git, Github, i skupiam się na JS. Zadania z JS i dużo czytania dokumentacji i blogów. Kilkanaście artykułów o programowaniu przeczytałem, natrafiłem na mur jeśli chodzi o JS- kolejne dni będę robił dochodzenie jak rozwiązać mój problem.
+Git, Github, i skupiam się na JS. Zadania z JS i dużo czytania dokumentacji i blogów. Kilkanaście artykułów o programowaniu przeczytałem, natrafiłem na mur jeśli chodzi o JS- kolejne dni będę robił dochodzenie jak rozwiązać mój problem. Odstresować się muszę od JS- piątek spędziłem przy instalowaniu Virtualnej Maszyny na Linuxie i nauki komend, weekend to wieczór kawalerski i odpoczynek po nim, coś czuję, że będe "słaby" w sobotę i niedzielę. Cóż od poniedziałku powrót do walki.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
