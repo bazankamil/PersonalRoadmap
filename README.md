@@ -594,6 +594,8 @@ Git, Github, i skupiam się na JS. Zadania z JS i dużo czytania dokumentacji i 
 
 15.05 - 21.05
 
+Tydzień lekkiego chilloutu. Nadal uczę się po 4h dziennie, ale robię kurs "Learn How to Learn" i CS50x, więc więcej wykładów, troszkę odpoczywam od JS.
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
 (In progress)
