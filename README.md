@@ -598,7 +598,11 @@ Tydzień lekkiego chilloutu. Nadal uczę się po 4h dziennie, ale robię kurs "L
 
 ---
 
-wip 45 linux, odin, wykłady,
+### Czterdziesty piąty tydzień
+
+22.05 - 28.05
+
+Skonfigurowałem linuxa na wirtualnym napędzie, bawiłem się sporo terminalem, oswajam się z shellem. Dokończyłem też czytanie dodatkowych artykułów i słuchać wykładów z kursu "Learn How to Learn". W tym tygodniu głównie Odin project i w międzyczasie kilka podcastów o programowaniu może wleci.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
