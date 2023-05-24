@@ -602,7 +602,7 @@ Tydzień lekkiego chilloutu. Nadal uczę się po 4h dziennie, ale robię kurs "L
 
 22.05 - 28.05
 
-Skonfigurowałem linuxa na wirtualnym napędzie, bawiłem się sporo terminalem, oswajam się z shellem. Dokończyłem też czytanie dodatkowych artykułów i słuchać wykładów z kursu "Learn How to Learn". W tym tygodniu głównie Odin project i w międzyczasie kilka podcastów o programowaniu może wleci.
+Skonfigurowałem linuxa na wirtualnym napędzie, bawiłem się sporo terminalem, oswajam się z shellem. Dokończyłem też czytanie dodatkowych artykułów i słuchać wykładów z kursu "Learn How to Learn". W tym tygodniu głównie Odin project i w międzyczasie kilka podcastów o programowaniu może wleci. Przerabiam podstawy HTML i CSS z Odin Project (tak raz jeszcze) ale tym razem to czysta powrtórka, łapię dzięki temu dużo motywacji, bo są do dla mnie bardzo zrozumiałe tematy.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
