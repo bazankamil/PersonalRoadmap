@@ -604,6 +604,10 @@ Tydzień lekkiego chilloutu. Nadal uczę się po 4h dziennie, ale robię kurs "L
 
 Skonfigurowałem linuxa na wirtualnym napędzie, bawiłem się sporo terminalem, oswajam się z shellem. Dokończyłem też czytanie dodatkowych artykułów i słuchać wykładów z kursu "Learn How to Learn". W tym tygodniu głównie Odin project i w międzyczasie kilka podcastów o programowaniu może wleci. Przerabiam podstawy HTML i CSS z Odin Project (tak raz jeszcze) ale tym razem to czysta powtórka, łapię dzięki temu dużo motywacji, bo są do dla mnie bardzo zrozumiałe tematy. Nadaję duże tempo, jestem już w połowie pierwszego kursu "Foundations Course" Kolejny dzień powtórek, dobre tempo, linux sprawia dużo przyjemności.
 
+### Czterdziesty szósty tydzień
+
+29.05 - 04.06
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
 (In progress)
