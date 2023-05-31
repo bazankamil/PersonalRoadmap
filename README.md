@@ -608,7 +608,7 @@ Skonfigurowałem linuxa na wirtualnym napędzie, bawiłem się sporo terminalem,
 
 29.05 - 04.06
 
-Odin Project. W kilka dni ogarnąłem na szybko powtórkę przed JS, w czerwcu powinienem liznąć już Reacta.
+Odin Project. W kilka dni ogarnąłem na szybko powtórkę przed JS, w czerwcu powinienem liznąć już Reacta. Kolejny dzień- końcówki powtórki, na spokojnie przechodzę etapy budowania apki w JS- muszę przezwyciężyć paraliż "pustego edytora".
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
