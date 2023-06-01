@@ -608,7 +608,7 @@ Skonfigurowałem linuxa na wirtualnym napędzie, bawiłem się sporo terminalem,
 
 29.05 - 04.06
 
-Odin Project. W kilka dni ogarnąłem na szybko powtórkę przed JS, w czerwcu powinienem liznąć już Reacta. Kolejny dzień- końcówki powtórki, na spokojnie przechodzę etapy budowania apki w JS- muszę przezwyciężyć paraliż "pustego edytora".
+Odin Project. W kilka dni ogarnąłem na szybko powtórkę przed JS, w czerwcu powinienem liznąć już Reacta. Kolejny dzień- końcówki powtórki, na spokojnie przechodzę etapy budowania apki w JS- muszę przezwyciężyć paraliż "pustego edytora". Kolejny dzień to Odin projekt, przedostatni wykład z CS50x (o form autentication) i zagłębianie się w możliwości linuxa- chcę bardziej go spersonalizować.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
