@@ -618,7 +618,7 @@ Odin Project. W kilka dni ogarnąłem na szybko powtórkę przed JS, w czerwcu p
 
 05.06 - 11.06
 
-JS w Odin-projekcie. Niby już drugi czy nawet trzeci raz przechodzę przez ten materiał, ale nadal dowiaduję się czegoś nowego. Dobrze zorganizowany ten Odin Projekt, tylko jako pierwsze źródło- pewnie byłoby trochę trudno. Dużo czytania i nauki w ostatnich dniach, głównie teoria, ale zbliżają się większe projekty w JS.
+JS w Odin-projekcie. Niby już drugi czy nawet trzeci raz przechodzę przez ten materiał, ale nadal dowiaduję się czegoś nowego. Dobrze zorganizowany ten Odin Projekt, tylko jako pierwsze źródło- pewnie byłoby trochę trudno. Dużo czytania i nauki w ostatnich dniach, głównie teoria, ale zbliżają się większe projekty w JS. Czwartek- Piątek w tym tygodniu to przerwa od nauki, z okazji ślubu znajomego- jak będę w stanie to w weekend wrócę, jak nie to od kolejnego tygodnia.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
