@@ -620,6 +620,12 @@ Odin Project. W kilka dni ogarnąłem na szybko powtórkę przed JS, w czerwcu p
 
 JS w Odin-projekcie. Niby już drugi czy nawet trzeci raz przechodzę przez ten materiał, ale nadal dowiaduję się czegoś nowego. Dobrze zorganizowany ten Odin Projekt, tylko jako pierwsze źródło- pewnie byłoby trochę trudno. Dużo czytania i nauki w ostatnich dniach, głównie teoria, ale zbliżają się większe projekty w JS. Czwartek- Piątek w tym tygodniu to przerwa od nauki, z okazji ślubu znajomego- jak będę w stanie to w weekend wrócę, jak nie to od kolejnego tygodnia.
 
+---
+
+### Czterdziesty ósmy tydzień
+
+12.06 - 18.06
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
 (In progress)
