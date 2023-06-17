@@ -628,6 +628,10 @@ JS w Odin-projekcie. Niby już drugi czy nawet trzeci raz przechodzę przez ten 
 
 Odin Project- zbliżam się do pierwszego projektu z JS wewnątrz OP. Do tego rozwiązuję dużo małych zadanek z JS- powtarzam pisanie funkcji: zwykłych, strzałkowych, anonimowych etc. Ćwiczę, żeby było to dla mnie jak pamięć mięśniowa. Kolejny dzień- temat: problem solving. Wysłuchałem świetnego wykładu Andy Harris'a, który odbudował moją motywację do nauki programowania. Zacząłem też czytać ksiażkę Spraul V. A. - "Myśl jak programista" pierwszy rozdział jest świetnym źródłem informacji o rozwiązywaniu problemów i procesie myślowym z tym związanym.
 
+---
+
+### Czterdziesty dziewiąty tydzień
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
 (In progress)
