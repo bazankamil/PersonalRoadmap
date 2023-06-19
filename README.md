@@ -632,6 +632,10 @@ Odin Project- zbliżam się do pierwszego projektu z JS wewnątrz OP. Do tego ro
 
 ### Czterdziesty dziewiąty tydzień
 
+19.06 - 25.06
+
+Dalszy ciąg Odin Project. Debugging i problem solving.
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
 (In progress)
