@@ -636,6 +636,12 @@ Odin Project- zbliżam się do pierwszego projektu z JS wewnątrz OP. Do tego ro
 
 Dalszy ciąg Odin Project. Debugging i problem solving. Pierwszy projekt w tworzeniu gry papier - kamień - norzyce będzie dla mnie przełomowy! Pierwsza wersja programu zrobiona- całość dobrze działa w konsoli, znalazłem kilka bugów, jednak naprawiać je będę, kiedy powrócę do projektu robiąc wersję graficzną. Pasja programowania ponownie odżyła! Kolejny dzień rozwiązywania zadań w JS- duża powtórka, jednak nie tracę nadziei, sytuacja na rynku jest ponoć ciężka, ale skupiam się na budowaniu własnych umiejętności.
 
+---
+
+### Pięćdziesiąty tydzień
+
+26.06 - 02.07
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
 (In progress)
