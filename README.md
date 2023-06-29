@@ -642,7 +642,7 @@ Dalszy ciąg Odin Project. Debugging i problem solving. Pierwszy projekt w tworz
 
 26.06 - 02.07
 
-Odin Project- dużo zadań, każdego dnia staram się napisać kilka prostych funkcji, użyć kilku metod.
+Odin Project- dużo zadań, każdego dnia staram się napisać kilka prostych funkcji, użyć kilku metod. Powtórka DOM i jutro wracam do pierwszego projektu implementować JS.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
