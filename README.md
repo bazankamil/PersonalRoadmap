@@ -650,6 +650,8 @@ Odin Project- dużo zadań, każdego dnia staram się napisać kilka prostych fu
 
 03.07 - 09.07
 
+Odin project- skończyłem grę w papier - kamień - norzyce. Jeszcze do niej wrócę, bo widzę, że można do niej dodać kilka dodatkowych funkcji.
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
 (In progress)
