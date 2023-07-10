@@ -652,6 +652,10 @@ Odin Project- dużo zadań, każdego dnia staram się napisać kilka prostych fu
 
 Odin project- skończyłem grę w papier - kamień - norzyce. Jeszcze do niej wrócę, bo widzę, że można do niej dodać kilka dodatkowych funkcji. Rozpocząłem kolejny projekt- "etch-a-sketch" niezbyt skomplikowany, ale podstawy udało się zrobić dość szybko- umysł już sam wyłapuje co może pójść nie tak, więcej praktyki daje dywidendy. Szlifuje projekt, a w międzyczasie słucham świetnych wykładów Andy Harrisa- został jeszcze jeden.
 
+---
+
+### Pięćdziesiąty drugi tydzień
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
 (In progress)
