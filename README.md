@@ -656,6 +656,10 @@ Odin project- skończyłem grę w papier - kamień - norzyce. Jeszcze do niej wr
 
 ### Pięćdziesiąty drugi tydzień
 
+10.07 - 16.07
+
+Zakończony projekt Etch-a-sketch.
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
 (In progress)
