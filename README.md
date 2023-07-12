@@ -658,7 +658,7 @@ Odin project- skończyłem grę w papier - kamień - norzyce. Jeszcze do niej wr
 
 10.07 - 16.07
 
-Zakończony projekt Etch-a-sketch.
+Zakończony projekt Etch-a-sketch. W Odin Projekt duża powtórka obiektów- konstruktorów, method itd.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
