@@ -664,6 +664,10 @@ Zakończony projekt Etch-a-sketch. W Odin Projekt duża powtórka obiektów- kon
 
 ### Pięćdziesiąty trzeci tydzień
 
+17.07 - 23.07
+
+W Odin Project pisze dużo małych programików: manipulacje stringami i array, kalkulatory, konwersje temperatury.
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
 (In progress)
