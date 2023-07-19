@@ -666,7 +666,7 @@ Zakończony projekt Etch-a-sketch. W Odin Projekt duża powtórka obiektów- kon
 
 17.07 - 23.07
 
-W Odin Project pisze dużo małych programików: manipulacje stringami i array, kalkulatory, konwersje temperatury.
+W Odin Project pisze dużo małych programików: manipulacje stringami i array, kalkulatory, konwersje temperatury. Kolejny dzień to Palindrom- trochę mi zajęło, ale choć kod o wiele dłuższy niż ten podany jako "wzór" to myślę że bardziej czytelny... ważne że działa! Potrzebuję dużo więcej praktyki z metodami na tablicach- na tym będę się skupiał w najbliższych dniach.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
