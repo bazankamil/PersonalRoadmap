@@ -672,6 +672,10 @@ W Odin Project pisze dużo małych programików: manipulacje stringami i array, 
 
 ### Pięćdziesiąty czwarty tydzień
 
+24.07 - 30.07
+
+Tydzień luzu na filmiki, wykłady i tematy poboczne.
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
 (In progress)
