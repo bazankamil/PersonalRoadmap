@@ -674,7 +674,7 @@ W Odin Project pisze dużo małych programików: manipulacje stringami i array, 
 
 24.07 - 30.07
 
-Tydzień luzu na filmiki, wykłady i tematy poboczne.
+Tydzień luzu na filmiki, wykłady i tematy poboczne. Zbliża się okres urlopu więc i jak u typowego polaka okres remontów, zrobię sobie wtedy przerwę od programowania- jak narazie nadal luźne filmy.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
