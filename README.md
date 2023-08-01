@@ -676,6 +676,14 @@ W Odin Project pisze dużo małych programików: manipulacje stringami i array, 
 
 Tydzień luzu na filmiki, wykłady i tematy poboczne. Zbliża się okres urlopu więc i jak u typowego polaka okres remontów, zrobię sobie wtedy przerwę od programowania- jak narazie nadal luźne filmy.
 
+---
+
+### Pięćdziesiąty piąty tydzień
+
+31.07 - 06.08
+
+URLOP- odpoczywam na świeżym powietrzu. 
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
 (In progress)
