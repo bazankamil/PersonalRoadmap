@@ -682,7 +682,15 @@ Tydzień luzu na filmiki, wykłady i tematy poboczne. Zbliża się okres urlopu 
 
 31.07 - 06.08
 
-URLOP- odpoczywam na świeżym powietrzu. 
+URLOP- odpoczywam na świeżym powietrzu.
+
+---
+
+### Pięćdziesiąty szósty tydzień
+
+07.08 - 13.08
+
+URLOP- Remonty, sprzątanie, ogródek, odpoczynek od programowania.
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
