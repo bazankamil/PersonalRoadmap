@@ -692,6 +692,12 @@ URLOP- odpoczywam na świeżym powietrzu.
 
 URLOP- Remonty, sprzątanie, ogródek, odpoczynek od programowania.
 
+---
+
+### Pięćdziesiąty siódmy tydzień
+
+14.08 - 20.08
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
 (In progress)
