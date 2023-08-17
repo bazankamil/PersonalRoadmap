@@ -698,7 +698,7 @@ URLOP- Remonty, sprzątanie, ogródek, odpoczynek od programowania.
 
 14.08 - 20.08
 
-Powracam do nauki. Po 2 tygodniach jest trudno, ale nie z wiedzą, tylko z fizycznym siedzeniem przed komputerem- na razie nic nowego- powtarzam i przypominam sobie wiedzę.
+Powracam do nauki. Po 2 tygodniach jest trudno, ale nie z wiedzą, tylko z fizycznym siedzeniem przed komputerem- na razie nic nowego- powtarzam i przypominam sobie wiedzę. Głównie skupiam się na stworzeniu systemu, w którym mógłbym każdego dnia napisać przynajmniej kilka prostych funkcji, celem jest, żeby sam proces pisania kodu stał się bardziej "naturalny".
 
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
