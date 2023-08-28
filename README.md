@@ -708,6 +708,12 @@ Powracam do nauki. Po 2 tygodniach jest trudno, ale nie z wiedzą, tylko z fizyc
 
 Dalsze utrwalanie wiedzy, piszę też małe funkcje dla utrwalenia w pamięci mięśniowej. Ciężko wrócić do dawnego trybu- przed urlopem uczyłem się po 4h dziennie, teraz 2h to czasem górna granica. Trochę potrwa zanim wrócę do dawnej formy.
 
+---
+
+### Pięćdziesiąty dziewiąty tydzień
+
+28.08 - 03.09
+
 (In progress)
 Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
 (In progress)
