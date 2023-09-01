@@ -717,5 +717,5 @@ Dalsze utrwalanie wiedzy, piszę też małe funkcje dla utrwalenia w pamięci mi
 Life happens- dużo rzeczy się nawarstwia, nie mam czasu spokojnie przysiąść do kodzenia- poranne sesje wychodzą spoko, ale w ciągu dnia trudno o 15min skupienia. Układam sobie całą wiedzę i odhaczam wraz z roadmapą- dużo fluffu w ostatnich 2 tygodniach, ale staram się wrócić do stanu sprzed 2tyg gdzie kodziłem regularnie.
 
 (In progress)
-Frontend Mentor, książka, fCC, Sololearn, fCC CS50, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, formularz
+Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
