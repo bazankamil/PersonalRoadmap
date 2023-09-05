@@ -722,6 +722,8 @@ Life happens- dużo rzeczy się nawarstwia, nie mam czasu spokojnie przysiąść
 
 04.09 - 10.09
 
+Powoli wracam do dawnego trybu nauki, układam wiedzę, segreguję, jeszcze chwilka i powrót do projektów.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
