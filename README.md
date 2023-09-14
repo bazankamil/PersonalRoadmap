@@ -730,6 +730,8 @@ Powoli wracam do dawnego trybu nauki, układam wiedzę, segreguję, jeszcze chwi
 
 11.09 - 17.09
 
+W tym tygodniu przygotowuje się na powrót do Odin Project, douczam się więc pomniejszych luk, które sobie wypisałem przed "urlopem od programowania" (aty i codewars)
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
