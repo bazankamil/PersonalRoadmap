@@ -738,6 +738,8 @@ W tym tygodniu przygotowuje się na powrót do Odin Project, douczam się więc 
 
 18.09 - 24.09
 
+Codewars codziennie dla praktyki, czytam wiele artykułów, które porządkują wiedzę i wracam do Odin Projekt, żeby pracować nad projektami.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
