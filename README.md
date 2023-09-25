@@ -740,6 +740,12 @@ W tym tygodniu przygotowuje się na powrót do Odin Project, douczam się więc 
 
 Codewars codziennie dla praktyki, czytam wiele artykułów, które porządkują wiedzę i wracam do Odin Projekt, żeby pracować nad projektami. Coraz swobodniej używam metod i HOF (Higher-Order Functions) na Codewars pękło 30 zadań, od jutra ostatni projekt z Odin Projekt i nadal grind na Codewars. Codzienna praktyka z Codewars sprawia mi przyjemność, chociaż niezbyt trudne zadania czasami zajmują mi po 20-40min. Dużo przedemną, ale praktyka jest ciągła i stabilna. Kolejny dzień to ponownie praca przy projekcie oraz Codewars- wyrabiam dobrą praktykę.
 
+---
+
+### Sześćdziesiąty trzeci tydzień
+
+25.09 - 01.10
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
