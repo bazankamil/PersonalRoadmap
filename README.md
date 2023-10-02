@@ -748,6 +748,12 @@ Codewars codziennie dla praktyki, czytam wiele artykułów, które porządkują 
 
 Na Codewars wbiłem 40 rozwiązanych zadań- pracuje nad zwięzłym pisaniem funkcji. Projekt kalkulatora rozbiłem na pomniejsze zadania, powinnienem skończyć go w tym tygodniu. Dwa ostatnie dni przypominałem sobie manipulowanie DOM i selectory z JS. Rozplanowałem cały projekt na pomniejsze etapy- w kolejnym tygodniu powinnienem mieć więcej czasu.
 
+---
+
+### Sześćdziesiąty czwarty tydzień
+
+02.10 - 08.10
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
