@@ -754,6 +754,8 @@ Na Codewars wbiłem 40 rozwiązanych zadań- pracuje nad zwięzłym pisaniem fun
 
 02.10 - 08.10
 
+Projekt kalkulatora już prawie skończony, do tego Codewars idzie mi coraz sprawniej.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
