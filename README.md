@@ -756,6 +756,12 @@ Na Codewars wbiłem 40 rozwiązanych zadań- pracuje nad zwięzłym pisaniem fun
 
 Projekt kalkulatora już prawie skończony, do tego Codewars idzie mi coraz sprawniej. W połowie tygodnia skończyłem kalkulator- myślę że poszło mi sprawnie, wiele potencjalnych problemów widziałem jeszcze zanim napisałem kod, osiągnąłem wszystko co chciałem. Wybrałem w Odin Projekt "Full Stack JavaScript" ale nowy kurs zostawiam na kolejny dzień- teraz grind Codewars. Kolejne etapy The Odin Project, powtórka HTML i CSS- szybko przechodzi, bo solidnie już znam te tematy. Piątek zamykam kilkoma zadaniami z codewars i dalszą teorią z TOP. Zacząłem w wolnym czasie czytać także książkę "Czysty kod" i co prawda materiał jest przeznaczony raczej do bardziej zaawansowanych w branży, ale myślę, że zaznajomienie się z treścią będzie pożyteczne nawet na moim poziomie wtajemniczenia.
 
+---
+
+### Sześćdziesiąty piąty tydzień
+
+09.10 - 15.10
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
