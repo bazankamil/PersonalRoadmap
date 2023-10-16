@@ -762,7 +762,13 @@ Projekt kalkulatora już prawie skończony, do tego Codewars idzie mi coraz spra
 
 09.10 - 15.10
 
-Kontynuuje kurs TOP (The Odin Project) dużo powtórek, ale przez to idzie szybko, w międzyczasie klepię codewarsy. Kilka dni bez progresu- remonty, sprawy urzędowe, opał na zimę itp. Może w piątek coś jeszcze wpadni.
+Kontynuuje kurs TOP (The Odin Project) dużo powtórek, ale przez to idzie szybko, w międzyczasie klepię codewarsy. Kilka dni bez progresu- remonty, sprawy urzędowe, opał na zimę itp. Może w piątek coś jeszcze wpadnie. W weekend układałem plany na nowy tydzień nauki, czasu w zimne dni niestety będzie mniej, ale powinienem utrzymać tempo.
+
+---
+
+### Sześćdziesiąty szósty tydzień
+
+16.10 - 22.10
 
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
