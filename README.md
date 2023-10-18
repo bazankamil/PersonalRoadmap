@@ -770,7 +770,7 @@ Kontynuuje kurs TOP (The Odin Project) dużo powtórek, ale przez to idzie szybk
 
 16.10 - 22.10
 
-Kontynuacja TOP. Skrobię kolejny projekt- prosty formularz i zabawa z walidacją- regex, validity, walidacja po stronie clienta i w JS.
+Kontynuacja TOP. Skrobię kolejny projekt- prosty formularz i zabawa z walidacją- regex, validity, walidacja po stronie clienta i w JS. Projekt prawie skończony, zostały mi tylko testy i trochę walidacji JS.
 
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
