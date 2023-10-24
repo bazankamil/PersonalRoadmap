@@ -778,6 +778,8 @@ Kontynuacja TOP. Skrobię kolejny projekt- prosty formularz i zabawa z walidacj�
 
 23.10 - 29.10
 
+Dużo na głowie w tym tygodniu, na komputerze niewiele czasu spędzam, więc podganiam książkę i uczę się testów jednostkowych z Jest.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
