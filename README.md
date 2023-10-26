@@ -778,7 +778,7 @@ Kontynuacja TOP. Skrobię kolejny projekt- prosty formularz i zabawa z walidacj�
 
 23.10 - 29.10
 
-Dużo na głowie w tym tygodniu, na komputerze niewiele czasu spędzam, więc podganiam książkę i uczę się testów jednostkowych z Jest. Robię aktualizację roadmapy- dopisuje brakujące technologie, planuje kolejne etapy nauki, dni są cięższe, zapał mniejszy, ale każdego dnia kroczek do przodu.
+Dużo na głowie w tym tygodniu, na komputerze niewiele czasu spędzam, więc podganiam książkę i uczę się testów jednostkowych z Jest. Robię aktualizację roadmapy- dopisuje brakujące technologie, planuje kolejne etapy nauki, dni są cięższe, zapał mniejszy, ale każdego dnia kroczek do przodu. Formularz z TOP już prawie gotowy- zamiast godzin, wyciskam minuty, ale jest ciągły progres.
 
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
