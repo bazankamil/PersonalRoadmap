@@ -784,6 +784,10 @@ Dużo na głowie w tym tygodniu, na komputerze niewiele czasu spędzam, więc po
 
 ### Sześćdziesiąty ósmy tydzień
 
+30.10 - 05.11
+
+Tydzień prawie stracony dla programowania. Święto Wszystkich Świętych, wyjazdy, odwiedziny, nadrabianie innych spraw.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
