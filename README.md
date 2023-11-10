@@ -794,7 +794,7 @@ Tydzień prawie stracony dla programowania. Święto Wszystkich Świętych, wyja
 
 06.11 - 12.11
 
-W TOP powtórka GRIDa, do tego podstawy Jest.
+W TOP powtórka GRIDa, do tego podstawy Jest. Powtórki, układanie tematów- mało progresu.
 
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
