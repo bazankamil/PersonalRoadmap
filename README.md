@@ -796,6 +796,12 @@ Tydzień prawie stracony dla programowania. Święto Wszystkich Świętych, wyja
 
 W TOP powtórka GRIDa, do tego podstawy Jest. Powtórki, układanie tematów- mało progresu.
 
+---
+
+### Siedemdziesiąty tydzień
+
+13.11-19.11
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
