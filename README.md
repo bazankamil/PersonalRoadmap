@@ -802,6 +802,8 @@ W TOP powtórka GRIDa, do tego podstawy Jest. Powtórki, układanie tematów- ma
 
 13.11-19.11
 
+Powolutku. Ogarnąłem podstawy testowania (teoria plus kilka testów praktyki) w programie Jest.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
