@@ -804,6 +804,12 @@ W TOP powtórka GRIDa, do tego podstawy Jest. Powtórki, układanie tematów- ma
 
 Powolutku. Ogarnąłem podstawy testowania (teoria plus kilka testów praktyki) w programie Jest. Kolejny dzień to obsługa linuxa, komenda grep, czy też kilka wtyczek do VSC (Regex Previewer)
 
+---
+
+### Siedemdziesiąty pierwszy tydzień
+
+20.11-26.11
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
