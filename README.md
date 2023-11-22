@@ -810,6 +810,8 @@ Powolutku. Ogarnąłem podstawy testowania (teoria plus kilka testów praktyki) 
 
 20.11-26.11
 
+Kolejny zabiegany tydzień, mało czasu na naukę, wpadają tylko drobne sesje nauki teorii.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
