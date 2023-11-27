@@ -812,6 +812,12 @@ Powolutku. Ogarnąłem podstawy testowania (teoria plus kilka testów praktyki) 
 
 Kolejny zabiegany tydzień, mało czasu na naukę, wpadają tylko drobne sesje nauki teorii.
 
+---
+
+### Siedemdziesiąty drugi tydzień
+
+27.11-03.12
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
