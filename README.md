@@ -818,6 +818,8 @@ Kolejny zabiegany tydzień, mało czasu na naukę, wpadają tylko drobne sesje n
 
 27.11-03.12
 
+W końcu przemogłem marazm nauki, odpocząłem i wróciłem do systematycznej nauki, poprzednie 3 tygodnie były dużą męczarnią, powoli wracam na właściwe tory.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
