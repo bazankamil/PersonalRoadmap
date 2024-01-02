@@ -822,9 +822,11 @@ W końcu przemogłem marazm nauki, odpocząłem i wróciłem do systematycznej n
 
 ---
 
-### Siedemdziesiąty trzeci tydzień
+### Siedemdziesiąty trzeci tydzień - Siedemdziesiąty szósty tydzień
 
-04.12-10.12
+04.12-31.12
+
+Cztery tygodnie przerwy. Przytłoczyły mnie informacje na temat nowych technologii, ilości chętnych na stanowisko, rozwoju sztucznej inteligencji i nieskończone informacje na różnych grupach przedstawiające naukę programowania za daremną. Odpocząłem miesiąc od tego bałaganu i wracam do nauki z nowymi chęciami- w tym roku mam zamiar przynajmniej załapać się na jakiś staż. Naukę więc wznawiam po krótkiej powtórce tam gdzie skończyłem
 
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
