@@ -828,6 +828,14 @@ W końcu przemogłem marazm nauki, odpocząłem i wróciłem do systematycznej n
 
 Cztery tygodnie przerwy. Przytłoczyły mnie informacje na temat nowych technologii, ilości chętnych na stanowisko, rozwoju sztucznej inteligencji i nieskończone informacje na różnych grupach przedstawiające naukę programowania za daremną. Odpocząłem miesiąc od tego bałaganu i wracam do nauki z nowymi chęciami- w tym roku mam zamiar przynajmniej załapać się na jakiś staż. Naukę więc wznawiam po krótkiej powtórce tam gdzie skończyłem
 
+---
+
+### Siedemdziesiąty czwarty tydzień
+
+01.01-07.01
+
+Powrót na stare śmieci.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
