@@ -834,7 +834,7 @@ Cztery tygodnie przerwy. Przytłoczyły mnie informacje na temat nowych technolo
 
 01.01-07.01
 
-Powrót na stare śmieci.
+Powrót na stare śmieci. Powtórka, ale już planuje wystartować z nowym projektem- zaplanuje kilka faz i co jakiś czas będę go ulepszać, aż stanie się moim głównym projektem do portfolio.
 
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
