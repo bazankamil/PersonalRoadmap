@@ -836,6 +836,14 @@ Cztery tygodnie przerwy. Przytłoczyły mnie informacje na temat nowych technolo
 
 Powrót na stare śmieci. Powtórka, ale już planuje wystartować z nowym projektem- zaplanuje kilka faz i co jakiś czas będę go ulepszać, aż stanie się moim głównym projektem do portfolio. Połowa powtórki za mną, nowe siły, nowa motywacja, nowe plany- jedziemy!
 
+---
+
+### Siedemdziesiąty piąty tydzień
+
+08.01-14.01
+
+Prime, planowanie, edytor.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
