@@ -842,6 +842,7 @@ Powrót na stare śmieci. Powtórka, ale już planuje wystartować z nowym proje
 
 08.01-14.01
 
+Dużo czytania (ebooki, kończę książkę papierową) i kilka filmów "The Prime Time" poza tym troszkę więcej na głowie, więc z doskoku w tym tygodniu.
 Prime, planowanie, edytor.
 
 (In progress)
