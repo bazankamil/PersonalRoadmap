@@ -851,6 +851,8 @@ Prime, planowanie, edytor, przygotowuje podstawy pod nowy projekt.
 
 15.01-21.01
 
+Dużo zmian w nauce, za dużo powtórek, za dużo fluffu, za dużo rozpraszaczy- układam wszystko na nowo.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
