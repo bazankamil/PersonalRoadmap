@@ -851,7 +851,7 @@ Prime, planowanie, edytor, przygotowuje podstawy pod nowy projekt.
 
 15.01-21.01
 
-Dużo zmian w nauce, za dużo powtórek, za dużo fluffu, za dużo rozpraszaczy- układam wszystko na nowo.
+Dużo zmian w nauce, za dużo powtórek, za dużo fluffu, za dużo rozpraszaczy- układam wszystko na nowo. Oglądam całą sytuację z większej perspektywy, czym chciałbym się zajmować, jakie projekty tworzyć, w jakiej kolejności się uczyć.
 
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
