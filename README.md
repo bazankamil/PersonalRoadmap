@@ -853,6 +853,12 @@ Prime, planowanie, edytor, przygotowuje podstawy pod nowy projekt.
 
 Dużo zmian w nauce, za dużo powtórek, za dużo fluffu, za dużo rozpraszaczy- układam wszystko na nowo. Oglądam całą sytuację z większej perspektywy, czym chciałbym się zajmować, jakie projekty tworzyć, w jakiej kolejności się uczyć.
 
+---
+
+### Siedemdziesiąty siódmy tydzień
+
+22.01-28.01
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
