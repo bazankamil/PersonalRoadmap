@@ -859,6 +859,8 @@ Dużo zmian w nauce, za dużo powtórek, za dużo fluffu, za dużo rozpraszaczy-
 
 22.01-28.01
 
+Koniec stycznia- cały miesiąc zajęło mi, żeby powrócić do miejsca w którym byłem przed świętami.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
