@@ -861,6 +861,12 @@ Dużo zmian w nauce, za dużo powtórek, za dużo fluffu, za dużo rozpraszaczy-
 
 Koniec stycznia- cały miesiąc zajęło mi, żeby powrócić do miejsca w którym byłem przed świętami. Sporo spraw poza programowaniem się jeszcze pojawiło, więc walczę o każdą chwilę na naukę.
 
+---
+
+### Siedemdziesiąty ósmy tydzień
+
+29.01-04.02
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
