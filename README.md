@@ -869,6 +869,12 @@ Koniec stycznia- cały miesiąc zajęło mi, żeby powrócić do miejsca w któr
 
 Bardzo słaby tydzień, sporo teorii i powtarzania, ale nie ruszyłem kodu- mniej myślenia o tym co powinienem robić więcej kodzenia na kolejny tydzień.
 
+---
+
+### Siedemdziesiąty dziewiąty tydzień
+
+05.02-11.02
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
