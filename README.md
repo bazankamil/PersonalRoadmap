@@ -875,7 +875,7 @@ Bardzo słaby tydzień, sporo teorii i powtarzania, ale nie ruszyłem kodu- mnie
 
 05.02-11.02
 
-Wracam do systematyczności, życie się uspokoiło, więc mogę się skupić na nauce.
+Wracam do systematyczności, życie się uspokoiło, więc mogę się skupić na nauce. Od ogólników programowania i całego systemu nauki powracam do "mięcha" i regularnie czytam kod i zaczynam regularnie pisać.
 
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
