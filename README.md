@@ -877,6 +877,12 @@ Bardzo słaby tydzień, sporo teorii i powtarzania, ale nie ruszyłem kodu- mnie
 
 Wracam do systematyczności, życie się uspokoiło, więc mogę się skupić na nauce. Od ogólników programowania i całego systemu nauki powracam do "mięcha" i regularnie czytam kod i zaczynam regularnie pisać. W końcu przechodzę do kolejnych treści i zaczynam więcej rozumieć "podskórnie".
 
+---
+
+### Osiemdziesiąty tydzień
+
+12.02-18.02
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
