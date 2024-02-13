@@ -883,6 +883,8 @@ Wracam do systematyczności, życie się uspokoiło, więc mogę się skupić na
 
 12.02-18.02
 
+Wraca Codewars, wraca Roadmapa, wracają projekty- powoli, ale wraca.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
