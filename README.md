@@ -893,6 +893,12 @@ Wraca Codewars, wraca Roadmapa, wracają projekty- powoli, ale wraca. W miarę r
 
 Kilka godzin na kodowaniu w Codewars, następnie nauka trudnych dla mnie zagadnień z JS. Grind Codewars plus robienie notatek z metod JS. Do końca tygodnia przypomnę sobie cały materiał, odkopałem też niedokończone projekty. Uczyłem się też trochę z użyciem ChatGPT, do małych powtórek, robienia notatek czy szukania błędów w kodzie jest dobry, ale trzeba uważać, bo kilka razy się pomylił.
 
+---
+
+### Osiemdziesiąty drugi tydzień
+
+26.02-03.03
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
