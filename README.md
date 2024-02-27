@@ -899,6 +899,8 @@ Kilka godzin na kodowaniu w Codewars, następnie nauka trudnych dla mnie zagadni
 
 26.02-03.03
 
+Wrócił ODYN, dokańczam projekt z walidacją formularza.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
