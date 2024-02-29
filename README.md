@@ -899,7 +899,7 @@ Kilka godzin na kodowaniu w Codewars, następnie nauka trudnych dla mnie zagadni
 
 26.02-03.03
 
-Wrócił ODIN, dokańczam projekt z walidacją formularza. Na Odinie GRID, a poza Odinem- powtórka TS i przygotowanie do Reacta.
+Wrócił ODIN, dokańczam projekt z walidacją formularza. Na Odinie GRID, a poza Odinem- powtórka TS i przygotowanie do Reacta. Końcówka pierwszego działu i początek kolejnego projektu- admin panel w Odin Project.
 
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
