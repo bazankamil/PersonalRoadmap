@@ -901,6 +901,12 @@ Kilka godzin na kodowaniu w Codewars, następnie nauka trudnych dla mnie zagadni
 
 Wrócił ODIN, dokańczam projekt z walidacją formularza. Na Odinie GRID, a poza Odinem- powtórka TS i przygotowanie do Reacta. Końcówka pierwszego działu i początek kolejnego projektu- admin panel w Odin Project. Koniec tygodnia to teoria, trochę powtórek i plan na kolejny tydzień.
 
+---
+
+### Osiemdziesiąty trzeci tydzień
+
+04.03-10.03
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
