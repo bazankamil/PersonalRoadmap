@@ -907,6 +907,8 @@ Wrócił ODIN, dokańczam projekt z walidacją formularza. Na Odinie GRID, a poz
 
 04.03-10.03
 
+Odin project- pracuje nad małym projektem z mokupem "Admin Dashboard"
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
