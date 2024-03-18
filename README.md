@@ -915,7 +915,7 @@ Odin project- pracuje nad małym projektem z mokupem "Admin Dashboard". Większo
 
 11.03-17.03
 
-Trudny tydzień, sporo spraw na głowie, poczytałem o strukturze plików i folderów w projektach React.
+Trudny tydzień, sporo spraw na głowie, poczytałem o strukturze plików i folderów w projektach React. Tydzień mało udany pod względem nauki.
 
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
