@@ -925,6 +925,12 @@ Trudny tydzień, sporo spraw na głowie, poczytałem o strukturze plików i fold
 
 Tydzień przed Wielkanocą- głównie poboczne kwestie, mało konkretów.
 
+---
+
+### Osiemdziesiąty szósty tydzień
+
+25.03-31.03
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
