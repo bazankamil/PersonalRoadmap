@@ -931,6 +931,8 @@ Tydzień przed Wielkanocą- głównie poboczne kwestie, mało konkretów.
 
 25.03-31.03
 
+Tydzień czytania artykułów i spraw około-programowania, nauki tylko kilka godzin łącznie wpadło.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
