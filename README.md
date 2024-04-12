@@ -933,6 +933,12 @@ Tydzień przed Wielkanocą- głównie poboczne kwestie, mało konkretów.
 
 Tydzień czytania artykułów i spraw około-programowania, nauki tylko kilka godzin łącznie wpadło.
 
+---
+
+### Osiemdziesiąty siódmy tydzień
+
+01.04-07.04
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
