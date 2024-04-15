@@ -939,6 +939,8 @@ Tydzień czytania artykułów i spraw około-programowania, nauki tylko kilka go
 
 01.04-07.04
 
+Tydzień dalszych powtórek i porządkowania materiałów- słaby, ale stabilny.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
