@@ -941,6 +941,12 @@ Tydzień czytania artykułów i spraw około-programowania, nauki tylko kilka go
 
 Tydzień dalszych powtórek i porządkowania materiałów- słaby, ale stabilny.
 
+---
+
+### Osiemdziesiąty ósmy tydzień
+
+08.04-14.04
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
