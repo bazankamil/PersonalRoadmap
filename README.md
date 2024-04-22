@@ -947,6 +947,12 @@ Tydzień dalszych powtórek i porządkowania materiałów- słaby, ale stabilny.
 
 08.04-14.04
 
+---
+
+### Osiemdziesiąty dziewiąty tydzień
+
+15.04-21.04
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
