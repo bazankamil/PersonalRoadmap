@@ -947,6 +947,8 @@ Tydzień dalszych powtórek i porządkowania materiałów- słaby, ale stabilny.
 
 08.04-14.04
 
+Tydzień przygotowań pod naukę Reacta- produktywność znikoma.
+
 ---
 
 ### Osiemdziesiąty dziewiąty tydzień
