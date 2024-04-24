@@ -955,6 +955,8 @@ Tydzień przygotowań pod naukę Reacta- produktywność znikoma.
 
 15.04-21.04
 
+Nauka design paterns, sprawdzanie roadmapy i planowanie dalszej nauki.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
