@@ -963,6 +963,8 @@ Nauka design paterns, sprawdzanie roadmapy i planowanie dalszej nauki.
 
 22.04-28.04
 
+Przygotowania do Reacta- nadal sporo teorii, ale też życie i czas mnie nie rozpieszcza.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
