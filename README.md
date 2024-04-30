@@ -971,6 +971,8 @@ Przygotowania do Reacta- nadal sporo teorii, ale też życie i czas mnie nie roz
 
 29.04-05.04
 
+Tydzień wprowadzenia do React.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
