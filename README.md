@@ -969,9 +969,15 @@ Przygotowania do Reacta- nadal sporo teorii, ale też życie i czas mnie nie roz
 
 ### Dziewięćdziesiąty pierwszy tydzień
 
-29.04-05.04
+29.04-05.05
 
 Tydzień wprowadzenia do React.
+
+---
+
+### Dziewięćdziesiąty drugi tydzień
+
+06.05-12.05
 
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
