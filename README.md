@@ -979,6 +979,8 @@ Tydzień wprowadzenia do React.
 
 06.05-12.05
 
+React.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
