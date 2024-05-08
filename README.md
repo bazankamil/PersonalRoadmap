@@ -979,7 +979,7 @@ Tydzień wprowadzenia do React.
 
 06.05-12.05
 
-React.
+React. Nowy projekt "react-crashCourse" pierwszy projekt chcę przejść z tutorialem "za rączkę" później zobaczymy.
 
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
