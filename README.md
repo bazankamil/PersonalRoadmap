@@ -981,6 +981,12 @@ Tydzień wprowadzenia do React.
 
 React. Nowy projekt "react-crashCourse" pierwszy projekt chcę przejść z tutorialem "za rączkę" później zobaczymy. Sporo do nauczenia, komponenty, props, większość syntaxu JSX wydaje się zrozumiała, kolejny dzień pracy nad projektem kończę z satysfakcją. Jeszcze sporo muszę się nauczyć- hooki, server, useState() i inne- w końcu z nauką się coś ruszyło.
 
+---
+
+### Dziewięćdziesiąty trzeci tydzień
+
+13.05-19.05
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
