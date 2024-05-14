@@ -987,6 +987,8 @@ React. Nowy projekt "react-crashCourse" pierwszy projekt chcę przejść z tutor
 
 13.05-19.05
 
+Tutorial Reacta na wykończeniu.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
