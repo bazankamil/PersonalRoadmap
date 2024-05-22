@@ -989,6 +989,12 @@ React. Nowy projekt "react-crashCourse" pierwszy projekt chcę przejść z tutor
 
 Tutorial Reacta na wykończeniu. Pod koniec tygodnia jednak ślub siostry, więc przymuszona przerwa.
 
+---
+
+### Dziewięćdziesiąty czwarty tydzień
+
+20.05-26.05
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
