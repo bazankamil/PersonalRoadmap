@@ -995,6 +995,8 @@ Tutorial Reacta na wykończeniu. Pod koniec tygodnia jednak ślub siostry, więc
 
 20.05-26.05
 
+Tutorial Reacta zakończony, wiele odwiedzin rodzinnych, więc niewielki progres.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
