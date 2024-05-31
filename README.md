@@ -1001,7 +1001,7 @@ Tutorial Reacta zakończony, wiele odwiedzin rodzinnych, więc niewielki progres
 
 27.05-02.06
 
-Ćwiczenia i rozwijanie koncepcji w React.
+Ćwiczenia i rozwijanie koncepcji w React. Rozkładam funkcje reacta na mniejsze części i studiuję każdą osobno.
 
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
