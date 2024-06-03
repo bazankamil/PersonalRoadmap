@@ -997,11 +997,19 @@ Tutorial Reacta na wykończeniu. Pod koniec tygodnia jednak ślub siostry, więc
 
 Tutorial Reacta zakończony, wiele odwiedzin rodzinnych, więc niewielki progres.
 
+---
+
 ### Dziewięćdziesiąty piąty tydzień
 
 27.05-02.06
 
 Ćwiczenia i rozwijanie koncepcji w React. Rozkładam funkcje reacta na mniejsze części i studiuję każdą osobno.
+
+---
+
+### Dziewięćdziesiąty szósty tydzień
+
+03.06-09.06
 
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
