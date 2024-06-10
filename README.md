@@ -1013,6 +1013,12 @@ Tutorial Reacta zakończony, wiele odwiedzin rodzinnych, więc niewielki progres
 
 Teoria funkcjonowania i używania Hooków w React. Rozbieram każdy element na części, głównie w teorii, ale już przymierzam się do praktycznego projektu. Skończyłem też drugi tutorial powtarzając podstawy Reacta.
 
+---
+
+### Dziewięćdziesiąty siódmy tydzień
+
+10.06-16.06
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
