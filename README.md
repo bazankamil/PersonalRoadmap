@@ -1019,6 +1019,8 @@ Teoria funkcjonowania i używania Hooków w React. Rozbieram każdy element na c
 
 10.06-16.06
 
+Rozpisywanie nowego projektu w React- będzie to tradycyjna ToDo lista żeby przetestować Reacta.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
