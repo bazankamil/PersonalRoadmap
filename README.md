@@ -1021,6 +1021,12 @@ Teoria funkcjonowania i używania Hooków w React. Rozbieram każdy element na c
 
 Rozpisywanie nowego projektu w React- będzie to tradycyjna ToDo lista żeby przetestować Reacta. Na wykończeniu mam projekcik Vanilla HTML + CSS w ODIN Project. Teoria Dockera- nie będę potrzebował w najbliższym czasie tworzyć image w dockerze, ale sama teoria czym jest i jak działa na pewno się przyda.
 
+---
+
+### Dziewięćdziesiąty ósmy tydzień
+
+17.06-23.06
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
