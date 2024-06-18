@@ -1027,6 +1027,8 @@ Rozpisywanie nowego projektu w React- będzie to tradycyjna ToDo lista żeby prz
 
 17.06-23.06
 
+Skończony projekt w ODIN- powtarzam Vanila JS, na boku przygotowuję projekty w React.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
