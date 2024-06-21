@@ -1027,7 +1027,7 @@ Rozpisywanie nowego projektu w React- będzie to tradycyjna ToDo lista żeby prz
 
 17.06-23.06
 
-Skończony projekt w ODIN- powtarzam Vanila JS, na boku przygotowuję projekty w React. Jeszcze trochę teorii Dockera doczytałem, ale zamykam już poboczne wątki, będę skupiał się na ODIN project i nauce Reacta na projektach.
+Skończony projekt w ODIN- powtarzam Vanila JS, na boku przygotowuję projekty w React. Jeszcze trochę teorii Dockera doczytałem, ale zamykam już poboczne wątki, będę skupiał się na ODIN project i nauce Reacta na projektach. Nowy projekt odin-library rozpoczęty.
 
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
