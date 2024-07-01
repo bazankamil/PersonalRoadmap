@@ -1037,6 +1037,14 @@ Skończony projekt w ODIN- powtarzam Vanila JS, na boku przygotowuję projekty w
 
 Na ODIN mały projekt z tworzeniem CRUD biblioteczki na vanilla JS, HTML i CSS. W Reactowym projekcie etap projektowania. Trochę jeszcze o Dockerze- ale jedynie teoria i korzystanie z containers bez ich tworzenia. Kolejne linijki w React, szukam ciągle sposobu, żeby codziennie pisać w React. Lekkie zmiany w projekcie react.
 
+---
+
+### Setny tydzień
+
+01.07-07.07
+
+Sto tygodni nauki, zrobię więc małe podsumowanie:
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
