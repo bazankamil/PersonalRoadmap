@@ -1043,7 +1043,7 @@ Na ODIN mały projekt z tworzeniem CRUD biblioteczki na vanilla JS, HTML i CSS. 
 
 01.07-07.07
 
-Sto tygodni nauki, zrobię więc małe podsumowanie:
+Dużo spraw- lekarze, wizyty, badania, więc przy programowaniu tylko gmeram, robię mikro-zadania i porządkuję.
 
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
