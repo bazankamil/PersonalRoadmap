@@ -1051,6 +1051,8 @@ Dużo spraw- lekarze, wizyty, badania, więc przy programowaniu tylko gmeram, ro
 
 08.07-14.07
 
+React- czytam, słucham, oglądam i tworzę części składowe programów.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
