@@ -1053,6 +1053,12 @@ Dużo spraw- lekarze, wizyty, badania, więc przy programowaniu tylko gmeram, ro
 
 React- czytam, słucham, oglądam i tworzę części składowe programów. Podzieliłem Reacta na pomniejsze aspekty i uczę się ich po kolei. Poza tym w tym tygodniu fala upałów, więc idzie wolniej. Tydzień kończę powtórką z notatek i artykułami branżowymi.
 
+---
+
+### Sto drugi tydzień
+
+15.07-21.07
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
