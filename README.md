@@ -1059,6 +1059,8 @@ React- czytam, słucham, oglądam i tworzę części składowe programów. Podzi
 
 15.07-21.07
 
+Dalej React, nauka raczej teoretyczna, nadal próbuję skumać jak współgrają ze sobą poszczególne części Reacta, ale jeszcze trochę o wrócą projekty.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
