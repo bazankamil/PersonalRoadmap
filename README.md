@@ -1061,6 +1061,12 @@ React- czytam, słucham, oglądam i tworzę części składowe programów. Podzi
 
 Dalej React, nauka raczej teoretyczna, nadal próbuję skumać jak współgrają ze sobą poszczególne części Reacta, ale jeszcze trochę o wrócą projekty. Małe projekty w Codecademy, łączenie komponentów, propsy i import/export. Teoria Hooków i podstawy stawiania nowego projektu z Vite.
 
+---
+
+### Sto trzeci tydzień
+
+22.07-28.07
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
