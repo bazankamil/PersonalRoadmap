@@ -1069,6 +1069,12 @@ Dalej React, nauka raczej teoretyczna, nadal próbuję skumać jak współgrają
 
 Mało nauki, bawiłem się w Linuxie, czytałem o NeoVim (być może za rok-dwa spróbuję się nauczyć) porządkowałem źródła nauki, nic konkretnego.
 
+---
+
+### Sto czwarty tydzień
+
+29.07-04.08
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
