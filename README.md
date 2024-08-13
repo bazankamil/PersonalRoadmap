@@ -1075,6 +1075,12 @@ Mało nauki, bawiłem się w Linuxie, czytałem o NeoVim (być może za rok-dwa 
 
 29.07-04.08
 
+Lato, sporo remontów, praca fizyczna, więc nauki programowania mało.
+
+### Sto piąty tydzień
+
+05.08-11.08
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
