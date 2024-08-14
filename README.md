@@ -1081,6 +1081,8 @@ Lato, sporo remontów, praca fizyczna, więc nauki programowania mało.
 
 05.08-11.08
 
+Głównie React, uczę sie import/export, łączenia ze sobą komponentów i Reactowych metod.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
