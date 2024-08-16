@@ -1077,11 +1077,19 @@ Mało nauki, bawiłem się w Linuxie, czytałem o NeoVim (być może za rok-dwa 
 
 Lato, sporo remontów, praca fizyczna, więc nauki programowania mało.
 
+---
+
 ### Sto piąty tydzień
 
 05.08-11.08
 
 Głównie React, uczę sie import/export, łączenia ze sobą komponentów i Reactowych metod.
+
+---
+
+### Sto szósty tydzień
+
+12.08-18.08
 
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
