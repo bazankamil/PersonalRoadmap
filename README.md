@@ -1093,6 +1093,12 @@ Głównie React, uczę sie import/export, łączenia ze sobą komponentów i Rea
 
 Tydzień teorii React, domykania wątków i czytania dokumentacji.
 
+---
+
+### Sto siódmy tydzień
+
+19.08-25.08
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
