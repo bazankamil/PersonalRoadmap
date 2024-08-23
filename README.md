@@ -1099,6 +1099,8 @@ Tydzień teorii React, domykania wątków i czytania dokumentacji.
 
 19.08-25.08
 
+Teoria Reacta. [decade]
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
