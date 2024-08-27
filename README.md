@@ -1099,7 +1099,7 @@ Tydzień teorii React, domykania wątków i czytania dokumentacji.
 
 19.08-25.08
 
-Teoria Reacta. [decade]
+Teoria Reacta. Czytam też serię artykułów o programowaniu "Reflections on a decade of coding" autorstwa Jamie Brandona. Jedne z najlepszych artukułów jakie czytałem w tym temacie.
 
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
