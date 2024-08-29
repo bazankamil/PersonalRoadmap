@@ -1107,6 +1107,8 @@ Teoria Reacta. Czytam też serię artykułów o programowaniu "Reflections on a 
 
 26.08-01.09
 
+Upał, sporo prac przydomowych, więc siedzę w teorii programowania.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
