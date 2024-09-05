@@ -1109,6 +1109,12 @@ Teoria Reacta. Czytam też serię artykułów o programowaniu "Reflections on a 
 
 Upał, sporo prac przydomowych, więc siedzę w teorii programowania.
 
+---
+
+### Sto dziewiąty tydzień
+
+02.09-08.09
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
