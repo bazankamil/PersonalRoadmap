@@ -1115,6 +1115,8 @@ Upał, sporo prac przydomowych, więc siedzę w teorii programowania.
 
 02.09-08.09
 
+Ostatnie kilka tygodni to mizerne osiągnięcia. Lekka teoria, minimum praktyki, ale uspokoiło się w moim życiu i wprowadzam na nowo schemat nauki, powinno zadziałać.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
