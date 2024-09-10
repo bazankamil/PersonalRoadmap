@@ -1117,6 +1117,12 @@ Upał, sporo prac przydomowych, więc siedzę w teorii programowania.
 
 Ostatnie kilka tygodni to mizerne osiągnięcia. Lekka teoria, minimum praktyki, ale uspokoiło się w moim życiu i wprowadzam na nowo schemat nauki, powinno zadziałać.
 
+---
+
+### Sto dziesiąty tydzień
+
+09.09-15.09
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
