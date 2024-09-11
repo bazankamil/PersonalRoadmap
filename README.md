@@ -1123,6 +1123,8 @@ Ostatnie kilka tygodni to mizerne osiągnięcia. Lekka teoria, minimum praktyki,
 
 09.09-15.09
 
+Odpocząłem trochę, z nowymi siłami wracam do nauki. Zamykam wszystkie na wpół zrobione projekty, porządkuję wiedzę i wracam do gry.
+
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
 (In progress)
