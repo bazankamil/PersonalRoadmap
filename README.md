@@ -1123,7 +1123,7 @@ Ostatnie kilka tygodni to mizerne osiągnięcia. Lekka teoria, minimum praktyki,
 
 09.09-15.09
 
-Odpocząłem trochę, z nowymi siłami wracam do nauki. Zamykam wszystkie na wpół zrobione projekty, porządkuję wiedzę i wracam do gry. Zrobiłem porządek ze źródłami nauki- wywaliłem słabe tutoriale, uporządkowałem kolejność nauki, trzymam się czasu na naukę, zaczynam (kolejny raz) powoli, ale z czasem pewnie przyspieszę tempa.
+Odpocząłem trochę, z nowymi siłami wracam do nauki. Zamykam wszystkie na wpół zrobione projekty, porządkuję wiedzę i wracam do gry. Zrobiłem porządek ze źródłami nauki- wywaliłem słabe tutoriale, uporządkowałem kolejność nauki, trzymam się czasu na naukę, zaczynam (kolejny raz) powoli, ale z czasem pewnie przyspieszę tempa. Zebrałem wszystkie źródła, notatki, pomysły razem- w weekend opracuje plan działania. Pierwszy tydzień od kilku miesięcy wypełniony systematyczną nauką. Jeszcze tylko ukierunkowanie i będzie git.
 
 (In progress)
 Frontend Mentor, Sololearn, fCC, one big mermaid, matematyka, agile, scrum, dokumentacja, cliker, menu kodziarskie- lista zadanek
