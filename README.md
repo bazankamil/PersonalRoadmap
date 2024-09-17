@@ -1131,6 +1131,8 @@ Odpocząłem trochę, z nowymi siłami wracam do nauki. Zamykam wszystkie na wp�
 
 16.09-22.09
 
+Drążę Reacta- siedzę w hookach, pracuje nad useState() i próbuje wykorzystać go na wszelkie możliwe sposoby.
+
 (In progress)
 React, Codeacademy, plan
 (In progress)
