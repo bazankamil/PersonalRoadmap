@@ -1133,6 +1133,12 @@ Odpocząłem trochę, z nowymi siłami wracam do nauki. Zamykam wszystkie na wp�
 
 Drążę Reacta- siedzę w hookach, pracuje nad useState() i próbuje wykorzystać go na wszelkie możliwe sposoby. Nadal Hooki i zależności w ich wykorzystywaniu. Tydzień kończę kilkoma artykułami o stanie branży, w kolejnym tygodniu nadal React.
 
+---
+
+### Sto dwunasty tydzień
+
+23.09-29.09
+
 (In progress)
 React, Codeacademy, plan
 (In progress)
