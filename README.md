@@ -1139,7 +1139,7 @@ Drążę Reacta- siedzę w hookach, pracuje nad useState() i próbuje wykorzysta
 
 23.09-29.09
 
-Pracuje nad useEffect().
+Pracuje nad useEffect(). Zagłębiam się w Hooki, jeszcze jest kilka spraw, które nie do końca rozumiem.
 
 (In progress)
 React, Codeacademy, plan
