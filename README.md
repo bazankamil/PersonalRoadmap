@@ -1147,6 +1147,8 @@ Pracuje nad useEffect(). Zagłębiam się w Hooki, jeszcze jest kilka spraw, kt�
 
 30.09-06.10
 
+React oraz dużo zadań w JS, nauka znowu jest systematyczna, chociaż react sprawia nadal trudności.
+
 (In progress)
 React, Codeacademy, plan
 (In progress)
