@@ -1149,6 +1149,12 @@ Pracuje nad useEffect(). Zagłębiam się w Hooki, jeszcze jest kilka spraw, kt�
 
 React oraz dużo zadań w JS, nauka znowu jest systematyczna, chociaż react sprawia nadal trudności. Czytam trochę o działaniu JS i poznaje kolejne Hooki Reacta. Drobne programy w React, ćwiczenia algorytmów w JS. Powtórki zaczynam robić też z ChatGPT- szybciej zdobywam odpowiedzi, lepiej zapamiętuje.
 
+---
+
+### Sto czternasty tydzień
+
+07.10-13.10
+
 (In progress)
 React, Codeacademy, plan
 (In progress)
