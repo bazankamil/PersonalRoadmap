@@ -1155,6 +1155,8 @@ React oraz dużo zadań w JS, nauka znowu jest systematyczna, chociaż react spr
 
 07.10-13.10
 
+Głównie powtórki, zadania w JS, powtórka SASS, podstawy Bootstrap i czytanie książki.
+
 (In progress)
 React, Codeacademy, plan
 (In progress)
