@@ -1157,6 +1157,12 @@ React oraz dużo zadań w JS, nauka znowu jest systematyczna, chociaż react spr
 
 Głównie powtórki, zadania w JS, powtórka SASS, podstawy Bootstrap i czytanie książki.
 
+---
+
+### Sto piętnasty tydzień
+
+14.10-20.10
+
 (In progress)
-React, Codeacademy, plan
+React, Codeacademy, plan Książka Cory Althoff „Programista Samouk Profesjonalny Przewodnik Do Samodzielnej Nauki Kodowania”:
 (In progress)
