@@ -1165,6 +1165,12 @@ Głównie powtórki, zadania w JS, powtórka SASS, podstawy Bootstrap i czytanie
 
 Przezytałem książkę Cory Althoff „Programista Samouk Profesjonalny Przewodnik Do Samodzielnej Nauki Kodowania” ale nic ciekawego, zadania robione głównie w Pythonie, niewiele z niej wyciągnąłem.
 
+---
+
+Przerwa
+
+---
+
 (In progress)
 React, Codeacademy, plan Książka
 (In progress)
