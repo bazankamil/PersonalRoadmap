@@ -1169,6 +1169,10 @@ Przezytałem książkę Cory Althoff „Programista Samouk Profesjonalny Przewod
 
 Przerwa
 
+Zaplanowana przerwa 2 tygodniowa zamieniła się w ponad 2- miesięczną. Wydaje mi się, że potrzebowałem tego resetu, żeby powrócić, początek nowego roku więc zaczyna się powrotem do nauki programowania, trzeba sobie wszystko odświeżyć i wejść w stary tryb nauki.
+
+Przerwa
+
 ---
 
 (In progress)
