@@ -1177,6 +1177,12 @@ Zaplanowana przerwa 2 tygodniowa zamieniła się w ponad 2- miesięczną. Wydaje
 
 ---
 
+### Sto szesnasty tydzień
+
+01.01-05.01
+
+Niepełny tydzień, głównie planowanie kolejnych etapów, odświeżanie gdzie skończyłem i projekcja kolejnych tygodni nauki.
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
