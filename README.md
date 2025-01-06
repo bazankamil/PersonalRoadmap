@@ -1183,6 +1183,12 @@ Zaplanowana przerwa 2 tygodniowa zamieniła się w ponad 2- miesięczną. Wydaje
 
 Niepełny tydzień, głównie planowanie kolejnych etapów, odświeżanie gdzie skończyłem i projekcja kolejnych tygodni nauki.
 
+---
+
+### Sto Siedemnasty tydzień
+
+06.12-12.12
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
