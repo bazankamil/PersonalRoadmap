@@ -1189,6 +1189,8 @@ Niepełny tydzień, głównie planowanie kolejnych etapów, odświeżanie gdzie 
 
 06.12-12.12
 
+Wracam do nauki powoli, ostatnie miesiące przed przerwą były męczarnią, chcę na nowo obudzić w sobie pasję do programowania.
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
