@@ -1189,7 +1189,7 @@ Niepełny tydzień, głównie planowanie kolejnych etapów, odświeżanie gdzie 
 
 06.12-12.12
 
-Wracam do nauki powoli, ostatnie miesiące przed przerwą były męczarnią, chcę na nowo obudzić w sobie pasję do programowania. Oglądam i czytam co się zmieniło w ostatnim czasie w branży i planuje jak powinna wyglądać moja nauka od tego momentu.
+Wracam do nauki powoli, ostatnie miesiące przed przerwą były męczarnią, chcę na nowo obudzić w sobie pasję do programowania. Oglądam i czytam co się zmieniło w ostatnim czasie w branży i planuje jak powinna wyglądać moja nauka od tego momentu. Podczas poprzednich miesięcy nauki nazbierało się mnóstwo niedokończonych spraw, więc wszystkie je kataloguje- niektóre zamykam, inne planuje na przyszłość.
 
 (In progress)
 React, Codeacademy, plan Książka, powtórka
