@@ -1187,9 +1187,15 @@ Niepełny tydzień, głównie planowanie kolejnych etapów, odświeżanie gdzie 
 
 ### Sto Siedemnasty tydzień
 
-06.12-12.12
+06.01-12.01
 
 Wracam do nauki powoli, ostatnie miesiące przed przerwą były męczarnią, chcę na nowo obudzić w sobie pasję do programowania. Oglądam i czytam co się zmieniło w ostatnim czasie w branży i planuje jak powinna wyglądać moja nauka od tego momentu. Podczas poprzednich miesięcy nauki nazbierało się mnóstwo niedokończonych spraw, więc wszystkie je kataloguje- niektóre zamykam, inne planuje na przyszłość. Tydzień bardzo delikatnego wstępu, kolejny poświęcę na powtórki.
+
+---
+
+### Sto Osiemnasty tydzień
+
+13.01-19.01
 
 (In progress)
 React, Codeacademy, plan Książka, powtórka
