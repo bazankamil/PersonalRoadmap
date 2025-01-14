@@ -1197,6 +1197,8 @@ Wracam do nauki powoli, ostatnie miesiące przed przerwą były męczarnią, chc
 
 13.01-19.01
 
+Nadrabiam artykuły o rozwoju w branży.
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
