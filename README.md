@@ -1197,7 +1197,7 @@ Wracam do nauki powoli, ostatnie miesiące przed przerwą były męczarnią, chc
 
 13.01-19.01
 
-Nadrabiam artykuły o rozwoju w branży. Jak na razie mało kodowania, więcej teorii, ale chcę na nowo wejść w temat.
+Nadrabiam artykuły o rozwoju w branży. Jak na razie mało kodowania, więcej teorii, ale chcę na nowo wejść w temat. Zyskuję systematyczność, ale pracuje nad głębią nauki, szukam stanu "flow".
 
 (In progress)
 React, Codeacademy, plan Książka, powtórka
