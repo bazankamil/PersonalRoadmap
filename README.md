@@ -1199,6 +1199,12 @@ Wracam do nauki powoli, ostatnie miesiące przed przerwą były męczarnią, chc
 
 Nadrabiam artykuły o rozwoju w branży. Jak na razie mało kodowania, więcej teorii, ale chcę na nowo wejść w temat. Zyskuję systematyczność, ale pracuje nad głębią nauki, szukam stanu "flow".
 
+---
+
+### Sto Dziewiętnasty tydzień
+
+20.01-26.01
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
