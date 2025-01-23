@@ -1205,7 +1205,7 @@ Nadrabiam artykuły o rozwoju w branży. Jak na razie mało kodowania, więcej t
 
 20.01-26.01
 
-Powtórka materiału. Minimalizuję źródła, porzucam projekty, układam "Roadmapę".
+Powtórka materiału. Minimalizuję źródła, porzucam projekty, układam "Roadmapę". Dużo czytam o AI i coraz więcej wiedząc, tym mniej się jej obawiam.
 
 (In progress)
 React, Codeacademy, plan Książka, powtórka
