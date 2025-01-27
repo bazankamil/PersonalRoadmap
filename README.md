@@ -1207,6 +1207,12 @@ Nadrabiam artykuły o rozwoju w branży. Jak na razie mało kodowania, więcej t
 
 Powtórka materiału. Minimalizuję źródła, porzucam projekty, układam "Roadmapę". Dużo czytam o AI i coraz więcej wiedząc, tym mniej się jej obawiam. Tydzień kończę nadal na czytaniu o nowinkach w branży oraz na przypominaniu materiału.
 
+---
+
+### Sto Dwudziesty tydzień
+
+27.01-02.02
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
