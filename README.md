@@ -1213,6 +1213,8 @@ Powtórka materiału. Minimalizuję źródła, porzucam projekty, układam "Road
 
 27.01-02.02
 
+Skupiam się na fundamentach.
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
