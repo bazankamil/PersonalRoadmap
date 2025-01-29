@@ -1213,7 +1213,7 @@ Powtórka materiału. Minimalizuję źródła, porzucam projekty, układam "Road
 
 27.01-02.02
 
-Skupiam się na fundamentach.
+Skupiam się na fundamentach. Nadal niewiele kodu, więcej teorii, mało czasu, ale wszystko się klaruje.
 
 (In progress)
 React, Codeacademy, plan Książka, powtórka
