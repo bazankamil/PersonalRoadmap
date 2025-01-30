@@ -1213,7 +1213,7 @@ Powtórka materiału. Minimalizuję źródła, porzucam projekty, układam "Road
 
 27.01-02.02
 
-Skupiam się na fundamentach. Nadal niewiele kodu, więcej teorii, mało czasu, ale wszystko się klaruje.
+Skupiam się na fundamentach. Nadal niewiele kodu, więcej teorii, mało czasu, ale wszystko się klaruje. Słucham dużo Jonathana Blow- o teorii i "sztuce" programowania.
 
 (In progress)
 React, Codeacademy, plan Książka, powtórka
