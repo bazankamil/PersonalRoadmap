@@ -1215,6 +1215,12 @@ Powtórka materiału. Minimalizuję źródła, porzucam projekty, układam "Road
 
 Skupiam się na fundamentach. Nadal niewiele kodu, więcej teorii, mało czasu, ale wszystko się klaruje. Słucham dużo Jonathana Blow- o teorii i "sztuce" programowania. Tydzień średnio produktywny, ale jest coraz lepiej.
 
+---
+
+### Sto Dwudziesty pierwszy tydzień
+
+03.02-09.02
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
