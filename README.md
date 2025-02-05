@@ -1221,7 +1221,7 @@ Skupiam się na fundamentach. Nadal niewiele kodu, więcej teorii, mało czasu, 
 
 03.02-09.02
 
-Ciągle sporo fluffu.
+Ciągle sporo fluffu. Powtórka i artykuły o JS.
 
 (In progress)
 React, Codeacademy, plan Książka, powtórka
