@@ -1229,6 +1229,8 @@ Ciągle sporo fluffu. Powtórka i artykuły o JS. Tworzę szczegółową Roadmap
 
 10.02-16.02
 
+Porządki w dokumentacji.
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
