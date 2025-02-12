@@ -1229,7 +1229,7 @@ Ciągle sporo fluffu. Powtórka i artykuły o JS. Tworzę szczegółową Roadmap
 
 10.02-16.02
 
-Porządki w dokumentacji.
+Porządki w dokumentacji. Notatki z wykładów i artykułów Andy Harrisa, Max Pekarsky i Jamie Brandon.
 
 (In progress)
 React, Codeacademy, plan Książka, powtórka
