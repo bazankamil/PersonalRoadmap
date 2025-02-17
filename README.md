@@ -1231,6 +1231,12 @@ Ciągle sporo fluffu. Powtórka i artykuły o JS. Tworzę szczegółową Roadmap
 
 Porządki w dokumentacji. Notatki z wykładów i artykułów Andy Harrisa, Max Pekarsky i Jamie Brandon. Przeglądam notatki z ebooków i robię nowy plan działania. Kończę notatkami z cs50 i artykułami o AI i DeepSeek.
 
+---
+
+### Sto Dwudziesty trzeci tydzień
+
+17.02-23.02
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
