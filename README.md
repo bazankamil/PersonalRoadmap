@@ -1237,6 +1237,8 @@ Porządki w dokumentacji. Notatki z wykładów i artykułów Andy Harrisa, Max P
 
 17.02-23.02
 
+Powtórka HTML, CSS i artykuły o AI.
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
