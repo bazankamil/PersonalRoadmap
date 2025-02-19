@@ -1237,7 +1237,7 @@ Porządki w dokumentacji. Notatki z wykładów i artykułów Andy Harrisa, Max P
 
 17.02-23.02
 
-Powtórka HTML, CSS i artykuły o AI.
+Powtórka HTML, CSS i artykuły o AI. Czytam też książkę "Zrozumieć Javascript - Wprowadzenie do programowania" -Martin Haverbeke w ramach powtórki.
 
 (In progress)
 React, Codeacademy, plan Książka, powtórka
