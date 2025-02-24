@@ -1239,6 +1239,12 @@ Porządki w dokumentacji. Notatki z wykładów i artykułów Andy Harrisa, Max P
 
 Powtórka HTML, CSS i artykuły o AI. Czytam też książkę "Zrozumieć Javascript - Wprowadzenie do programowania" -Martin Haverbeke w ramach powtórki. Kończę tydzień na małych zadankach w JS, trochę jestem zardzewiały, ale małe apki nie są dużym problemem.
 
+---
+
+### Sto Dwudziesty czwarty tydzień
+
+24.02-02.03
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
