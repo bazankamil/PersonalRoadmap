@@ -1245,7 +1245,7 @@ Powtórka HTML, CSS i artykuły o AI. Czytam też książkę "Zrozumieć Javascr
 
 24.02-02.03
 
-Powtórki i książki.
+Powtórki i książki. Ćwiczenia z książki, dobre na rozruch.
 
 (In progress)
 React, Codeacademy, plan Książka, powtórka
