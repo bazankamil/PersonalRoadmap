@@ -1247,6 +1247,12 @@ Powtórka HTML, CSS i artykuły o AI. Czytam też książkę "Zrozumieć Javascr
 
 Powtórki i książki. Ćwiczenia z książki, dobre na rozruch.
 
+---
+
+### Sto Dwudziesty piąty tydzień
+
+03.03-09.03
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
