@@ -1253,7 +1253,7 @@ Powtórki i książki. Ćwiczenia z książki, dobre na rozruch.
 
 03.03-09.03
 
-Ćwiczenia i książka, niewiele się zmienia, ale chcę przerobić wszystkie materiały.
+Ćwiczenia i książka, niewiele się zmienia, ale chcę przerobić wszystkie materiały. Tydzień kończę na corocznym podsumowaniu roadmapy przez Traversy Media.
 
 (In progress)
 React, Codeacademy, plan Książka, powtórka
