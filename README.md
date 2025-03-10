@@ -1255,6 +1255,12 @@ Powtórki i książki. Ćwiczenia z książki, dobre na rozruch.
 
 Ćwiczenia i książka, niewiele się zmienia, ale chcę przerobić wszystkie materiały. Tydzień kończę na corocznym podsumowaniu roadmapy przez Traversy Media.
 
+---
+
+### Sto Dwudziesty szósty tydzień
+
+10.03-16.03
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
