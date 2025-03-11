@@ -1261,6 +1261,8 @@ Powtórki i książki. Ćwiczenia z książki, dobre na rozruch.
 
 10.03-16.03
 
+Powoli kończę powtórkę, zajeło to za dużo czasu, ale od tej chwili będę się mógł skupić na trudniejszych zagadnieniach.
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
