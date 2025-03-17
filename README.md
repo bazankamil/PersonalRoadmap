@@ -1263,6 +1263,12 @@ Powtórki i książki. Ćwiczenia z książki, dobre na rozruch.
 
 Powoli kończę powtórkę, zajeło to za dużo czasu, ale od tej chwili będę się mógł skupić na trudniejszych zagadnieniach. Powtarzając zaznaczam aspekty, które sprawiają mi jeszcze trudność. Trudniejsze mechanizmy JS, dodatkowe technologie oraz React- to punkty na których muszę się skupić. Kończę powtórkę notatek, został mi tylko React i stworzenie nowego planu nauki.
 
+---
+
+### Sto Dwudziesty siódmy tydzień
+
+17.03-23.03
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
