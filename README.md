@@ -1269,6 +1269,8 @@ Powoli kończę powtórkę, zajeło to za dużo czasu, ale od tej chwili będę 
 
 17.03-23.03
 
+Wrócił w końcu Codewars, kilka zadanek zrobionych, stworzyłem plik do nauki i każdy dzień planuje z wyprzedzeniem. Przyspieszam.
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
