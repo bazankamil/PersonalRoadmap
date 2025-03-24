@@ -1271,6 +1271,12 @@ Powoli kończę powtórkę, zajeło to za dużo czasu, ale od tej chwili będę 
 
 Wrócił w końcu Codewars, kilka zadanek zrobionych, stworzyłem plik do nauki i każdy dzień planuje z wyprzedzeniem. Przyspieszam. Układam plany, uczę się na pamięć metod i robię dużo zadań je wykorzystujących.
 
+---
+
+### Sto Dwudziesty ósmy tydzień
+
+24.03-30.03
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
