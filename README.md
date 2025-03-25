@@ -1277,6 +1277,8 @@ Wrócił w końcu Codewars, kilka zadanek zrobionych, stworzyłem plik do nauki 
 
 24.03-30.03
 
+Na Codewars ćwiczę metody, muszę więcej ćwiczyć, żeby wyrobić pamięć mięśniową.
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
