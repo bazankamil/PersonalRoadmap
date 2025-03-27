@@ -1277,7 +1277,7 @@ Wrócił w końcu Codewars, kilka zadanek zrobionych, stworzyłem plik do nauki 
 
 24.03-30.03
 
-Na Codewars ćwiczę metody, muszę więcej ćwiczyć, żeby wyrobić pamięć mięśniową.
+Na Codewars ćwiczę metody, muszę więcej ćwiczyć, żeby wyrobić pamięć mięśniową. Sporo powtórek, mozolnie idzie.
 
 (In progress)
 React, Codeacademy, plan Książka, powtórka
