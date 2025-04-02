@@ -1285,6 +1285,8 @@ Na Codewars ćwiczę metody, muszę więcej ćwiczyć, żeby wyrobić pamięć m
 
 31.03-06.04
 
+Zabiegany tydzień głównie słucham wykładów/filmików.
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
