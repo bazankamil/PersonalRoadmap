@@ -1293,7 +1293,7 @@ Zabiegany tydzień głównie słucham wykładów/filmików. Sporo teorii, ale ma
 
 07.04-13.04
 
-Codewars i teoria, ciągle nie potrafię wystartować z samą praktyką.
+Codewars i teoria, ciągle nie potrafię wystartować z samą praktyką. Nauka Algorytmów- podstawy.
 
 (In progress)
 React, Codeacademy, plan Książka, powtórka
