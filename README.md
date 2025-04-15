@@ -1295,6 +1295,12 @@ Zabiegany tydzień głównie słucham wykładów/filmików. Sporo teorii, ale ma
 
 Codewars i teoria, ciągle nie potrafię wystartować z samą praktyką. Nauka Algorytmów- podstawy.
 
+---
+
+### Sto Trzydziesty pierwszy tydzień
+
+14.04-20.04
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
