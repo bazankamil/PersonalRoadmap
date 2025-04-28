@@ -1301,6 +1301,8 @@ Codewars i teoria, ciągle nie potrafię wystartować z samą praktyką. Nauka A
 
 14.04-20.04
 
+Słaby tydzień- budowa altany.
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
