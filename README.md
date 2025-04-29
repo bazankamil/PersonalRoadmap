@@ -1303,6 +1303,12 @@ Codewars i teoria, ciągle nie potrafię wystartować z samą praktyką. Nauka A
 
 Słaby tydzień- budowa altany.
 
+---
+
+### Sto Trzydziesty drugi tydzień
+
+21.04-27.04
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
