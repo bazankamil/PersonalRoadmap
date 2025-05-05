@@ -1297,17 +1297,11 @@ Codewars i teoria, ciągle nie potrafię wystartować z samą praktyką. Nauka A
 
 ---
 
-### Sto Trzydziesty pierwszy tydzień
+### Sto Trzydziesty pierwszy tydzień, Sto Trzydziesty drugi, Sto Trzydziesty trzeci
 
-14.04-20.04
+14.04-04.05
 
-Słaby tydzień- budowa altany.
-
----
-
-### Sto Trzydziesty drugi tydzień
-
-21.04-27.04
+Słabe tygodnie, budowa altany, lekkie czytanie teorii
 
 (In progress)
 React, Codeacademy, plan Książka, powtórka
