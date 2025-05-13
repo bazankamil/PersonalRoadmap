@@ -1309,6 +1309,8 @@ Słabe tygodnie, budowa altany, lekkie czytanie teorii
 
 12.05-18.05
 
+fCC powtórka JS.
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
