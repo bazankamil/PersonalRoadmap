@@ -1317,6 +1317,8 @@ fCC powtórka JS, planowanie nauki
 
 19.05-25.05
 
+fCC powtórka JS
+
 (In progress)
 React, Codeacademy, plan Książka, powtórka
 (In progress)
